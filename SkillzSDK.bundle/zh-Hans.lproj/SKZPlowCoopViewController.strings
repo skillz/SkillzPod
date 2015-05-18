@@ -1,0 +1,45 @@
+/* Class = "UILabel"; text = "SEARCHING"; ObjectID = "0H2-MH-N87"; */
+"0H2-MH-N87.text" = "正在搜索";
+
+/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "6nZ-o7-uTi"; */
+"6nZ-o7-uTi.accessibilityLabel" = "开辟下一个";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "6nZ-o7-uTi"; */
+"6nZ-o7-uTi.normalTitle" = "下一个";
+
+/* Class = "UILabel"; text = "XXX,XXX"; ObjectID = "8Rs-2j-Fj1"; */
+"8Rs-2j-Fj1.text" = "XXX,XXX";
+
+/* Class = "UILabel"; text = "Your opponent forfeited their turn so we’ve replaced them with a substitute"; ObjectID = "Dq2-zk-3MA"; */
+"Dq2-zk-3MA.text" = "你的对手已放弃其回合，所以我们为你提供了一名替补";
+
+/* Class = "UILabel"; text = "TEAM PRIZE"; ObjectID = "Q9R-K8-Mk5"; */
+"Q9R-K8-Mk5.text" = "团队奖品";
+
+/* Class = "UILabel"; text = "VS"; ObjectID = "XTD-lW-BgI"; */
+"XTD-lW-BgI.text" = "VS";
+
+/* Class = "UILabel"; text = "YOUR TEAM"; ObjectID = "XkK-s4-y50"; */
+"XkK-s4-y50.text" = "你的团队";
+
+/* Class = "UILabel"; text = "XXX,XXX"; ObjectID = "cSS-Fj-s7f"; */
+"cSS-Fj-s7f.text" = "XXX,XXX";
+
+/* Class = "UILabel"; text = "XXX,XXX"; ObjectID = "hnJ-Fg-jEH"; */
+"hnJ-Fg-jEH.text" = "XXX,XXX";
+
+/* Class = "UILabel"; text = "SEARCHING"; ObjectID = "kNW-vP-bqb"; */
+"kNW-vP-bqb.text" = "正在搜索";
+
+/* Class = "UILabel"; text = "YOUR TEAM WON!"; ObjectID = "oFD-Yn-2CJ"; */
+"oFD-Yn-2CJ.text" = "你的团队赢了！";
+
+/* Class = "UILabel"; text = "THEIR TEAM"; ObjectID = "piW-ZK-Kn7"; */
+"piW-ZK-Kn7.text" = "他们的团队";
+
+/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "q2k-Jg-9jZ"; */
+"q2k-Jg-9jZ.accessibilityLabel" = "开辟下一个";
+
+/* Class = "UIButton"; normalTitle = "SHARE"; ObjectID = "q2k-Jg-9jZ"; */
+"q2k-Jg-9jZ.normalTitle" = "分享";
+

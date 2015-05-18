@@ -1,0 +1,24 @@
+/* Class = "UITextField"; placeholder = "Enter email address"; ObjectID = "CM3-cd-9bo"; */
+"CM3-cd-9bo.placeholder" = "Digite o e-mail";
+
+/* Class = "UILabel"; text = "CONGRATULATIONS!"; ObjectID = "GrV-e7-w6z"; */
+"GrV-e7-w6z.text" = "PARABÉNS!";
+
+/* Class = "UITextField"; placeholder = "Enter password"; ObjectID = "Zc9-ML-POd"; */
+"Zc9-ML-POd.placeholder" = "Digite a senha";
+
+/* Class = "UILabel"; text = "Enter your email address and a password to save your account."; ObjectID = "fh4-QL-adq"; */
+"fh4-QL-adq.text" = "Digite seu endereço de e-mail e senha para salvar sua conta.";
+
+/* Class = "UILabel"; text = "You have completed your first deposit!"; ObjectID = "g7C-XS-upv"; */
+"g7C-XS-upv.text" = "Você concluiu seu primeiro depósito!";
+
+/* Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "i8Q-Vx-7Hs"; */
+"i8Q-Vx-7Hs.placeholder" = "Confirme a senha";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "iIZ-1e-eI8"; */
+"iIZ-1e-eI8.normalTitle" = "ENVIAR";
+
+/* Class = "UILabel"; text = "Yes, sign me up for news and updates from Skillz"; ObjectID = "wKP-A8-sEl"; */
+"wKP-A8-sEl.text" = "Sim, inclua-me para receber notícias e atualizações da Skillz";
+

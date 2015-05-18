@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "You Won!"; ObjectID = "3wc-x4-ihl"; */
+"3wc-x4-ihl.text" = "你赢了！";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "5Gg-q4-Fvh"; */
+"5Gg-q4-Fvh.normalTitle" = "下一个";
+
+/* Class = "UILabel"; text = "WELCOME BACK"; ObjectID = "OWd-hG-7Us"; */
+"OWd-hG-7Us.text" = "欢迎回来";
+

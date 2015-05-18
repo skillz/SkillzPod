@@ -1,0 +1,21 @@
+/* Class = "UIButton"; normalTitle = "See Event Details"; ObjectID = "0Tw-NH-ibw"; */
+"0Tw-NH-ibw.normalTitle" = "Vedi dettagli sugli eventi";
+
+/* Class = "UILabel"; text = "The Drunken Duel"; ObjectID = "ErG-RI-1On"; */
+"ErG-RI-1On.text" = "PREMI";
+
+/* Class = "UILabel"; text = "MATCH DETAILS"; ObjectID = "Pkh-wO-zPf"; */
+"Pkh-wO-zPf.text" = "DETTAGLI PARTITA";
+
+/* Class = "UILabel"; text = "Team with the best scoring player wins!"; ObjectID = "R9g-zb-Sgs"; */
+"R9g-zb-Sgs.text" = "Vince la squadra del giocatore che totalizza più punti!";
+
+/* Class = "UILabel"; text = "2 Players"; ObjectID = "khK-BC-Wnr"; */
+"khK-BC-Wnr.text" = "2 giocatori";
+
+/* (No Commment) */
+"n56-Ag-rHr.text" = "10";
+
+/* Class = "UILabel"; text = "Entry Fee:"; ObjectID = "quG-Dk-Zlf"; */
+"quG-Dk-Zlf.text" = "Iscrizione:";
+

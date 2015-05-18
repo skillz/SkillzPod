@@ -1,0 +1,6 @@
+/* Class = "UILabel"; text = "Skillz Activation Failed!"; ObjectID = "OA9-NL-1YL"; */
+"OA9-NL-1YL.text" = "Falha na ativação do Skillz!";
+
+/* Class = "UILabel"; text = "Skillz could not be activated for this game. Please ensure that you have the latest version and try again.\n\nIf you believe this message to be in error, please contact support@skillz.com."; ObjectID = "vPE-nr-LSY"; */
+"vPE-nr-LSY.text" = "Não foi possível ativar o Skillz para esse jogo. Verifique se você está com a versão mais recente e tente novamente.\n\nSe acredita que isso é um erro, informe-nos:, entre em contato com support@skillz.com.";
+

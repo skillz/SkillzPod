@@ -1,0 +1,21 @@
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "12H-Ey-G1c"; */
+"12H-Ey-G1c.normalTitle" = "继续";
+
+/* Class = "UIButton"; normalTitle = "Enter Your Credit Card Number"; ObjectID = "Y56-uS-ZZp"; */
+"Y56-uS-ZZp.normalTitle" = "请输入你的信用卡号";
+
+/* Class = "UILabel"; text = "875,215"; ObjectID = "YsT-Yr-gbL"; */
+"YsT-Yr-gbL.text" = "875,215";
+
+/* Class = "UILabel"; text = "STAFF"; ObjectID = "dbh-pI-A6Y"; */
+"dbh-pI-A6Y.text" = "职员";
+
+/* Class = "UILabel"; text = "(Your card will not be charged)"; ObjectID = "e1M-WF-IWJ"; */
+"e1M-WF-IWJ.text" = "（你的卡不会被收取任何费用）";
+
+/* Class = "UILabel"; text = "YOUR\nSCORE"; ObjectID = "eRC-Cj-jFq"; */
+"eRC-Cj-jFq.text" = "你的\n得分";
+
+/* Class = "UILabel"; text = "We need to verify \nyour age before continuing"; ObjectID = "i6u-XM-fHB"; */
+"i6u-XM-fHB.text" = "我们需要验证你的年龄，\n然后才能继续";
+

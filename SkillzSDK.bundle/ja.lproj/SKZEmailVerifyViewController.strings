@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "EMAIL VERIFICATION REQUIRED"; ObjectID = "37B-2S-YDa"; */
+"37B-2S-YDa.text" = "Eメールアドレスの認証が必須です";
+
+/* Class = "UITextField"; placeholder = "Please enter email"; ObjectID = "g93-g9-bLd"; */
+"g93-g9-bLd.placeholder" = "Eメールを入力してください";
+
+/* Class = "UIButton"; normalTitle = "RESEND EMAIL"; ObjectID = "iYX-HB-lZL"; */
+"iYX-HB-lZL.normalTitle" = "Eメールを再送";
+

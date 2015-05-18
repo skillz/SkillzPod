@@ -1,0 +1,21 @@
+/* Class = "UILabel"; text = "MATCH DETAILS"; ObjectID = "Pkh-wO-zPf"; */
+"Pkh-wO-zPf.text" = "比赛详情";
+
+/* Class = "UILabel"; text = "Entry Fee:"; ObjectID = "bFn-Qn-uAk"; */
+"bFn-Qn-uAk.text" = "入场费：";
+
+/* Class = "UILabel"; text = "2 Players"; ObjectID = "ncb-Sx-dPH"; */
+"ncb-Sx-dPH.text" = "2 位玩家";
+
+/* Class = "UILabel"; text = "Team with the best combined score wins!"; ObjectID = "pEu-Ne-OYX"; */
+"pEu-Ne-OYX.text" = "合并得分最高的团队获胜！";
+
+/* (No Commment) */
+"srb-xz-4wR.text" = "10";
+
+/* Class = "UIButton"; normalTitle = "See Event Details"; ObjectID = "xi3-xd-VUY"; */
+"xi3-xd-VUY.normalTitle" = "查看活动详细信息";
+
+/* Class = "UILabel"; text = "The Drunken Duel"; ObjectID = "y76-qg-nNy"; */
+"y76-qg-nNy.text" = "醉汉的决斗";
+

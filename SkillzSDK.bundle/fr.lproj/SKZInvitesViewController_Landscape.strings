@@ -1,0 +1,18 @@
+/* Class = "UILabel"; text = "IN BONUS CASH"; ObjectID = "GlX-cH-wP4"; */
+"GlX-cH-wP4.text" = "EN ARGENT BONUS";
+
+/* Class = "UILabel"; text = "SEND REMINDERS TO ALL YOUR FRIENDS WHO YOU INVITED"; ObjectID = "SC5-X7-uQg"; */
+"SC5-X7-uQg.text" = "ENVOYEZ UN RAPPEL À TOUS LES AMIS QUE VOUS AVEZ INVITÉS !";
+
+/* Class = "UILabel"; text = "You currently have zero invites"; ObjectID = "Uhl-fO-YIM"; */
+"Uhl-fO-YIM.text" = "Vous n'avez actuellement aucune invitation";
+
+/* Class = "UIButton"; normalTitle = "INVITE YOUR FRIENDS"; ObjectID = "glD-VQ-KtR"; */
+"glD-VQ-KtR.normalTitle" = "INVITEZ VOS AMIS";
+
+/* Class = "UILabel"; text = "GET"; ObjectID = "gr8-BQ-pIq"; */
+"gr8-BQ-pIq.text" = "OBTENEZ";
+
+/* Class = "UILabel"; text = "For each friend who makes a deposit"; ObjectID = "tTy-bQ-OVK"; */
+"tTy-bQ-OVK.text" = "Pour chaque ami qui effectue un dépôt";
+

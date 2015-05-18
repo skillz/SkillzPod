@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "Insufficient Z"; ObjectID = "Fqc-zN-XH1"; */
+"Fqc-zN-XH1.text" = "Nicht genug Z";
+
+/* Class = "UILabel"; text = "You don't have enough Z in your account to play this tournament. Tap 'Earn' to get more."; ObjectID = "I69-Ad-Bzc"; */
+"I69-Ad-Bzc.text" = "Du hast nicht genug Z auf deinem Konto, um dieses Turnier zu spielen. Tippen Sie 'verdienen', um mehr zu bekommen.";
+
+/* Class = "UIButton"; normalTitle = "EARN"; ObjectID = "pFb-Sb-mCX"; */
+"pFb-Sb-mCX.normalTitle" = "GEWINNEN";
+

@@ -1,0 +1,12 @@
+/* Class = "UIView"; accessibilityLabel = "Playable Matches Overlay"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Spielbare Matches - Überlagerung";
+
+/* Class = "UIButton"; accessibilityLabel = "Enter Promo Button"; ObjectID = "Egi-5g-98s"; */
+"Egi-5g-98s.accessibilityLabel" = "Promo-Eingabe - Taste";
+
+/* Class = "UIButton"; normalTitle = "ENTER MATCH CODE"; ObjectID = "Egi-5g-98s"; */
+"Egi-5g-98s.normalTitle" = "MATCH-CODE EINGEBEN";
+
+/* Class = "UILabel"; text = "ENTER MATCH CODE:"; ObjectID = "ehy-GM-X8M"; */
+"ehy-GM-X8M.text" = "MATCH-CODE EINGEBEN:";
+

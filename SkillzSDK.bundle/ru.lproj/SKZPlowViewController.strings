@@ -1,0 +1,21 @@
+/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "L4R-kl-8Ts"; */
+"L4R-kl-8Ts.accessibilityLabel" = "ИГРАТЬ еще";
+
+/* Class = "UIButton"; normalTitle = "PLAY AGAIN"; ObjectID = "L4R-kl-8Ts"; */
+"L4R-kl-8Ts.normalTitle" = "ИГРАТЬ ЕЩЕ РАЗ";
+
+/* Class = "UIButton"; normalTitle = "SHARE"; ObjectID = "Svw-ea-wv2"; */
+"Svw-ea-wv2.normalTitle" = "ПОДЕЛИТЬСЯ";
+
+/* Class = "UIButton"; normalTitle = "WATCH REPLAY"; ObjectID = "eQy-4i-Ige"; */
+"eQy-4i-Ige.normalTitle" = "СМОТРЕТЬ ПОВТОР";
+
+/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "ecJ-BI-cK7"; */
+"ecJ-BI-cK7.accessibilityLabel" = "ИГРАТЬ еще";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "ecJ-BI-cK7"; */
+"ecJ-BI-cK7.normalTitle" = "ДАЛЕЕ";
+
+/* Class = "UILabel"; text = "YOU PLACED"; ObjectID = "oGj-Ms-jwf"; */
+"oGj-Ms-jwf.text" = "ВАШЕ МЕСТО";
+

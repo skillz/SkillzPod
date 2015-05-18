@@ -1,0 +1,18 @@
+/* Class = "UILabel"; text = "IN BONUS CASH"; ObjectID = "GlX-cH-wP4"; */
+"GlX-cH-wP4.text" = "以额外奖励现金的形式";
+
+/* Class = "UILabel"; text = "SEND REMINDERS TO ALL YOUR FRIENDS WHO YOU INVITED"; ObjectID = "SC5-X7-uQg"; */
+"SC5-X7-uQg.text" = "向所有你邀请过的好友发送提醒！";
+
+/* Class = "UILabel"; text = "You currently have zero invites"; ObjectID = "Uhl-fO-YIM"; */
+"Uhl-fO-YIM.text" = "你当前的邀请数为零";
+
+/* Class = "UIButton"; normalTitle = "INVITE YOUR FRIENDS"; ObjectID = "glD-VQ-KtR"; */
+"glD-VQ-KtR.normalTitle" = "邀请你的好友！";
+
+/* Class = "UILabel"; text = "GET"; ObjectID = "gr8-BQ-pIq"; */
+"gr8-BQ-pIq.text" = "获得";
+
+/* Class = "UILabel"; text = "For each friend who makes a deposit"; ObjectID = "tTy-bQ-OVK"; */
+"tTy-bQ-OVK.text" = "凡是完成存款的好友";
+

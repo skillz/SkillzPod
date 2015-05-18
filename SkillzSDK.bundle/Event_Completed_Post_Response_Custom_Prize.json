@@ -1,0 +1,246 @@
+{
+	"success": true,
+	"status": 0,
+	"resultReferences": {
+		"tournamentList": [{
+			"tournament": {
+				"id": 2176,
+				"templateId": 2527,
+				"name": "Showcase",
+				"description": "No description",
+				"gameId": "733",
+				"type": 1,
+				"state": 3,
+				"maxNumOfPlayers": 2147483647,
+				"entryFee": 1.0,
+				"prize": 100,
+				"prizePoints": 0,
+				"rewardPoints": 0,
+				"entryPoints": 0,
+				"timeToStart": 3600,
+				"secondsToExpire": 240000,
+				"expire": "2015-01-17T09:45:00Z",
+				"dateCreated": "2015-01-14T17:40:30Z",
+				"lastUpdated": "2015-01-17T09:45:00Z",
+				"numOfPrizes": 1,
+				"prizes": [{
+					"prize": 100.0000,
+					"prizePoints": 0,
+					"position": 1
+				}],
+				"reEntry": true,
+				"dateEnded": "2015-01-17T09:45:00Z",
+				"rematch": false,
+				"ticketz": 1,
+				"event": {
+					"name": "Price Is Right",
+					"description": "<b>Price Is Right&nbsp;<\u002fb><i>Price Is Right<u>&nbsp;<\u002fu><\u002fi><u>Price Is Right&nbsp;<\u002fu><span class=\"wysiwyg-color-green\">Price Is Right<\u002fspan>",
+					"logo": "https://skillz-content-dev.s3.amazonaws.com/uploads/diamond-strike-icon-128.png",
+					"backgroundColor": "#fff",
+					"start": "2015-01-14T15:05:00Z",
+					"end": "2015-01-17T14:58:00Z"
+				},
+				"customPrizes": [{
+					"name": "Vacation Showcase",
+					"description": "Sweet vacay",
+					"estimatedValue": 0.00,
+					"position": 1
+				}, {
+					"name": "A Stocking Full Of Coal",
+					"description": "heavy.",
+					"estimatedValue": 0.00,
+					"position": 2
+				}, {
+					"name": "A bag of poo",
+					"description": "smelly",
+					"estimatedValue": 0.00,
+					"position": 3
+				}],
+				"eventEntryCode": null,
+				"eventEntryCodeRequired": null
+			},
+			"playerMetrics": [{
+				"secUserId": "9125",
+				"tournamentPlayerId": 12810678,
+				"outcome": "Draw",
+				"username": "EquableFancy",
+				"customPrize": {
+					"name": "A Stocking Full Of Coal",
+					"description": "heavy.",
+					"estimatedValue": 0.00,
+					"position": 2
+				},
+				"status": 4,
+				"started": "2015-01-14T20:40:05Z",
+				"replayUrl": "https://s3.amazonaws.com/skillz-replay-dev/12810678.mp4",
+				"metrics": [{
+					"name": "score",
+					"value": "998888.00"
+				}],
+				"entryId": "7",
+				"position": 2,
+				"prize": 50.0,
+				"prizePoints": 0,
+				"tauntText": "I won!",
+				"profilePictureUrl": "http://cdn.qa.skillz.com/profile-pics/85a999b5-ce41-46b7-a169-ccbef5cffc37",
+				"prizeTicketz": 990,
+				"flagUrl": "http://cdn.qa.skillz.com/flags/US.png"
+			}, {
+				"secUserId": "6771",
+				"tournamentPlayerId": 12810721,
+				"outcome": "Loss",
+				"username": "QA2",
+				"status": 4,
+				"started": "2015-01-14T21:32:47Z",
+				"replayUrl": "https://s3.amazonaws.com/skillz-replay-dev/no_replay_found.mp4",
+				"metrics": [{
+					"name": "score",
+					"value": "999999.00"
+				}],
+				"entryId": "8",
+				"position": 1,
+				"prize": 0.0,
+				"prizePoints": 0,
+				"tauntText": "Double or nothing?",
+				"profilePictureUrl": "http://cdn.qa.skillz.com/profile-pics/ef737b30-2c60-47c9-95d3-c81c81f77f4a",
+				"prizeTicketz": 1980,
+				"flagUrl": "http://cdn.qa.skillz.com/flags/US.png"
+			}, {
+				"secUserId": "10953",
+				"tournamentPlayerId": 12810768,
+				"outcome": "Loss",
+				"username": "DocWindyWorkable",
+				"status": 4,
+				"started": "2015-01-15T00:00:00Z",
+				"replayUrl": "https://s3.amazonaws.com/skillz-replay-dev/12810768.mp4",
+				"metrics": [{
+					"name": "score",
+					"value": "11282.00"
+				}],
+				"entryId": "19",
+				"position": 7,
+				"prize": 0.0,
+				"prizePoints": 0,
+				"tauntText": null,
+				"profilePictureUrl": "http://cdn.qa.skillz.com/default-profile-pics/Avatar_008_Orange_bg3.png",
+				"prizeTicketz": 1485,
+				"flagUrl": "http://cdn.qa.skillz.com/flags/US.png"
+			}, {
+				"secUserId": "6670",
+				"tournamentPlayerId": 12810818,
+				"outcome": "Loss",
+				"username": "QA1",
+				"status": 4,
+				"started": "2015-01-15T17:22:24Z",
+				"replayUrl": "https://s3.amazonaws.com/skillz-replay-dev/12810818.mp4",
+				"metrics": [{
+					"name": "score",
+					"value": "56117.00"
+				}],
+				"entryId": "37",
+				"position": 4,
+				"prize": 0.0,
+				"prizePoints": 0,
+				"tauntText": "Nice score",
+				"profilePictureUrl": "http://cdn.qa.skillz.com/profile-pics/e3352f7c-3644-4767-b759-43bd92170542",
+				"prizeTicketz": 1980,
+				"flagUrl": "http://cdn.qa.skillz.com/flags/US.png"
+			}, {
+				"secUserId": "11112",
+				"tournamentPlayerId": 12810837,
+				"outcome": "Loss",
+				"username": "BYETRA",
+				"status": 4,
+				"started": "2015-01-15T18:31:30Z",
+				"replayUrl": "https://s3.amazonaws.com/skillz-replay-dev/12810837.mp4",
+				"metrics": [{
+					"name": "score",
+					"value": "44696.00"
+				}],
+				"entryId": "43",
+				"position": 5,
+				"prize": 0.0,
+				"prizePoints": 0,
+				"tauntText": null,
+				"profilePictureUrl": "http://cdn.qa.skillz.com/profile-pics/0fd5c286-bb1b-4331-b7de-d1dde37c43e4",
+				"prizeTicketz": 495,
+				"flagUrl": "http://cdn.qa.skillz.com/flags/US.png"
+			}, {
+				"secUserId": "11146",
+				"tournamentPlayerId": 12810857,
+				"outcome": "Draw",
+				"username": "BetterCallSaul",
+				"customPrize": {
+					"name": "Sweet Vacation",
+					"description": "heavy.",
+					"estimatedValue": 0.00,
+					"position": 1
+				},
+				"status": 4,
+				"started": "2015-01-15T21:15:08Z",
+				"replayUrl": "https://s3.amazonaws.com/skillz-replay-dev/no_replay_found.mp4",
+				"metrics": [{
+					"name": "score",
+					"value": "19064.00"
+				}],
+				"entryId": "51",
+				"position": 6,
+				"prize": 50.0,
+				"prizePoints": 0,
+				"tauntText": null,
+				"profilePictureUrl": "http://cdn.qa.skillz.com/profile-pics/255ca851-8d1f-4406-8aac-d8582ad7346e",
+				"prizeTicketz": 495,
+				"flagUrl": "http://cdn.qa.skillz.com/flags/US.png"
+			}, {
+				"secUserId": "10954",
+				"tournamentPlayerId": 12810876,
+				"outcome": "Loss",
+				"username": "LateCushion",
+				"status": 4,
+				"started": "2015-01-15T23:34:42Z",
+				"replayUrl": "https://s3.amazonaws.com/skillz-replay-dev/no_replay_found.mp4",
+				"metrics": [{
+					"name": "score",
+					"value": "593948.00"
+				}],
+				"entryId": "53",
+				"position": 3,
+				"prize": 0.0,
+				"prizePoints": 0,
+				"tauntText": null,
+				"profilePictureUrl": "http://cdn.qa.skillz.com/default-profile-pics/Avatar_010_DarkBlue_bg3.png",
+				"prizeTicketz": 495,
+				"flagUrl": "http://cdn.qa.skillz.com/flags/US.png"
+			}],
+			"teams": null,
+			"showRematch": false,
+			"hasReplay": true,
+			"playersTurn": null,
+			"turnExpires": null,
+			"playerCount": 8
+		}],
+		"promptForAgeVerification": false,
+		"shareMessage": "Nightly Portrait SKZ showdown. Check it out!",
+		"shareURL": "https://itunes.apple.com/us/app/diamond-strike/id567160401?mt=8",
+		"shareSubject": "I've got Skillz!",
+		"user": {
+			"userId": "6771",
+			"username": "QA2",
+			"type": "FULL",
+			"profilePictureUrl": "http://cdn.qa.skillz.com/profile-pics/ef737b30-2c60-47c9-95d3-c81c81f77f4a",
+			"flagUrl": "http://cdn.qa.skillz.com/flags/US.png",
+			"balance": 942.9683,
+			"lockedBalance": 20.58199999999998,
+			"pointsBalance": 4361,
+			"pin": null
+		},
+		"leaderboards": {
+			"cashRank": 5,
+			"zRank": null
+		}
+	},
+	"messages": "",
+	"timestamp": "2015-01-09T15:58:43Z",
+	"hostname": "qa.skillz.com",
+	"authtoken": "5227C0C061B656BF4E79CFA5BE6D3A38"
+}

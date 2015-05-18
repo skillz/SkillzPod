@@ -1,0 +1,57 @@
+/* Class = "UILabel"; text = "$2.00"; ObjectID = "0Kv-QK-6KS"; */
+"0Kv-QK-6KS.text" = "$2.00";
+
+/* Class = "UILabel"; text = "DEPOSIT"; ObjectID = "5Px-EG-QxJ"; */
+"5Px-EG-QxJ.text" = "DÉPÔT";
+
+/* Class = "UILabel"; text = "CURRENT BALANCE"; ObjectID = "7wG-Xp-9yD"; */
+"7wG-Xp-9yD.text" = "SOLDE ACTUEL";
+
+/* Class = "UILabel"; text = "$X4"; ObjectID = "A3B-18-XLC"; */
+"A3B-18-XLC.text" = "$X4";
+
+/* Class = "UIButton"; normalTitle = "PROMO CODE BONUS:"; ObjectID = "DfW-Tj-QI6"; */
+"DfW-Tj-QI6.normalTitle" = "BONUS CODE PROMOTIONNEL :";
+
+/* Class = "UILabel"; text = "$1X"; ObjectID = "IQt-lF-7Mv"; */
+"IQt-lF-7Mv.text" = "$1X";
+
+/* Class = "UILabel"; text = "$22.25"; ObjectID = "ITd-eN-y02"; */
+"ITd-eN-y02.text" = "$22.25";
+
+/* Class = "UIView"; accessibilityLabel = "Deposit Entered Card View Button"; ObjectID = "ItP-NM-553"; */
+"ItP-NM-553.accessibilityLabel" = "Bouton de vue de carte dépôt effectué";
+
+/* Class = "UIButton"; accessibilityLabel = "Credit Card Button"; ObjectID = "JTi-Hw-nwL"; */
+"JTi-Hw-nwL.accessibilityLabel" = "Bouton de carte bancaire";
+
+/* Class = "UIButton"; normalTitle = "CREDIT CARD"; ObjectID = "JTi-Hw-nwL"; */
+"JTi-Hw-nwL.normalTitle" = "CARTE BANCAIRE";
+
+/* Class = "UILabel"; text = "$20.00"; ObjectID = "N7x-Hd-sYJ"; */
+"N7x-Hd-sYJ.text" = "$20.00";
+
+/* Class = "UILabel"; text = "BONUS"; ObjectID = "P7H-YE-C9O"; */
+"P7H-YE-C9O.text" = "BONUS";
+
+/* Class = "UILabel"; text = "+"; ObjectID = "SNO-Sa-klk"; */
+"SNO-Sa-klk.text" = "+";
+
+/* Class = "UILabel"; text = "+ BONUS"; ObjectID = "hjn-Hv-u0S"; */
+"hjn-Hv-u0S.text" = "BONUS";
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "lHl-IX-YnG"; */
+"lHl-IX-YnG.text" = "$0.00";
+
+/* Class = "UILabel"; text = "NEW BALANCE"; ObjectID = "nMC-kX-ybM"; */
+"nMC-kX-ybM.text" = "NOUVEAU SOLDE";
+
+/* Class = "UIButton"; accessibilityLabel = "PayPal Button"; ObjectID = "wDS-9Z-ZVA"; */
+"wDS-9Z-ZVA.accessibilityLabel" = "Bouton PayPal";
+
+/* Class = "UIButton"; accessibilityLabel = "Submit Button"; ObjectID = "xM1-hT-cON"; */
+"xM1-hT-cON.accessibilityLabel" = "Bouton soumettre";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT PAYMENT"; ObjectID = "xM1-hT-cON"; */
+"xM1-hT-cON.normalTitle" = "SOUMETTRE LE PAIEMENT";
+

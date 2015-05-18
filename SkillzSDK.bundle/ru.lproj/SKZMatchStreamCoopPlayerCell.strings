@@ -1,0 +1,24 @@
+/* Class = "UILabel"; text = "VS"; ObjectID = "0ig-xZ-pgo"; */
+"0ig-xZ-pgo.text" = "ПРОТИВ";
+
+/* Class = "UILabel"; text = "Remind to Play"; ObjectID = "Qut-ES-guf"; */
+"Qut-ES-guf.text" = "Напомнить об игре";
+
+/* Class = "UILabel"; text = "EnormousClock"; ObjectID = "T5g-EN-0fV"; */
+"T5g-EN-0fV.text" = "EnormousClock";
+
+/* Class = "UILabel"; text = "WAITING 🕑"; ObjectID = "egn-YC-24e"; */
+"egn-YC-24e.text" = "ОЖИДАНИЕ 🕑";
+
+/* Class = "UILabel"; text = "Your Score"; ObjectID = "oON-Xh-RNP"; */
+"oON-Xh-RNP.text" = "Ваш счет";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pYL-QN-Vrh"; */
+"pYL-QN-Vrh.normalTitle" = "Кнопка";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pvm-Fu-Z55"; */
+"pvm-Fu-Z55.normalTitle" = "Кнопка";
+
+/* Class = "UILabel"; text = "🕑 WAITING"; ObjectID = "ywD-DT-l2e"; */
+"ywD-DT-l2e.text" = "🕑 ОЖИДАНИЕ";
+

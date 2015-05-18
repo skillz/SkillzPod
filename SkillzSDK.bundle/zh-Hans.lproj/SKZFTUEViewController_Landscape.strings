@@ -1,0 +1,21 @@
+/* Class = "UIButton"; accessibilityLabel = "SignInButton"; ObjectID = "120"; */
+"120.accessibilityLabel" = "登录按钮";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "120"; */
+"120.normalTitle" = "登录";
+
+/* Class = "UIButton"; accessibilityLabel = "FTU Next"; ObjectID = "128"; */
+"128.accessibilityLabel" = "下一个 FTU";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "128"; */
+"128.normalTitle" = "下一个";
+
+/* Class = "UILabel"; text = "Climb the Rankings to Win Weekly Prizes"; ObjectID = "335"; */
+"335.text" = "登上排名以赢取每周奖品";
+
+/* Class = "UILabel"; text = "Go Pro or Just Practice"; ObjectID = "336"; */
+"336.text" = "玩专业的还是仅练习";
+
+/* Class = "UILabel"; text = "Compete to Win Prizes"; ObjectID = "339"; */
+"339.text" = "完成以赢取奖品";
+

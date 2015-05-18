@@ -1,0 +1,63 @@
+/* Class = "UILabel"; text = "Use Z to play practice matches"; ObjectID = "5R5-md-34l"; */
+"5R5-md-34l.text" = "Учебные матчи играются на Z.";
+
+/* Class = "UILabel"; text = "Use cash to play for real money"; ObjectID = "7Vm-bj-5B5"; */
+"7Vm-bj-5B5.text" = "Для игры на реальные деньги требуются наличные деньги";
+
+/* Class = "UILabel"; text = "WANT TO PLAY WITH FRIENDS?"; ObjectID = "07e-Ia-0I2"; */
+"07e-Ia-0I2.text" = "ХОТИТЕ ИГРАТЬ С ДРУЗЬЯМИ?";
+
+/* (No Commment) */
+"Class" = "Метка IBUI";
+
+/* Class = "UIButton"; normalTitle = "GAMES"; ObjectID = "FDe-cZ-ez1"; */
+"FDe-cZ-ez1.normalTitle" = "ИГРЫ";
+
+/* Class = "UILabel"; text = "Visit the store to add cash or earn more Z"; ObjectID = "IC6-ER-Tuv"; */
+"IC6-ER-Tuv.text" = "Посетите магазин для добавления наличных или получения дополнительных Z";
+
+/* Class = "UILabel"; text = "Play to win weekly prizes!"; ObjectID = "JjH-Rz-hHf"; */
+"JjH-Rz-hHf.text" = "Разыгрываются еженедельные призы!";
+
+/* Class = "UILabel"; text = "Out of Cash or       ?"; ObjectID = "Khk-pT-Zh6"; */
+"Khk-pT-Zh6.text" = "Недостаточно денег или       ?";
+
+/* Class = "UILabel"; text = "This tutorial will quickly get you up and running on the Skillz Tournament system"; ObjectID = "Lx1-yD-A3T"; */
+"Lx1-yD-A3T.text" = "Это руководство позволяет быстро освоить систему турниров Skillz.";
+
+/* (No Commment) */
+"ObjectID" = "07e-Ia-0I2";
+
+/* Class = "UILabel"; text = "Tap Games to select a match"; ObjectID = "Q6l-Tj-FmH"; */
+"Q6l-Tj-FmH.text" = "Нажмите «Игры», чтобы выбрать матч";
+
+/* Class = "UIButton"; normalTitle = "SKILLZ STORE"; ObjectID = "Rai-XR-n9r"; */
+"Rai-XR-n9r.normalTitle" = "МАГАЗИН SKILLZ";
+
+/* Class = "UILabel"; text = "SKILLZ CURRENCIES"; ObjectID = "XTa-4n-3O3"; */
+"XTa-4n-3O3.text" = "ДЕНЕЖНЫЕ СИСТЕМЫ SKILLZ";
+
+/* Class = "UIButton"; normalTitle = "FRIENDS"; ObjectID = "bJv-IS-uva"; */
+"bJv-IS-uva.normalTitle" = "ДРУЗЬЯ";
+
+/* Class = "UILabel"; text = "READY TO WIN?"; ObjectID = "dIm-rh-W3t"; */
+"dIm-rh-W3t.text" = "ГОТОВЫ ВЫИГРЫВАТЬ?";
+
+/* Class = "UILabel"; text = "WELCOME TO SKILLZ!"; ObjectID = "dvu-98-5am"; */
+"dvu-98-5am.text" = "ДОБРО ПОЖАЛОВАТЬ В SKILLZ!";
+
+/* Class = "UILabel"; text = "Play 5 matches to unlock leagues and see your ranking."; ObjectID = "fhZ-YQ-1x4"; */
+"fhZ-YQ-1x4.text" = "Для снятия блокировки лиг и просмотра своего места необходимо сыграть 5 матчей.";
+
+/* Class = "UILabel"; text = "Redeem Ticketz™ for prizes."; ObjectID = "nPV-f6-wuU"; */
+"nPV-f6-wuU.text" = "Обменяйте Ticketz™ на призы.";
+
+/* Class = "UILabel"; text = "LEAGUES"; ObjectID = "p3N-nE-pgR"; */
+"p3N-nE-pgR.text" = "ЛИГИ";
+
+/* Class = "UIButton"; normalTitle = "LEAGUES"; ObjectID = "qtg-u3-BW3"; */
+"qtg-u3-BW3.normalTitle" = "ЛИГИ";
+
+/* Class = "UILabel"; text = "Invite friends to play and get special offers for both of you!"; ObjectID = "u6n-ct-Nfc"; */
+"u6n-ct-Nfc.text" = "Пригласите друзей в игру и получите специальные предложения для себя и друзей!";
+

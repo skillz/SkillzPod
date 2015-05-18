@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "IN BONUS CASH"; ObjectID = "6zw-Qb-6au"; */
+"6zw-Qb-6au.text" = "IN BONUS CASH";
+
+/* Class = "UILabel"; text = "For each friend who makes a deposit"; ObjectID = "A0A-Ap-hhn"; */
+"A0A-Ap-hhn.text" = "For each friend who makes a deposit";
+
+/* Class = "UILabel"; text = "GET"; ObjectID = "MwI-gl-erm"; */
+"MwI-gl-erm.text" = "GET";
+
+/* Class = "UIButton"; normalTitle = "COPY LINK"; ObjectID = "Okh-JG-Sf3"; */
+"Okh-JG-Sf3.normalTitle" = "COPY LINK";
+
+/* Class = "UILabel"; text = "Invite Link Copied!"; ObjectID = "R8Q-y0-DHB"; */
+"R8Q-y0-DHB.text" = "Invite Link Copied!";
+
+/* Class = "UILabel"; text = "INVITE YOUR FRIENDS"; ObjectID = "ZIR-xC-WMn"; */
+"ZIR-xC-WMn.text" = "INVITE YOUR FRIENDS";
+
+/* Class = "UIView"; accessibilityLabel = "Invites Overlay"; ObjectID = "abj-mk-eDY"; */
+"abj-mk-eDY.accessibilityLabel" = "Invites Overlay";
+
+/* Class = "UIButton"; normalTitle = "EMAIL"; ObjectID = "fZ9-Yv-qeg"; */
+"fZ9-Yv-qeg.normalTitle" = "EMAIL";
+
+/* Class = "UIButton"; normalTitle = "MESSAGE"; ObjectID = "he9-IY-h2n"; */
+"he9-IY-h2n.normalTitle" = "MESSAGE";
+
+/* Class = "UIButton"; normalTitle = "TWITTER"; ObjectID = "xMS-JH-am9"; */
+"xMS-JH-am9.normalTitle" = "TWITTER";

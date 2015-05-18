@@ -1,0 +1,21 @@
+/* Class = "UIView"; accessibilityLabel = "Invites Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "邀请屏幕";
+
+/* Class = "UILabel"; text = "SEND REMINDERS TO ALL YOUR FRIENDS WHO YOU INVITED"; ObjectID = "Syh-mG-Sqg"; */
+"Syh-mG-Sqg.text" = "向所有你邀请过的好友发送提醒！";
+
+/* Class = "UILabel"; text = "For each friend who makes a deposit"; ObjectID = "TLT-gQ-KC9"; */
+"TLT-gQ-KC9.text" = "凡是完成存款的好友";
+
+/* Class = "UILabel"; text = "GET"; ObjectID = "UTa-Tz-tWA"; */
+"UTa-Tz-tWA.text" = "获得";
+
+/* Class = "UILabel"; text = "You currently have zero invites"; ObjectID = "Wss-O5-nUr"; */
+"Wss-O5-nUr.text" = "你当前的邀请数为零";
+
+/* Class = "UILabel"; text = "IN BONUS CASH"; ObjectID = "d3P-Xl-mZD"; */
+"d3P-Xl-mZD.text" = "以额外奖励现金的形式";
+
+/* Class = "UIButton"; normalTitle = "INVITE YOUR FRIENDS"; ObjectID = "fp4-Qx-aqd"; */
+"fp4-Qx-aqd.normalTitle" = "邀请你的好友！";
+

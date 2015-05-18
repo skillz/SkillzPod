@@ -1,0 +1,63 @@
+/* Class = "UILabel"; text = "Use Z to play practice matches"; ObjectID = "5R5-md-34l"; */
+"5R5-md-34l.text" = "一起走吧！";
+
+/* Class = "UILabel"; text = "Use cash to play for real money"; ObjectID = "7Vm-bj-5B5"; */
+"7Vm-bj-5B5.text" = "使用帐户金额赢取现金。";
+
+/* Class = "UILabel"; text = "WANT TO PLAY WITH FRIENDS?"; ObjectID = "07e-Ia-0I2"; */
+"07e-Ia-0I2.text" = "想和好友一起玩吗？";
+
+/* (No Commment) */
+"Class" = "IBUILabel";
+
+/* Class = "UIButton"; normalTitle = "GAMES"; ObjectID = "FDe-cZ-ez1"; */
+"FDe-cZ-ez1.normalTitle" = "游戏";
+
+/* Class = "UILabel"; text = "Visit the store to add cash or earn more Z"; ObjectID = "IC6-ER-Tuv"; */
+"IC6-ER-Tuv.text" = "访问商店充值或获得更多 Z";
+
+/* Class = "UILabel"; text = "Play to win weekly prizes!"; ObjectID = "JjH-Rz-hHf"; */
+"JjH-Rz-hHf.text" = "玩游戏，获得每周奖品吧！";
+
+/* Class = "UILabel"; text = "Out of Cash or       ?"; ObjectID = "Khk-pT-Zh6"; */
+"Khk-pT-Zh6.text" = "没有现金了还是       ?";
+
+/* Class = "UILabel"; text = "This tutorial will quickly get you up and running on the Skillz Tournament system"; ObjectID = "Lx1-yD-A3T"; */
+"Lx1-yD-A3T.text" = "该指南会让你迅速上手，自如使用 Skillz 锦标赛系统";
+
+/* (No Commment) */
+"ObjectID" = "07e-Ia-0I2";
+
+/* Class = "UILabel"; text = "Tap Games to select a match"; ObjectID = "Q6l-Tj-FmH"; */
+"Q6l-Tj-FmH.text" = "轻点'游戏'选择一个比赛";
+
+/* Class = "UIButton"; normalTitle = "SKILLZ STORE"; ObjectID = "Rai-XR-n9r"; */
+"Rai-XR-n9r.normalTitle" = "SKILLZ 商店";
+
+/* Class = "UILabel"; text = "SKILLZ CURRENCIES"; ObjectID = "XTa-4n-3O3"; */
+"XTa-4n-3O3.text" = "SKILLZ 货币";
+
+/* Class = "UIButton"; normalTitle = "FRIENDS"; ObjectID = "bJv-IS-uva"; */
+"bJv-IS-uva.normalTitle" = "好友";
+
+/* Class = "UILabel"; text = "READY TO WIN?"; ObjectID = "dIm-rh-W3t"; */
+"dIm-rh-W3t.text" = "做好获胜的准备了？";
+
+/* Class = "UILabel"; text = "WELCOME TO SKILLZ!"; ObjectID = "dvu-98-5am"; */
+"dvu-98-5am.text" = "欢迎来到 SKILLZ！";
+
+/* Class = "UILabel"; text = "Play 5 matches to unlock leagues and see your ranking."; ObjectID = "fhZ-YQ-1x4"; */
+"fhZ-YQ-1x4.text" = "玩 5 场比赛可解锁联盟，并可查看你的排名。";
+
+/* Class = "UILabel"; text = "Redeem Ticketz™ for prizes."; ObjectID = "nPV-f6-wuU"; */
+"nPV-f6-wuU.text" = "用 Ticketz™ 兑换奖品。";
+
+/* Class = "UILabel"; text = "LEAGUES"; ObjectID = "p3N-nE-pgR"; */
+"p3N-nE-pgR.text" = "联盟";
+
+/* Class = "UIButton"; normalTitle = "LEAGUES"; ObjectID = "qtg-u3-BW3"; */
+"qtg-u3-BW3.normalTitle" = "联盟";
+
+/* Class = "UILabel"; text = "Invite friends to play and get special offers for both of you!"; ObjectID = "u6n-ct-Nfc"; */
+"u6n-ct-Nfc.text" = "跳过";
+

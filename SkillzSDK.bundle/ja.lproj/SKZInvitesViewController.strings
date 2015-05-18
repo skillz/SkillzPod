@@ -1,0 +1,21 @@
+/* Class = "UIView"; accessibilityLabel = "Invites Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "招待スクリーン";
+
+/* Class = "UILabel"; text = "SEND REMINDERS TO ALL YOUR FRIENDS WHO YOU INVITED"; ObjectID = "Syh-mG-Sqg"; */
+"Syh-mG-Sqg.text" = "招待した友達すべてにリマインダを送信！";
+
+/* Class = "UILabel"; text = "For each friend who makes a deposit"; ObjectID = "TLT-gQ-KC9"; */
+"TLT-gQ-KC9.text" = "入金するお友達のために";
+
+/* Class = "UILabel"; text = "GET"; ObjectID = "UTa-Tz-tWA"; */
+"UTa-Tz-tWA.text" = "取得";
+
+/* Class = "UILabel"; text = "You currently have zero invites"; ObjectID = "Wss-O5-nUr"; */
+"Wss-O5-nUr.text" = "現在招待状はありません";
+
+/* Class = "UILabel"; text = "IN BONUS CASH"; ObjectID = "d3P-Xl-mZD"; */
+"d3P-Xl-mZD.text" = "ボーナスキャッシュ";
+
+/* Class = "UIButton"; normalTitle = "INVITE YOUR FRIENDS"; ObjectID = "fp4-Qx-aqd"; */
+"fp4-Qx-aqd.normalTitle" = "友達を招待";
+

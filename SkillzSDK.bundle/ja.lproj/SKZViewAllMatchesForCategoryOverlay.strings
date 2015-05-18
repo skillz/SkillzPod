@@ -1,0 +1,12 @@
+/* Class = "UILabel"; text = "START A NEW MATCH"; ObjectID = "3Tg-Px-bbt"; */
+"3Tg-Px-bbt.text" = "新しいマッチを開始";
+
+/* Class = "UILabel"; text = "with         TastyBarbarian"; ObjectID = "6kj-Kg-7C0"; */
+"6kj-Kg-7C0.text" = "対戦者おいしいバーバリアン";
+
+/* Class = "UILabel"; text = "CO-OP"; ObjectID = "50S-Ag-zVX"; */
+"50S-Ag-zVX.text" = "CO-OP";
+
+/* Class = "UISearchBar"; placeholder = "Search Events"; ObjectID = "edu-Sh-G4B"; */
+"edu-Sh-G4B.placeholder" = "イベント検索";
+

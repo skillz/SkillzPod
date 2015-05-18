@@ -1,0 +1,54 @@
+/* Class = "UILabel"; text = "DEPOSIT"; ObjectID = "5Px-EG-QxJ"; */
+"5Px-EG-QxJ.text" = "DEPOSITO";
+
+/* Class = "UILabel"; text = "CURRENT BALANCE"; ObjectID = "7wG-Xp-9yD"; */
+"7wG-Xp-9yD.text" = "SALDO ATTUALE";
+
+/* Class = "UIButton"; normalTitle = "FRIEND PROMO BONUS:"; ObjectID = "8Dz-c5-aM0"; */
+"8Dz-c5-aM0.normalTitle" = "BONUS PROMOZIONE AMICI:";
+
+/* Class = "UIButton"; accessibilityLabel = "PayPal Button"; ObjectID = "A6M-NO-Qzo"; */
+"A6M-NO-Qzo.accessibilityLabel" = "PayPal Button";
+
+/* Class = "UILabel"; text = "+ BONUS"; ObjectID = "CIX-s7-bZU"; */
+"CIX-s7-bZU.text" = "+ BONUS";
+
+/* Class = "UIButton"; accessibilityLabel = "Submit Button"; ObjectID = "CcU-t7-zBl"; */
+"CcU-t7-zBl.accessibilityLabel" = "Submit Button";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT PAYMENT"; ObjectID = "CcU-t7-zBl"; */
+"CcU-t7-zBl.normalTitle" = "INVIA PAGAMENTO";
+
+/* Class = "UILabel"; text = "$X4"; ObjectID = "MfQ-8V-zBD"; */
+"MfQ-8V-zBD.text" = "$X4";
+
+/* Class = "UILabel"; text = "$2.00"; ObjectID = "NDv-ZP-H1r"; */
+"NDv-ZP-H1r.text" = "$2,00";
+
+/* Class = "UILabel"; text = "+"; ObjectID = "TOf-Rv-NRd"; */
+"TOf-Rv-NRd.text" = "+";
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "ZyK-g6-clJ"; */
+"ZyK-g6-clJ.text" = "$0,00";
+
+/* Class = "UIButton"; accessibilityLabel = "Credit Card Button"; ObjectID = "aMp-aK-dgm"; */
+"aMp-aK-dgm.accessibilityLabel" = "Credit Card Button";
+
+/* Class = "UIButton"; normalTitle = "CREDIT CARD"; ObjectID = "aMp-aK-dgm"; */
+"aMp-aK-dgm.normalTitle" = "CARTA DI CREDITO";
+
+/* Class = "UILabel"; text = "BONUS"; ObjectID = "g7z-ir-xn1"; */
+"g7z-ir-xn1.text" = "BONUS";
+
+/* Class = "UILabel"; text = "$22.25"; ObjectID = "nrb-G2-Em6"; */
+"nrb-G2-Em6.text" = "$22,25";
+
+/* Class = "UILabel"; text = "NEW BALANCE"; ObjectID = "ocw-zL-Laf"; */
+"ocw-zL-Laf.text" = "NUOVO SALDO";
+
+/* Class = "UILabel"; text = "$1X"; ObjectID = "oqT-uc-uyS"; */
+"oqT-uc-uyS.text" = "$1X";
+
+/* Class = "UILabel"; text = "$20.00"; ObjectID = "tJ1-fV-mPY"; */
+"tJ1-fV-mPY.text" = "$20,00";
+
