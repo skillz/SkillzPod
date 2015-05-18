@@ -1,0 +1,1 @@
+[The full license is available on our developer portal](http://skillz.com/legal#dev-tos).

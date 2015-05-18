@@ -1,0 +1,12 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "EHD-cV-xyI"; */
+"EHD-cV-xyI.text" = "Libellé";
+
+/* Class = "UILabel"; text = "You Earned"; ObjectID = "Qkz-Uo-vyg"; */
+"Qkz-Uo-vyg.text" = "Vous avez gagné";
+
+/* Class = "UILabel"; text = "REWARD"; ObjectID = "jYC-At-1a4"; */
+"jYC-At-1a4.text" = "RÉCOMPENSE";
+
+/* Class = "UITextView"; text = "text"; ObjectID = "z4g-Ih-A2L"; */
+"z4g-Ih-A2L.text" = "texte";
+

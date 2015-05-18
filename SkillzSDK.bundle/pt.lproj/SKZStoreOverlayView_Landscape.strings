@@ -1,0 +1,45 @@
+/* Class = "UIView"; accessibilityLabel = "Store Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Tela da Loja";
+
+/* Class = "UILabel"; text = "ENTER PROMO CODE:"; ObjectID = "BoD-00-wo5"; */
+"BoD-00-wo5.text" = "INSIRA O CÓDIGO PROMOCIONAL:";
+
+/* Class = "UIButton"; accessibilityLabel = "Enter Promo Button"; ObjectID = "Dsf-Yx-QYt"; */
+"Dsf-Yx-QYt.accessibilityLabel" = "Botão Digitar Promoção";
+
+/* Class = "UIButton"; normalTitle = "TICKETZ"; ObjectID = "Dsf-Yx-QYt"; */
+"Dsf-Yx-QYt.normalTitle" = "TICKETZ";
+
+/* Class = "UILabel"; text = "GET BACK IN THE GAME"; ObjectID = "O7p-qh-bm0"; */
+"O7p-qh-bm0.text" = "RETORNAR PARA O JOGO";
+
+/* Class = "UILabel"; text = "200"; ObjectID = "QZG-pC-hoc"; */
+"QZG-pC-hoc.text" = "200";
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "VSt-cW-LCn"; */
+"VSt-cW-LCn.text" = "$0,00";
+
+/* Class = "UILabel"; text = "PROMO BONUS:"; ObjectID = "VzZ-cd-KbK"; */
+"VzZ-cd-KbK.text" = "BÔNUS PROMOCIONAL:";
+
+/* Class = "UILabel"; text = "UP TO"; ObjectID = "faq-B7-GxH"; */
+"faq-B7-GxH.text" = "ATÉ";
+
+/* Class = "UIButton"; accessibilityLabel = "DepositButton"; ObjectID = "qHC-3T-wE5"; */
+"qHC-3T-wE5.accessibilityLabel" = "BotãoDepósito";
+
+/* Class = "UIButton"; normalTitle = "ADD MORE CASH"; ObjectID = "qHC-3T-wE5"; */
+"qHC-3T-wE5.normalTitle" = "ADICIONAR MAIS DINHEIRO";
+
+/* Class = "UILabel"; text = "BONUS"; ObjectID = "sJN-uB-XEI"; */
+"sJN-uB-XEI.text" = "BÔNUS";
+
+/* Class = "UIButton"; accessibilityLabel = "Enter Promo Button"; ObjectID = "uaJ-iZ-a8u"; */
+"uaJ-iZ-a8u.accessibilityLabel" = "Botão Digitar Promoção";
+
+/* Class = "UIButton"; normalTitle = "PROMO CODE"; ObjectID = "uaJ-iZ-a8u"; */
+"uaJ-iZ-a8u.normalTitle" = "CÓDIGO PROMOCIONAL";
+
+/* Class = "UIButton"; normalTitle = "EARN MORE"; ObjectID = "vUu-p2-bMe"; */
+"vUu-p2-bMe.normalTitle" = "GANHE MAIS";
+

@@ -1,0 +1,30 @@
+/* Class = "UILabel"; text = "Log in on any device"; ObjectID = "82v-Gc-tjm"; */
+"82v-Gc-tjm.text" = "Connectez-vous depuis n'importe quel appareil";
+
+/* Class = "UITextField"; placeholder = "Enter email address"; ObjectID = "CM3-cd-9bo"; */
+"CM3-cd-9bo.placeholder" = "Entrer l'adresse e-mail";
+
+/* Class = "UILabel"; text = "Play other Skillz games"; ObjectID = "KBT-5f-8WT"; */
+"KBT-5f-8WT.text" = "Jouez à d'autres jeux Skillz";
+
+/* Class = "UILabel"; text = "Earn extra rewards"; ObjectID = "Pnu-4s-cDE"; */
+"Pnu-4s-cDE.text" = "Gagner d'autres récompenses";
+
+/* Class = "UITextField"; placeholder = "Enter password"; ObjectID = "Zc9-ML-POd"; */
+"Zc9-ML-POd.placeholder" = "Entrer le mot de passe";
+
+/* Class = "UILabel"; text = "Save Your Skillz Account"; ObjectID = "bFh-It-4i9"; */
+"bFh-It-4i9.text" = "Sauvegarder votre compte Skillz";
+
+/* Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "i8Q-Vx-7Hs"; */
+"i8Q-Vx-7Hs.placeholder" = "Confirmer le mot de passe";
+
+/* Class = "UIButton"; accessibilityLabel = "Submit Button"; ObjectID = "iIZ-1e-eI8"; */
+"iIZ-1e-eI8.accessibilityLabel" = "Bouton soumettre";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "iIZ-1e-eI8"; */
+"iIZ-1e-eI8.normalTitle" = "SOUMETTRE";
+
+/* Class = "UILabel"; text = "Yes, sign me up for news and updates from Skillz"; ObjectID = "tKv-ca-Kyb"; */
+"tKv-ca-Kyb.text" = "Oui, je souhaite recevoir les nouvelles et mises à jour de Skillz";
+

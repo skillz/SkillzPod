@@ -1,0 +1,18 @@
+/* Class = "UILabel"; text = "TEAM PRIZE"; ObjectID = "5oa-3Y-JuT"; */
+"5oa-3Y-JuT.text" = "团队奖品";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JTD-Ct-EU9"; */
+"JTD-Ct-EU9.text" = "标签";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "bZf-6P-gcX"; */
+"bZf-6P-gcX.text" = "--";
+
+/* Class = "UILabel"; text = "808,278"; ObjectID = "e3B-zE-P2H"; */
+"e3B-zE-P2H.text" = "808,278";
+
+/* Class = "UILabel"; text = "TEAM SCORE"; ObjectID = "eP4-j8-HIm"; */
+"eP4-j8-HIm.text" = "团队得分";
+
+/* Class = "UILabel"; text = "PLAYERS EACH WON"; ObjectID = "eaf-7s-6z6"; */
+"eaf-7s-6z6.text" = "每个玩家得分";
+

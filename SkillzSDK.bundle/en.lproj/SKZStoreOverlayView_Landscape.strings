@@ -1,0 +1,45 @@
+
+/* Class = "UIView"; accessibilityLabel = "Store Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Store Screen";
+
+/* Class = "UILabel"; text = "ENTER PROMO CODE:"; ObjectID = "BoD-00-wo5"; */
+"BoD-00-wo5.text" = "ENTER PROMO CODE:";
+
+/* Class = "UIButton"; accessibilityLabel = "Enter Promo Button"; ObjectID = "Dsf-Yx-QYt"; */
+"Dsf-Yx-QYt.accessibilityLabel" = "Enter Promo Button";
+
+/* Class = "UIButton"; normalTitle = "TICKETZ"; ObjectID = "Dsf-Yx-QYt"; */
+"Dsf-Yx-QYt.normalTitle" = "TICKETZ";
+
+/* Class = "UILabel"; text = "GET BACK IN THE GAME"; ObjectID = "O7p-qh-bm0"; */
+"O7p-qh-bm0.text" = "GET BACK IN THE GAME";
+
+/* Class = "UILabel"; text = "200"; ObjectID = "QZG-pC-hoc"; */
+"QZG-pC-hoc.text" = "200";
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "VSt-cW-LCn"; */
+"VSt-cW-LCn.text" = "$0.00";
+
+/* Class = "UILabel"; text = "PROMO BONUS:"; ObjectID = "VzZ-cd-KbK"; */
+"VzZ-cd-KbK.text" = "PROMO BONUS:";
+
+/* Class = "UILabel"; text = "UP TO"; ObjectID = "faq-B7-GxH"; */
+"faq-B7-GxH.text" = "UP TO";
+
+/* Class = "UIButton"; accessibilityLabel = "DepositButton"; ObjectID = "qHC-3T-wE5"; */
+"qHC-3T-wE5.accessibilityLabel" = "DepositButton";
+
+/* Class = "UIButton"; normalTitle = "ADD MORE CASH"; ObjectID = "qHC-3T-wE5"; */
+"qHC-3T-wE5.normalTitle" = "ADD MORE CASH";
+
+/* Class = "UILabel"; text = "BONUS"; ObjectID = "sJN-uB-XEI"; */
+"sJN-uB-XEI.text" = "BONUS";
+
+/* Class = "UIButton"; accessibilityLabel = "Enter Promo Button"; ObjectID = "uaJ-iZ-a8u"; */
+"uaJ-iZ-a8u.accessibilityLabel" = "Enter Promo Button";
+
+/* Class = "UIButton"; normalTitle = "PROMO CODE"; ObjectID = "uaJ-iZ-a8u"; */
+"uaJ-iZ-a8u.normalTitle" = "PROMO CODE";
+
+/* Class = "UIButton"; normalTitle = "EARN MORE"; ObjectID = "vUu-p2-bMe"; */
+"vUu-p2-bMe.normalTitle" = "EARN MORE";

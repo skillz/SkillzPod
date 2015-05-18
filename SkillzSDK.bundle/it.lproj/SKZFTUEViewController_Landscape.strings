@@ -1,0 +1,21 @@
+/* Class = "UIButton"; accessibilityLabel = "SignInButton"; ObjectID = "120"; */
+"120.accessibilityLabel" = "SignInButton";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "120"; */
+"120.normalTitle" = "REGISTRATI";
+
+/* Class = "UIButton"; accessibilityLabel = "FTU Next"; ObjectID = "128"; */
+"128.accessibilityLabel" = "FTU Next";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "128"; */
+"128.normalTitle" = "SUCC.";
+
+/* Class = "UILabel"; text = "Climb the Rankings to Win Weekly Prizes"; ObjectID = "335"; */
+"335.text" = "Scala la classifica per vincere fantastici premi ogni settimana";
+
+/* Class = "UILabel"; text = "Go Pro or Just Practice"; ObjectID = "336"; */
+"336.text" = "Sfida i professionisti o, se preferisci, esercitati soltanto";
+
+/* Class = "UILabel"; text = "Compete to Win Prizes"; ObjectID = "339"; */
+"339.text" = "Competi per vincere fantastici premi";
+

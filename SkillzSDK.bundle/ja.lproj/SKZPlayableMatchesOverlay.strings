@@ -1,0 +1,12 @@
+/* Class = "UIView"; accessibilityLabel = "Playable Matches Overlay"; ObjectID = "1"; */
+"1.accessibilityLabel" = "プレイ可能なマッチオーバーレイ";
+
+/* Class = "UIButton"; accessibilityLabel = "Enter Promo Button"; ObjectID = "Egi-5g-98s"; */
+"Egi-5g-98s.accessibilityLabel" = "プロモーションボタンを入力する";
+
+/* Class = "UIButton"; normalTitle = "ENTER MATCH CODE"; ObjectID = "Egi-5g-98s"; */
+"Egi-5g-98s.normalTitle" = "マッチコードを入力";
+
+/* Class = "UILabel"; text = "ENTER MATCH CODE:"; ObjectID = "ehy-GM-X8M"; */
+"ehy-GM-X8M.text" = "マッチコードを入力:";
+

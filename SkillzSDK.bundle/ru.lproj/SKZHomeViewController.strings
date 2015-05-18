@@ -1,0 +1,27 @@
+/* Class = "UIView"; accessibilityLabel = "Home Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Начальный экран";
+
+/* Class = "UIButton"; accessibilityLabel = "Play Tab Button"; ObjectID = "PB1-lJ-AGG"; */
+"PB1-lJ-AGG.accessibilityLabel" = "Кнопка вкладки «Игра»";
+
+/* Class = "UIButton"; normalTitle = "GAMES"; ObjectID = "PB1-lJ-AGG"; */
+"PB1-lJ-AGG.normalTitle" = "ИГРЫ";
+
+/* Class = "UIButton"; accessibilityLabel = "Store Tab Button"; ObjectID = "PNT-pl-ORR"; */
+"PNT-pl-ORR.accessibilityLabel" = "Кнопка вкладки «Магазин»";
+
+/* Class = "UIButton"; normalTitle = "STORE"; ObjectID = "PNT-pl-ORR"; */
+"PNT-pl-ORR.normalTitle" = "МАГАЗИН";
+
+/* Class = "UIButton"; accessibilityLabel = "Friends Tab Button"; ObjectID = "hil-gP-aDa"; */
+"hil-gP-aDa.accessibilityLabel" = "Кнопка вкладки «Друзья»";
+
+/* Class = "UIButton"; normalTitle = "FRIENDS"; ObjectID = "hil-gP-aDa"; */
+"hil-gP-aDa.normalTitle" = "ДРУЗЬЯ";
+
+/* Class = "UIButton"; accessibilityLabel = "Rankings Tab Button"; ObjectID = "lnR-4N-bTK"; */
+"lnR-4N-bTK.accessibilityLabel" = "Кнопка вкладки «Рейтинг»";
+
+/* Class = "UIButton"; normalTitle = "LEAGUES"; ObjectID = "lnR-4N-bTK"; */
+"lnR-4N-bTK.normalTitle" = "ЛИГИ";
+

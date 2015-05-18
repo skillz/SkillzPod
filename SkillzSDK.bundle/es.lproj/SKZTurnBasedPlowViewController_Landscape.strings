@@ -1,0 +1,27 @@
+/* Class = "UILabel"; text = "TOTAL SCORE"; ObjectID = "5GR-KI-t2q"; */
+"5GR-KI-t2q.text" = "PUNTUACIÓN TOTAL";
+
+/* Class = "UILabel"; text = "ROUND 1"; ObjectID = "9MC-HQ-86b"; */
+"9MC-HQ-86b.text" = "RONDA 1";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "B49-Nc-dNV"; */
+"B49-Nc-dNV.normalTitle" = "SIGUIENTE";
+
+/* Class = "UILabel"; text = "1234"; ObjectID = "RCk-Om-KIv"; */
+"RCk-Om-KIv.text" = "1234";
+
+/* Class = "UILabel"; text = "WINNER GETS"; ObjectID = "TGH-mh-fLP"; */
+"TGH-mh-fLP.text" = "EL GANADOR RECIBE";
+
+/* Class = "UILabel"; text = "1234"; ObjectID = "VRv-nv-uTt"; */
+"VRv-nv-uTt.text" = "1234";
+
+/* Class = "UILabel"; text = "$25.00"; ObjectID = "Xbz-U1-dCD"; */
+"Xbz-U1-dCD.text" = "$25,00";
+
+/* Class = "UILabel"; text = "YOU"; ObjectID = "i5v-6I-3PI"; */
+"i5v-6I-3PI.text" = "TÚ";
+
+/* Class = "UIButton"; normalTitle = "PLAY"; ObjectID = "y72-aj-pBc"; */
+"y72-aj-pBc.normalTitle" = "JUGAR";
+

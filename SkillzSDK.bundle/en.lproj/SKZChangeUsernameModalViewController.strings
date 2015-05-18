@@ -1,0 +1,27 @@
+
+/* Class = "UIView"; accessibilityLabel = "Change Username View"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Change Username View";
+
+/* Class = "UILabel"; text = "You may change your username only once."; ObjectID = "KKm-9v-BwE"; */
+"KKm-9v-BwE.text" = "You may change your username only once.";
+
+/* Class = "UIButton"; accessibilityLabel = "Save Button"; ObjectID = "OAt-9f-pCP"; */
+"OAt-9f-pCP.accessibilityLabel" = "Save Button";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "OAt-9f-pCP"; */
+"OAt-9f-pCP.normalTitle" = "SAVE";
+
+/* Class = "UILabel"; text = "WOULD YOU LIKE TO UPDATE"; ObjectID = "Pmz-B3-RcF"; */
+"Pmz-B3-RcF.text" = "WOULD YOU LIKE TO UPDATE";
+
+/* Class = "UITextField"; accessibilityLabel = "Change Username Field"; ObjectID = "Pw2-s9-wE3"; */
+"Pw2-s9-wE3.accessibilityLabel" = "Change Username Field";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "Pw2-s9-wE3"; */
+"Pw2-s9-wE3.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "YOUR USERNAME?"; ObjectID = "Rao-iA-O37"; */
+"Rao-iA-O37.text" = "YOUR USERNAME?";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "b0z-Od-vJE"; */
+"b0z-Od-vJE.normalTitle" = "CANCEL";

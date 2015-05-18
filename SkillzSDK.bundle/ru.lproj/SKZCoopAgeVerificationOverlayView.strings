@@ -1,0 +1,21 @@
+/* Class = "UILabel"; text = "STAFF"; ObjectID = "8vF-C0-LCr"; */
+"8vF-C0-LCr.text" = "ПЕРСОНАЛ";
+
+/* Class = "UIButton"; normalTitle = "Enter Your Credit Card Number"; ObjectID = "Y56-uS-ZZp"; */
+"Y56-uS-ZZp.normalTitle" = "Введите номер кредитной карты";
+
+/* Class = "UILabel"; text = "875,215"; ObjectID = "YsT-Yr-gbL"; */
+"YsT-Yr-gbL.text" = "875 215";
+
+/* Class = "UILabel"; text = "Please enter a valid credit card"; ObjectID = "ZRR-Xb-ytM"; */
+"ZRR-Xb-ytM.text" = "Введите данные действующий кредитной карты";
+
+/* Class = "UILabel"; text = "(Your card will not be charged)"; ObjectID = "e1M-WF-IWJ"; */
+"e1M-WF-IWJ.text" = "(С карты не будут списаны средства)";
+
+/* Class = "UILabel"; text = "YOUR\nSCORE"; ObjectID = "eRC-Cj-jFq"; */
+"eRC-Cj-jFq.text" = "ВАШ\nСЧЕТ";
+
+/* Class = "UILabel"; text = "We need to verify \nyour age before continuing"; ObjectID = "i6u-XM-fHB"; */
+"i6u-XM-fHB.text" = "Перед продолжением\nнеобходимо проверить возраст";
+

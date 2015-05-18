@@ -1,0 +1,15 @@
+/* Class = "UILabel"; text = "$0.55"; ObjectID = "1xI-Sf-FoO"; */
+"1xI-Sf-FoO.text" = "$0,55";
+
+/* Class = "UILabel"; text = "+"; ObjectID = "Bzf-Rz-RC8"; */
+"Bzf-Rz-RC8.text" = "+";
+
+/* Class = "UILabel"; text = "$11000"; ObjectID = "El9-lX-3sc"; */
+"El9-lX-3sc.text" = "$11000";
+
+/* Class = "UILabel"; text = "BONUS"; ObjectID = "YfM-aX-I7k"; */
+"YfM-aX-I7k.text" = "BONIFICACIÓN";
+
+/* Class = "UIButton"; accessibilityLabel = "Select Offer Button"; ObjectID = "aKg-au-Iw4"; */
+"aKg-au-Iw4.accessibilityLabel" = "Botón Seleccionar oferta";
+

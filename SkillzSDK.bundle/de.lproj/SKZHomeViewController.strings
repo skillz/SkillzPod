@@ -1,0 +1,27 @@
+/* Class = "UIView"; accessibilityLabel = "Home Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Startbildschirm";
+
+/* Class = "UIButton"; accessibilityLabel = "Play Tab Button"; ObjectID = "PB1-lJ-AGG"; */
+"PB1-lJ-AGG.accessibilityLabel" = "Spielen - Registerkarte";
+
+/* Class = "UIButton"; normalTitle = "GAMES"; ObjectID = "PB1-lJ-AGG"; */
+"PB1-lJ-AGG.normalTitle" = "SPIELE";
+
+/* Class = "UIButton"; accessibilityLabel = "Store Tab Button"; ObjectID = "PNT-pl-ORR"; */
+"PNT-pl-ORR.accessibilityLabel" = "Shop - Registerkarte";
+
+/* Class = "UIButton"; normalTitle = "STORE"; ObjectID = "PNT-pl-ORR"; */
+"PNT-pl-ORR.normalTitle" = "SHOP";
+
+/* Class = "UIButton"; accessibilityLabel = "Friends Tab Button"; ObjectID = "hil-gP-aDa"; */
+"hil-gP-aDa.accessibilityLabel" = "Freunde - Registerkarte";
+
+/* Class = "UIButton"; normalTitle = "FRIENDS"; ObjectID = "hil-gP-aDa"; */
+"hil-gP-aDa.normalTitle" = "FREUNDE";
+
+/* Class = "UIButton"; accessibilityLabel = "Rankings Tab Button"; ObjectID = "lnR-4N-bTK"; */
+"lnR-4N-bTK.accessibilityLabel" = "Ranglisten - Registerkarte";
+
+/* Class = "UIButton"; normalTitle = "LEAGUES"; ObjectID = "lnR-4N-bTK"; */
+"lnR-4N-bTK.normalTitle" = "LIGEN";
+

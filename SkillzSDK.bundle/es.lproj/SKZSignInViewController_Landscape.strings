@@ -1,0 +1,24 @@
+/* Class = "UITextField"; accessibilityLabel = "PasswordField"; ObjectID = "2bs-YC-EFf"; */
+"2bs-YC-EFf.accessibilityLabel" = "Campo Contraseña";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "2bs-YC-EFf"; */
+"2bs-YC-EFf.placeholder" = "Contraseña";
+
+/* Class = "UITextField"; accessibilityLabel = "UserNameField"; ObjectID = "QeH-oD-cAE"; */
+"QeH-oD-cAE.accessibilityLabel" = "Campo Nombre de usuario";
+
+/* Class = "UITextField"; placeholder = "Username or Email"; ObjectID = "QeH-oD-cAE"; */
+"QeH-oD-cAE.placeholder" = "Nombre de usuario o email";
+
+/* Class = "UIButton"; accessibilityLabel = "SignInButton"; ObjectID = "dI2-2r-b71"; */
+"dI2-2r-b71.accessibilityLabel" = "Botón Inicio de sesión";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "dI2-2r-b71"; */
+"dI2-2r-b71.normalTitle" = "INICIAR SESIÓN";
+
+/* Class = "UIButton"; normalTitle = "Forgot Username/Password"; ObjectID = "ff9-fl-c9N"; */
+"ff9-fl-c9N.normalTitle" = "¿Has olvidado tu nombre de usuario?/Contraseña";
+
+/* Class = "UILabel"; text = "Welcome back. Sign in to Skillz"; ObjectID = "oT2-Ae-QDq"; */
+"oT2-Ae-QDq.text" = "¡Bienvenido! Iniciar sesión en Skillz";
+

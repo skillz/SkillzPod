@@ -1,0 +1,33 @@
+/* Class = "UILabel"; text = "Your Username"; ObjectID = "DcV-MS-FcQ"; */
+"DcV-MS-FcQ.text" = "Tu nombre de usuario";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "G6U-H0-ngQ"; */
+"G6U-H0-ngQ.normalTitle" = "PRESENTAR";
+
+/* Class = "UILabel"; text = "You can change it later in your profile"; ObjectID = "Jp1-sT-mzQ"; */
+"Jp1-sT-mzQ.text" = "Puedes cambiarlo más adelante en tu perfil";
+
+/* Class = "UILabel"; text = "Your Avatar"; ObjectID = "Uq3-ZE-NZb"; */
+"Uq3-ZE-NZb.text" = "Tu avatar";
+
+/* Class = "UILabel"; text = "You may only change it once"; ObjectID = "hSX-WV-Syb"; */
+"hSX-WV-Syb.text" = "Puedes cambiarlo una vez";
+
+/* Class = "UILabel"; text = "Pick A Name & An Avatar"; ObjectID = "r73-gN-Upr"; */
+"r73-gN-Upr.text" = "Elige un nombre y un avatar";
+
+/* Class = "UIButton"; accessibilityLabel = "SignInButton"; ObjectID = "rTF-Mx-WXh"; */
+"rTF-Mx-WXh.accessibilityLabel" = "Botón Inicio de sesión";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "rTF-Mx-WXh"; */
+"rTF-Mx-WXh.normalTitle" = "INICIAR SESIÓN";
+
+/* Class = "UIButton"; normalTitle = "SELECT FROM LIBRARY"; ObjectID = "tgY-15-Oqb"; */
+"tgY-15-Oqb.normalTitle" = "SELECCIONAR DE LA BIBLIOTECA";
+
+/* Class = "UIButton"; accessibilityLabel = "FTU Next"; ObjectID = "w0r-Xz-aLE"; */
+"w0r-Xz-aLE.accessibilityLabel" = "Siguiente FTU";
+
+/* Class = "UIButton"; normalTitle = "BEGIN MATCH"; ObjectID = "w0r-Xz-aLE"; */
+"w0r-Xz-aLE.normalTitle" = "EMPEZAR PARTIDA";
+

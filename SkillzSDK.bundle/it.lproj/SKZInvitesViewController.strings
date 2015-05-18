@@ -1,0 +1,21 @@
+/* Class = "UIView"; accessibilityLabel = "Invites Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Invites Screen";
+
+/* Class = "UILabel"; text = "SEND REMINDERS TO ALL YOUR FRIENDS WHO YOU INVITED"; ObjectID = "Syh-mG-Sqg"; */
+"Syh-mG-Sqg.text" = "INVIA DEI PROMEMORIA A TUTTI GLI AMICI CHE HAI INVITATO";
+
+/* Class = "UILabel"; text = "For each friend who makes a deposit"; ObjectID = "TLT-gQ-KC9"; */
+"TLT-gQ-KC9.text" = "Per ogni amico che effettua un deposito";
+
+/* Class = "UILabel"; text = "GET"; ObjectID = "UTa-Tz-tWA"; */
+"UTa-Tz-tWA.text" = "OTTIENI";
+
+/* Class = "UILabel"; text = "You currently have zero invites"; ObjectID = "Wss-O5-nUr"; */
+"Wss-O5-nUr.text" = "Al momento, non disponi di alcun invito";
+
+/* Class = "UILabel"; text = "IN BONUS CASH"; ObjectID = "d3P-Xl-mZD"; */
+"d3P-Xl-mZD.text" = "IN CONTANTE BONUS";
+
+/* Class = "UIButton"; normalTitle = "INVITE YOUR FRIENDS"; ObjectID = "fp4-Qx-aqd"; */
+"fp4-Qx-aqd.normalTitle" = "INVITA I TUOI AMICI";
+

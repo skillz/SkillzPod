@@ -1,0 +1,51 @@
+/* Class = "UILabel"; text = "1."; ObjectID = "3ft-9s-ntA"; */
+"3ft-9s-ntA.text" = "1.";
+
+/* Class = "UILabel"; text = "WHY IS CO-OP WITH A FRIEND SO AWESOME?"; ObjectID = "15e-9l-YZA"; */
+"15e-9l-YZA.text" = "POR QUE COOPERAR COM UM AMIGO É TÃO DIVERTIDO?";
+
+/* Class = "UILabel"; text = " Tap Enter Code"; ObjectID = "Byo-Gm-pI1"; */
+"Byo-Gm-pI1.text" = " Toque em Digitar Código";
+
+/* Class = "UILabel"; text = "Want to invite a friend?"; ObjectID = "G4N-Uf-9Mq"; */
+"G4N-Uf-9Mq.text" = "Quer convidar um amigo?";
+
+/* Class = "UIButton"; accessibilityLabel = "Friends Coop Tutorial Close Button"; ObjectID = "KUu-X8-CbQ"; */
+"KUu-X8-CbQ.accessibilityLabel" = "Tutorial Coop de Amigos Botão Fechar";
+
+/* Class = "UIView"; accessibilityLabel = "Friends Coop Tutorial Page Two"; ObjectID = "LuT-Vx-DKC"; */
+"LuT-Vx-DKC.accessibilityLabel" = "Tutorial Coop de Amigos Página Dois";
+
+/* Class = "UIView"; accessibilityLabel = "Friends Coop Tutorial Page One"; ObjectID = "QZn-2r-NPw"; */
+"QZn-2r-NPw.accessibilityLabel" = "Tutorial Coop de Amigos Página Um";
+
+/* Class = "UILabel"; text = "CO-OP MATCH"; ObjectID = "XXQ-wJ-gb6"; */
+"XXQ-wJ-gb6.text" = "PARTIDA DE COOPERAÇÃO";
+
+/* Class = "UILabel"; text = "2."; ObjectID = "bqb-dK-Dpl"; */
+"bqb-dK-Dpl.text" = "2.";
+
+/* Class = "UIButton"; normalTitle = "ENTER CODE"; ObjectID = "cTj-Tm-eVG"; */
+"cTj-Tm-eVG.normalTitle" = "INSIRA O CÓDIGO";
+
+/* Class = "UIButton"; normalTitle = "INVITE"; ObjectID = "gIA-vG-4Sa"; */
+"gIA-vG-4Sa.normalTitle" = "CONVIDAR";
+
+/* Class = "UILabel"; text = "Tap Invite"; ObjectID = "gMI-XF-oCI"; */
+"gMI-XF-oCI.text" = "Toque em Convidar";
+
+/* Class = "UILabel"; text = "3."; ObjectID = "hRg-ho-sVZ"; */
+"hRg-ho-sVZ.text" = "3.";
+
+/* Class = "UIView"; accessibilityLabel = "Friends Coop Tutorial"; ObjectID = "iN0-l3-epB"; */
+"iN0-l3-epB.accessibilityLabel" = "Tutorial Coop de Amigos";
+
+/* Class = "UIButton"; accessibilityLabel = "Friends Coop Tutorial Ready Button"; ObjectID = "ki1-MO-l57"; */
+"ki1-MO-l57.accessibilityLabel" = "Tutorial Coop de Amigos Botão Pronto";
+
+/* Class = "UIButton"; normalTitle = "OK, I'M READY"; ObjectID = "ki1-MO-l57"; */
+"ki1-MO-l57.normalTitle" = "OK, ESTOU PRONTO";
+
+/* Class = "UILabel"; text = "Have a match code?"; ObjectID = "zjo-nP-Rvg"; */
+"zjo-nP-Rvg.text" = "Tem um código de partida?";
+

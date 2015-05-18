@@ -1,0 +1,21 @@
+/* Class = "UIButton"; normalTitle = "SEE MORE"; ObjectID = "8bP-xf-fbm"; */
+"8bP-xf-fbm.normalTitle" = "VEDI ALTRO";
+
+/* Class = "UILabel"; text = "SIGN UP FOR EVENT"; ObjectID = "DBr-Vs-tuh"; */
+"DBr-Vs-tuh.text" = "REGISTRATI PER L'EVENTO";
+
+/* Class = "UILabel"; text = "Fee:"; ObjectID = "Jhf-Ko-Mvy"; */
+"Jhf-Ko-Mvy.text" = "Quota:";
+
+/* Class = "UILabel"; text = "TOP PRIZE"; ObjectID = "dkb-gx-ZnJ"; */
+"dkb-gx-ZnJ.text" = "PRIMO PREMIO";
+
+/* Class = "UILabel"; text = "BEGINS IN"; ObjectID = "pp7-lY-Tqw"; */
+"pp7-lY-Tqw.text" = "INIZIA TRA";
+
+/* (No Commment) */
+"thw-OM-ugG.text" = "Quota:";
+
+/* Class = "UILabel"; text = "IN PRIZES"; ObjectID = "ui3-Af-LUy"; */
+"ui3-Af-LUy.text" = "IN PREMI";
+

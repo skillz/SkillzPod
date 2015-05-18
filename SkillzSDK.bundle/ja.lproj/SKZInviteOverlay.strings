@@ -1,0 +1,30 @@
+/* Class = "UILabel"; text = "IN BONUS CASH"; ObjectID = "6zw-Qb-6au"; */
+"6zw-Qb-6au.text" = "ボーナスキャッシュ";
+
+/* Class = "UILabel"; text = "For each friend who makes a deposit"; ObjectID = "A0A-Ap-hhn"; */
+"A0A-Ap-hhn.text" = "入金するお友達のために";
+
+/* Class = "UILabel"; text = "GET"; ObjectID = "MwI-gl-erm"; */
+"MwI-gl-erm.text" = "取得";
+
+/* Class = "UIButton"; normalTitle = "COPY LINK"; ObjectID = "Okh-JG-Sf3"; */
+"Okh-JG-Sf3.normalTitle" = "リンクをコピー";
+
+/* Class = "UILabel"; text = "Invite Link Copied!"; ObjectID = "R8Q-y0-DHB"; */
+"R8Q-y0-DHB.text" = "招待リンクをコピーしました！";
+
+/* Class = "UILabel"; text = "INVITE YOUR FRIENDS"; ObjectID = "ZIR-xC-WMn"; */
+"ZIR-xC-WMn.text" = "友達を招待";
+
+/* Class = "UIView"; accessibilityLabel = "Invites Overlay"; ObjectID = "abj-mk-eDY"; */
+"abj-mk-eDY.accessibilityLabel" = "オーバーレイを招待";
+
+/* Class = "UIButton"; normalTitle = "EMAIL"; ObjectID = "fZ9-Yv-qeg"; */
+"fZ9-Yv-qeg.normalTitle" = "Eメール";
+
+/* Class = "UIButton"; normalTitle = "MESSAGE"; ObjectID = "he9-IY-h2n"; */
+"he9-IY-h2n.normalTitle" = "メッセージ";
+
+/* Class = "UIButton"; normalTitle = "TWITTER"; ObjectID = "xMS-JH-am9"; */
+"xMS-JH-am9.normalTitle" = "TWITTER";
+

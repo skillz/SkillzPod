@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "VS"; ObjectID = "0ig-xZ-pgo"; */
+"0ig-xZ-pgo.text" = "VS";
+
+/* Class = "UILabel"; text = "Remind to Play"; ObjectID = "Qut-ES-guf"; */
+"Qut-ES-guf.text" = "Remind to Play";
+
+/* Class = "UILabel"; text = "EnormousClock"; ObjectID = "T5g-EN-0fV"; */
+"T5g-EN-0fV.text" = "EnormousClock";
+
+/* Class = "UILabel"; text = "WAITING 🕑"; ObjectID = "egn-YC-24e"; */
+"egn-YC-24e.text" = "WAITING 🕑";
+
+/* Class = "UILabel"; text = "Your Score"; ObjectID = "oON-Xh-RNP"; */
+"oON-Xh-RNP.text" = "Your Score";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pYL-QN-Vrh"; */
+"pYL-QN-Vrh.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pvm-Fu-Z55"; */
+"pvm-Fu-Z55.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "🕑 WAITING"; ObjectID = "ywD-DT-l2e"; */
+"ywD-DT-l2e.text" = "🕑 WAITING";

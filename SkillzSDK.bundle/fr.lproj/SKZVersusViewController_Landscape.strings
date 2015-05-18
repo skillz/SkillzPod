@@ -1,0 +1,51 @@
+/* Class = "UILabel"; text = "VS"; ObjectID = "6dY-gP-riG"; */
+"6dY-gP-riG.text" = "CONTRE";
+
+/* Class = "UILabel"; text = "YOUR FIRST MATCH"; ObjectID = "BOW-8c-caZ"; */
+"BOW-8c-caZ.text" = "VOTRE PREMIER MATCH";
+
+/* Class = "UILabel"; text = "PRIZE"; ObjectID = "C7O-zb-deZ"; */
+"C7O-zb-deZ.text" = "PRIX";
+
+/* Class = "UILabel"; text = "Player Two"; ObjectID = "Fsk-GE-SPw"; */
+"Fsk-GE-SPw.text" = "Joueur 2";
+
+/* Class = "UILabel"; text = "UNLIMITED ENTRY"; ObjectID = "JPT-1t-r4N"; */
+"JPT-1t-r4N.text" = "ENTRÉE ILLIMITÉE";
+
+/* Class = "UILabel"; text = "Player Two"; ObjectID = "XLW-U3-okW"; */
+"XLW-U3-okW.text" = "Joueur 2";
+
+/* Class = "UILabel"; text = "VS"; ObjectID = "ZE8-Ak-V9W"; */
+"ZE8-Ak-V9W.text" = "CONTRE";
+
+/* Class = "UILabel"; text = "Player One"; ObjectID = "dFe-ey-TUp"; */
+"dFe-ey-TUp.text" = "Joueur Un";
+
+/* Class = "UILabel"; text = "Player One"; ObjectID = "gPb-Ll-T3m"; */
+"gPb-Ll-T3m.text" = "Joueur Un";
+
+/* Class = "UILabel"; text = "YOU"; ObjectID = "jCF-PN-R48"; */
+"jCF-PN-R48.text" = "VOUS";
+
+/* Class = "UILabel"; text = "YOU"; ObjectID = "l5p-Ts-g90"; */
+"l5p-Ts-g90.text" = "VOUS";
+
+/* Class = "UILabel"; text = "Entry: Free"; ObjectID = "l9S-EL-i1p"; */
+"l9S-EL-i1p.text" = "Entrée : Gratuit";
+
+/* Class = "UIButton"; normalTitle = "MATCH DETAILS"; ObjectID = "qC9-NK-0ed"; */
+"qC9-NK-0ed.normalTitle" = "DÉTAILS DU MATCH";
+
+/* Class = "UIButton"; accessibilityLabel = "Begin Now"; ObjectID = "siG-SI-PNK"; */
+"siG-SI-PNK.accessibilityLabel" = "Commencer maintenant";
+
+/* Class = "UIButton"; normalTitle = "BEGIN MATCH NOW"; ObjectID = "siG-SI-PNK"; */
+"siG-SI-PNK.normalTitle" = "COMMENCER LE MATCH MAINTENANT";
+
+/* Class = "UILabel"; text = "Player Two"; ObjectID = "tCB-eg-47a"; */
+"tCB-eg-47a.text" = "Joueur 2";
+
+/* Class = "UILabel"; text = "Teammate"; ObjectID = "yCs-3T-LqJ"; */
+"yCs-3T-LqJ.text" = "Coéquipier";
+

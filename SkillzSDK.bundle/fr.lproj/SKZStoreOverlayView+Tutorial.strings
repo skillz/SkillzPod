@@ -1,0 +1,42 @@
+/* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "4vS-Y4-OLl"; */
+"4vS-Y4-OLl.normalTitle" = "PASSER";
+
+/* Class = "UIButton"; accessibilityLabel = "Store Overlay Tutorial Cash Speech Bubble Next Button"; ObjectID = "BAS-sX-h55"; */
+"BAS-sX-h55.accessibilityLabel" = "Bouton Suivant Didacticiel Cash Speech Bubble Aperçu Boutique";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "BAS-sX-h55"; */
+"BAS-sX-h55.normalTitle" = "SUIVANT";
+
+/* Class = "UILabel"; text = "Visit here to get more Z."; ObjectID = "WLo-dd-pxK"; */
+"WLo-dd-pxK.text" = "Rendez-vous ici pour obtenir plus de Z.";
+
+/* Class = "UILabel"; text = "Check back often for great bonus deals!"; ObjectID = "XHd-Yl-INX"; */
+"XHd-Yl-INX.text" = "Revenez régulièrement pour bénéficier d'offres bonus fantastiques!";
+
+/* Class = "UILabel"; text = "Add cash to play for real money."; ObjectID = "YaQ-ee-7MJ"; */
+"YaQ-ee-7MJ.text" = "Ajouter plus d'argent pour jouer pour de l'argent réel.";
+
+/* Class = "UIButton"; accessibilityLabel = "Store Overlay Tutorial Cash Speech Bubble Skip Button"; ObjectID = "YlC-I6-6qZ"; */
+"YlC-I6-6qZ.accessibilityLabel" = "Bouton Ignorer Didacticiel Cash Speech Bubble Aperçu Boutique";
+
+/* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "YlC-I6-6qZ"; */
+"YlC-I6-6qZ.normalTitle" = "PASSER";
+
+/* Class = "UILabel"; text = "You'll need Z for practice matches."; ObjectID = "dwc-Sb-qZY"; */
+"dwc-Sb-qZY.text" = "Vous devez disposer de Z pour jouer à des parties d'entraînement.";
+
+/* Class = "UIView"; accessibilityLabel = "Store Overlay Tutorial"; ObjectID = "k4W-73-bWu"; */
+"k4W-73-bWu.accessibilityLabel" = "Didacticiel Aperçu Boutique";
+
+/* Class = "UIView"; accessibilityLabel = "Store Overlay Tutorial Z Speech Bubble"; ObjectID = "oat-WE-9TG"; */
+"oat-WE-9TG.accessibilityLabel" = "Didacticiel Z Speech Bubble Aperçu Boutique";
+
+/* Class = "UIButton"; accessibilityLabel = "Store Overlay Tutorial Z Speech Bubble Next Button"; ObjectID = "xlc-eS-b84"; */
+"xlc-eS-b84.accessibilityLabel" = "Bouton Suivant Didacticiel Z Speech Bubble Aperçu Boutique";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "xlc-eS-b84"; */
+"xlc-eS-b84.normalTitle" = "SUIVANT";
+
+/* Class = "UIView"; accessibilityLabel = "Store Overlay Tutorial Cash Speech Bubble"; ObjectID = "y2j-Vy-wdf"; */
+"y2j-Vy-wdf.accessibilityLabel" = "Didacticiel Cash Speech Bubble Aperçu Boutique";
+

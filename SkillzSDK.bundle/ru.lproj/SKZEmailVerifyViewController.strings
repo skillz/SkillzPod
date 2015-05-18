@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "EMAIL VERIFICATION REQUIRED"; ObjectID = "37B-2S-YDa"; */
+"37B-2S-YDa.text" = "ТРЕБУЕТСЯ ПОДТВЕРЖДЕНИЕ АДРЕСА ЭЛЕКТРОННОЙ ПОЧТЫ";
+
+/* Class = "UITextField"; placeholder = "Please enter email"; ObjectID = "g93-g9-bLd"; */
+"g93-g9-bLd.placeholder" = "Введите адрес электронной почты";
+
+/* Class = "UIButton"; normalTitle = "RESEND EMAIL"; ObjectID = "iYX-HB-lZL"; */
+"iYX-HB-lZL.normalTitle" = "ОТПРАВИТЬ СООБЩЕНИЕ ПОВТОРНО";
+

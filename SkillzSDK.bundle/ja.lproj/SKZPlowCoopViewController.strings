@@ -1,0 +1,45 @@
+/* Class = "UILabel"; text = "SEARCHING"; ObjectID = "0H2-MH-N87"; */
+"0H2-MH-N87.text" = "検索中";
+
+/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "6nZ-o7-uTi"; */
+"6nZ-o7-uTi.accessibilityLabel" = "次へ投資";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "6nZ-o7-uTi"; */
+"6nZ-o7-uTi.normalTitle" = "次へ";
+
+/* Class = "UILabel"; text = "XXX,XXX"; ObjectID = "8Rs-2j-Fj1"; */
+"8Rs-2j-Fj1.text" = "XXX,XXX";
+
+/* Class = "UILabel"; text = "Your opponent forfeited their turn so we’ve replaced them with a substitute"; ObjectID = "Dq2-zk-3MA"; */
+"Dq2-zk-3MA.text" = "対戦相手が自分の順番を破棄したので、代役と交換しました";
+
+/* Class = "UILabel"; text = "TEAM PRIZE"; ObjectID = "Q9R-K8-Mk5"; */
+"Q9R-K8-Mk5.text" = "チーム賞品";
+
+/* Class = "UILabel"; text = "VS"; ObjectID = "XTD-lW-BgI"; */
+"XTD-lW-BgI.text" = "VS";
+
+/* Class = "UILabel"; text = "YOUR TEAM"; ObjectID = "XkK-s4-y50"; */
+"XkK-s4-y50.text" = "あなたのチーム";
+
+/* Class = "UILabel"; text = "XXX,XXX"; ObjectID = "cSS-Fj-s7f"; */
+"cSS-Fj-s7f.text" = "XXX,XXX";
+
+/* Class = "UILabel"; text = "XXX,XXX"; ObjectID = "hnJ-Fg-jEH"; */
+"hnJ-Fg-jEH.text" = "XXX,XXX";
+
+/* Class = "UILabel"; text = "SEARCHING"; ObjectID = "kNW-vP-bqb"; */
+"kNW-vP-bqb.text" = "検索中";
+
+/* Class = "UILabel"; text = "YOUR TEAM WON!"; ObjectID = "oFD-Yn-2CJ"; */
+"oFD-Yn-2CJ.text" = "あなたのチームの勝ち！";
+
+/* Class = "UILabel"; text = "THEIR TEAM"; ObjectID = "piW-ZK-Kn7"; */
+"piW-ZK-Kn7.text" = "彼らのチーム";
+
+/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "q2k-Jg-9jZ"; */
+"q2k-Jg-9jZ.accessibilityLabel" = "次へ投資";
+
+/* Class = "UIButton"; normalTitle = "SHARE"; ObjectID = "q2k-Jg-9jZ"; */
+"q2k-Jg-9jZ.normalTitle" = "共有";
+

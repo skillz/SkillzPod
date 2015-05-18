@@ -1,0 +1,9 @@
+/* Class = "UIView"; accessibilityLabel = "Deposit Selection Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "入金選択スクリーン";
+
+/* Class = "UILabel"; text = "DEPOSIT DISABLED"; ObjectID = "9QL-dd-aNF"; */
+"9QL-dd-aNF.text" = "入金は無効になりました";
+
+/* Class = "UILabel"; text = "CHOOSE YOUR DEPOSIT AMOUNT"; ObjectID = "Niy-dA-Ttm"; */
+"Niy-dA-Ttm.text" = "入金額を選択";
+

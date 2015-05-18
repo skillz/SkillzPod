@@ -1,0 +1,66 @@
+/* Class = "UITextField"; accessibilityLabel = "Last Name Field"; ObjectID = "ApV-8E-zJc"; */
+"ApV-8E-zJc.accessibilityLabel" = "Campo Apellido";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "ApV-8E-zJc"; */
+"ApV-8E-zJc.placeholder" = "Apellido";
+
+/* Class = "UITextField"; accessibilityLabel = "Zip Field"; ObjectID = "BnM-RV-2f0"; */
+"BnM-RV-2f0.accessibilityLabel" = "Campo Zona postal";
+
+/* Class = "UITextField"; placeholder = "Postal Code"; ObjectID = "BnM-RV-2f0"; */
+"BnM-RV-2f0.placeholder" = "Código postal";
+
+/* Class = "UIButton"; accessibilityLabel = "Update Button"; ObjectID = "D1L-H2-gTV"; */
+"D1L-H2-gTV.accessibilityLabel" = "Botón Actualizar";
+
+/* Class = "UIButton"; normalTitle = "UPDATE"; ObjectID = "D1L-H2-gTV"; */
+"D1L-H2-gTV.normalTitle" = "ACTUALIZAR";
+
+/* Class = "UILabel"; text = "Withdraw Information"; ObjectID = "EyO-rC-6aK"; */
+"EyO-rC-6aK.text" = "Información de retirada";
+
+/* Class = "UITextField"; accessibilityLabel = "First Name Field"; ObjectID = "KVR-Ga-YjV"; */
+"KVR-Ga-YjV.accessibilityLabel" = "Campo Nombre";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "KVR-Ga-YjV"; */
+"KVR-Ga-YjV.placeholder" = "Nombre";
+
+/* Class = "UILabel"; text = "Personal Information"; ObjectID = "LBi-aI-Ivk"; */
+"LBi-aI-Ivk.text" = "Información personal";
+
+/* Class = "UIButton"; normalTitle = "Country"; ObjectID = "S1d-Zw-hPu"; */
+"S1d-Zw-hPu.normalTitle" = "País";
+
+/* Class = "UITextField"; accessibilityLabel = "Email Field"; ObjectID = "TdC-lR-FLp"; */
+"TdC-lR-FLp.accessibilityLabel" = "Campo Correo electrónico";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "TdC-lR-FLp"; */
+"TdC-lR-FLp.placeholder" = "Correo electrónico";
+
+/* Class = "UITextField"; accessibilityLabel = "Email Field"; ObjectID = "X5h-jV-agF"; */
+"X5h-jV-agF.accessibilityLabel" = "Campo Correo electrónico";
+
+/* Class = "UITextField"; placeholder = "State/Province"; ObjectID = "X5h-jV-agF"; */
+"X5h-jV-agF.placeholder" = "Región/Provincia";
+
+/* Class = "UITextField"; accessibilityLabel = "Zip Field"; ObjectID = "ucy-79-HfW"; */
+"ucy-79-HfW.accessibilityLabel" = "Campo Zona postal";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "ucy-79-HfW"; */
+"ucy-79-HfW.placeholder" = "Ciudad";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "zga-E7-0Kt"; */
+"zga-E7-0Kt.normalTitle" = "Hecho";
+
+/* Class = "UITextField"; accessibilityLabel = "Address Field"; ObjectID = "zxC-n0-WhI"; */
+"zxC-n0-WhI.accessibilityLabel" = "Campo Dirección";
+
+/* Class = "UITextField"; placeholder = "Street Address"; ObjectID = "zxC-n0-WhI"; */
+"zxC-n0-WhI.placeholder" = "Dirección";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "pxb-PB-E4X"; */
+"pxb-PB-E4X.placeholder" = "Teléfono";
+
+/* Class = "UITextField"; placeholder = "Apt, Unit, Bldg"; ObjectID = "XkF-eR-dvg"; */
+"XkF-eR-dvg.placeholder" = "Apto., unidad, edificio";
+

@@ -1,0 +1,22 @@
+/* Class = "UILabel"; text = "Deposit Bonus"; ObjectID = "EPg-Qk-QFV"; */
+"EPg-Qk-QFV.text" = "存款额外奖励";
+
+/* Class = "UILabel"; text = "Deposit Amount"; ObjectID = "Hia-Lt-JZG"; */
+"Hia-Lt-JZG.text" = "存款金额";
+
+/* Class = "UIButton"; accessibilityLabel = "Okay"; ObjectID = "SVz-hA-PNA"; */
+"SVz-hA-PNA.accessibilityLabel" = "好的";
+
+/* Class = "UILabel"; text = "New Balance"; ObjectID = "Ukd-3q-aF9"; */
+"Ukd-3q-aF9.text" = "新余额";
+
+/* Class = "UILabel"; text = "Previous Balance"; ObjectID = "ehW-Xa-Dbe"; */
+"ehW-Xa-Dbe.text" = "之前的余额";
+
+/* Class = "UILabel"; text = "DEPOSIT RECEIVED!"; ObjectID = "gGn-RC-7bV"; */
+"gGn-RC-7bV.text" = "存款已收到！";
+
+/* Class = "UIButton"; normalTitle = "OK, I'M READY TO WIN"; ObjectID = "SVz-hA-PNA"; */
+"SVz-hA-PNA.normalTitle" = "好，我做好赢钱的准备了";
+
+

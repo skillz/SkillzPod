@@ -1,0 +1,21 @@
+/* Class = "UILabel"; text = "1234"; ObjectID = "3l2-NI-eFp"; */
+"3l2-NI-eFp.text" = "1234";
+
+/* Class = "UILabel"; text = "EnormousClock"; ObjectID = "022-Vf-XTk"; */
+"022-Vf-XTk.text" = "RelojEnorme";
+
+/* Class = "UILabel"; text = "$25.00"; ObjectID = "A9v-wu-baP"; */
+"A9v-wu-baP.text" = "$25,00";
+
+/* Class = "UILabel"; text = "EnormousClock"; ObjectID = "OEQ-FZ-0Iu"; */
+"OEQ-FZ-0Iu.text" = "RelojEnorme";
+
+/* Class = "UILabel"; text = "SCORE"; ObjectID = "Slu-jO-iYP"; */
+"Slu-jO-iYP.text" = "PUNTUACIÓN";
+
+/* Class = "UILabel"; text = "PRIZE:"; ObjectID = "eMU-zf-e7n"; */
+"eMU-zf-e7n.text" = "PREMIO:";
+
+/* Class = "UILabel"; text = "1234"; ObjectID = "ygr-SA-jrK"; */
+"ygr-SA-jrK.text" = "1234";
+

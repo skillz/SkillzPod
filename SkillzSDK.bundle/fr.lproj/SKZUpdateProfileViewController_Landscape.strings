@@ -1,0 +1,33 @@
+/* Class = "UILabel"; text = "Your Username"; ObjectID = "DcV-MS-FcQ"; */
+"DcV-MS-FcQ.text" = "Votre nom d'utilisateur";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "G6U-H0-ngQ"; */
+"G6U-H0-ngQ.normalTitle" = "SOUMETTRE";
+
+/* Class = "UILabel"; text = "You can change it later in your profile"; ObjectID = "Jp1-sT-mzQ"; */
+"Jp1-sT-mzQ.text" = "Vous pouvez le/la modifier ultérieurement dans votre profil";
+
+/* Class = "UILabel"; text = "Your Avatar"; ObjectID = "Uq3-ZE-NZb"; */
+"Uq3-ZE-NZb.text" = "Votre avatar";
+
+/* Class = "UILabel"; text = "You may only change it once"; ObjectID = "hSX-WV-Syb"; */
+"hSX-WV-Syb.text" = "Vous ne pouvez le/la modifier qu'une seule fois";
+
+/* Class = "UILabel"; text = "Pick A Name & An Avatar"; ObjectID = "r73-gN-Upr"; */
+"r73-gN-Upr.text" = "Choisissez un nom et un avatar";
+
+/* Class = "UIButton"; accessibilityLabel = "SignInButton"; ObjectID = "rTF-Mx-WXh"; */
+"rTF-Mx-WXh.accessibilityLabel" = "Bouton de connexion";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "rTF-Mx-WXh"; */
+"rTF-Mx-WXh.normalTitle" = "SE CONNECTER";
+
+/* Class = "UIButton"; normalTitle = "SELECT FROM LIBRARY"; ObjectID = "tgY-15-Oqb"; */
+"tgY-15-Oqb.normalTitle" = "SÉLECTIONNER DANS LA BIBLIOTHÈQUE";
+
+/* Class = "UIButton"; accessibilityLabel = "FTU Next"; ObjectID = "w0r-Xz-aLE"; */
+"w0r-Xz-aLE.accessibilityLabel" = "FTU suivant";
+
+/* Class = "UIButton"; normalTitle = "BEGIN MATCH"; ObjectID = "w0r-Xz-aLE"; */
+"w0r-Xz-aLE.normalTitle" = "COMMENCER LE MATCH";
+

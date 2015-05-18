@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "BONUS CASH"; ObjectID = "ZZM-JN-KQ2"; */
+"ZZM-JN-KQ2.text" = "DINHEIRO BÔNUS";
+
+/* Class = "UIView"; accessibilityLabel = "Store Overlay Tutorial"; ObjectID = "k4W-73-bWu"; */
+"k4W-73-bWu.accessibilityLabel" = "Tutorial de Sobreposição da loja";
+
+/* Class = "UILabel"; text = "The more you deposit, the more bonus cash you get! Use bonus cash to compete in more cash tournaments, whatever you win you keep!"; ObjectID = "lwq-Tn-jVh"; */
+"lwq-Tn-jVh.text" = "Quanto mais você deposita mais dinheiro bônus você ganha! Use o dinheiro bônus para competir em mais torneios com dinheiro. O que você ganhar é seu!";
+

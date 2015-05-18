@@ -1,0 +1,21 @@
+/* Class = "UIButton"; normalTitle = "SEE MORE"; ObjectID = "8bP-xf-fbm"; */
+"8bP-xf-fbm.normalTitle" = "詳細を参照";
+
+/* Class = "UILabel"; text = "SIGN UP FOR EVENT"; ObjectID = "DBr-Vs-tuh"; */
+"DBr-Vs-tuh.text" = "イベントに登録します";
+
+/* Class = "UILabel"; text = "Fee:"; ObjectID = "Jhf-Ko-Mvy"; */
+"Jhf-Ko-Mvy.text" = "料金：";
+
+/* Class = "UILabel"; text = "TOP PRIZE"; ObjectID = "dkb-gx-ZnJ"; */
+"dkb-gx-ZnJ.text" = "一等賞品";
+
+/* Class = "UILabel"; text = "BEGINS IN"; ObjectID = "pp7-lY-Tqw"; */
+"pp7-lY-Tqw.text" = "開始";
+
+/* (No Commment) */
+"thw-OM-ugG.text" = "料金：";
+
+/* Class = "UILabel"; text = "IN PRIZES"; ObjectID = "ui3-Af-LUy"; */
+"ui3-Af-LUy.text" = "賞品";
+

@@ -1,0 +1,27 @@
+/* Class = "UIView"; accessibilityLabel = "Home Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "主页屏";
+
+/* Class = "UIButton"; accessibilityLabel = "Play Match Tab"; ObjectID = "HZz-RP-gWP"; */
+"HZz-RP-gWP.accessibilityLabel" = "玩比赛选项卡";
+
+/* Class = "UIButton"; normalTitle = "GAMES"; ObjectID = "HZz-RP-gWP"; */
+"HZz-RP-gWP.normalTitle" = "游戏";
+
+/* Class = "UIButton"; accessibilityLabel = "Invite Button"; ObjectID = "KBU-dt-gv0"; */
+"KBU-dt-gv0.accessibilityLabel" = "邀请按钮";
+
+/* Class = "UIButton"; normalTitle = "FRIENDS"; ObjectID = "KBU-dt-gv0"; */
+"KBU-dt-gv0.normalTitle" = "好友";
+
+/* Class = "UIButton"; accessibilityLabel = "Store Tab"; ObjectID = "QQY-Hk-q0y"; */
+"QQY-Hk-q0y.accessibilityLabel" = "商店选项卡";
+
+/* Class = "UIButton"; normalTitle = "SKILLZ STORE"; ObjectID = "QQY-Hk-q0y"; */
+"QQY-Hk-q0y.normalTitle" = "SKILLZ 商店";
+
+/* Class = "UIButton"; accessibilityLabel = "Rankings Tab"; ObjectID = "mpA-yB-fs4"; */
+"mpA-yB-fs4.accessibilityLabel" = "排名选项卡";
+
+/* Class = "UIButton"; normalTitle = "LEAGUES"; ObjectID = "mpA-yB-fs4"; */
+"mpA-yB-fs4.normalTitle" = "联盟";
+

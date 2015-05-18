@@ -1,0 +1,15 @@
+/* Class = "UIView"; accessibilityLabel = "Leaderboards Locked"; ObjectID = "1"; */
+"1.accessibilityLabel" = "排行榜已锁定";
+
+/* Class = "UILabel"; text = "WELCOME TO LEAGUES"; ObjectID = "aSA-kj-1n7"; */
+"aSA-kj-1n7.text" = "欢迎加入联盟";
+
+/* Class = "UILabel"; text = "Leaderboards are unavailable at this time. Try again soon."; ObjectID = "la1-qu-TYq"; */
+"la1-qu-TYq.text" = "排行榜此时不可用。\n请过会儿再试。";
+
+/* Class = "UIButton"; accessibilityLabel = "Unlocked Next"; ObjectID = "xER-m2-LYO"; */
+"xER-m2-LYO.accessibilityLabel" = "下一级";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "xER-m2-LYO"; */
+"xER-m2-LYO.normalTitle" = "下一个";
+

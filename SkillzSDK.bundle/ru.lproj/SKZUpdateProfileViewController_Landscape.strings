@@ -1,0 +1,33 @@
+/* Class = "UILabel"; text = "Your Username"; ObjectID = "DcV-MS-FcQ"; */
+"DcV-MS-FcQ.text" = "Имя пользователя";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "G6U-H0-ngQ"; */
+"G6U-H0-ngQ.normalTitle" = "ОТПРАВИТЬ";
+
+/* Class = "UILabel"; text = "You can change it later in your profile"; ObjectID = "Jp1-sT-mzQ"; */
+"Jp1-sT-mzQ.text" = "Вы можете внести изменения в своем профиле позже";
+
+/* Class = "UILabel"; text = "Your Avatar"; ObjectID = "Uq3-ZE-NZb"; */
+"Uq3-ZE-NZb.text" = "Основное изображение";
+
+/* Class = "UILabel"; text = "You may only change it once"; ObjectID = "hSX-WV-Syb"; */
+"hSX-WV-Syb.text" = "Внести изменения можно только один раз";
+
+/* Class = "UILabel"; text = "Pick A Name & An Avatar"; ObjectID = "r73-gN-Upr"; */
+"r73-gN-Upr.text" = "Выберите имя и основное изображение";
+
+/* Class = "UIButton"; accessibilityLabel = "SignInButton"; ObjectID = "rTF-Mx-WXh"; */
+"rTF-Mx-WXh.accessibilityLabel" = "Кнопка входа";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "rTF-Mx-WXh"; */
+"rTF-Mx-WXh.normalTitle" = "ВХОД";
+
+/* Class = "UIButton"; normalTitle = "SELECT FROM LIBRARY"; ObjectID = "tgY-15-Oqb"; */
+"tgY-15-Oqb.normalTitle" = "ВЫБРАТЬ ИЗ БИБЛИОТЕКИ";
+
+/* Class = "UIButton"; accessibilityLabel = "FTU Next"; ObjectID = "w0r-Xz-aLE"; */
+"w0r-Xz-aLE.accessibilityLabel" = "Кнопка «Далее» для нового пользователя";
+
+/* Class = "UIButton"; normalTitle = "BEGIN MATCH"; ObjectID = "w0r-Xz-aLE"; */
+"w0r-Xz-aLE.normalTitle" = "НАЧАТЬ МАТЧ";
+
