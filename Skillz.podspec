@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Skillz"
-  s.version      = "10.1.15"
+  s.version      = "10.1.16"
   s.summary      = "A multiplayer cash tournament framework for mobile."
 
   s.description  = <<-DESC
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "7.1"
 
-  s.source       = { :git => "https://github.com/skillz/SkillzPod.git", :tag => "10.1.15" }
+  s.source       = { :git => "https://github.com/skillz/SkillzPod.git", :tag => "10.1.16" }
   s.module_name = "Skillz"
 
   s.ios.resource_bundle = { 'SkillzSDK' => 'SkillzSDK.bundle' }

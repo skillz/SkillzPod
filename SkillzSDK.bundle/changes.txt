@@ -2,7 +2,7 @@
 Release Notes
 =============
 
-Version 10.1.15
+Version 10.1.16
 - Live Events 2.0
 - Leagues 2.0, more prizes, improved UI.
 - Bug fixes
