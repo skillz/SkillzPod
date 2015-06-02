@@ -2,6 +2,13 @@
 Release Notes
 =============
 
+Version 10.1.18
+- Fix automated installation issue on Unity 5
+
+Version 10.1.17
+- Fixed missing turn based parameters in Unity wrapper
+- Fully automate Unity SDK install
+
 Version 10.1.16
 - Live Events 2.0
 - Leagues 2.0, more prizes, improved UI.
