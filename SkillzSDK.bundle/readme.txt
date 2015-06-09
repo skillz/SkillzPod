@@ -1,5 +1,5 @@
 
-Skillz SDK 10.1.18 for iOS
+Skillz SDK 10.1.19 for iOS
 
 (c) 2015 Skillz, Inc.
 
