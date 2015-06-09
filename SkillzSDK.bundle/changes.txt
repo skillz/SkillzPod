@@ -2,6 +2,9 @@
 Release Notes
 =============
 
+Version 10.1.19
+- Fix 64bit Marmalade plugin
+
 Version 10.1.18
 - Fix automated installation issue on Unity 5
 
