@@ -13,12 +13,9 @@
 /* Class = "UILabel"; text = "Game"; ObjectID = "XcE-AB-Dcf"; */
 "XcE-AB-Dcf.text" = "Spiel";
 
-/* Class = "UIButton"; accessibilityLabel = "Filter Button"; ObjectID = "YcM-bs-qdR"; */
-"YcM-bs-qdR.accessibilityLabel" = "Filtertaste";
-
 /* Class = "UIButton"; normalTitle = "All Transactions"; ObjectID = "YcM-bs-qdR"; */
 "YcM-bs-qdR.normalTitle" = "Alle Transaktionen";
 
 /* Class = "UILabel"; text = "Date & Time"; ObjectID = "ltA-BA-CsP"; */
-"ltA-BA-CsP.text" = "Datum&Zeit";
+"ltA-BA-CsP.text" = "Datum & Zeit";
 

@@ -7,9 +7,6 @@
 /* Class = "UIButton"; normalTitle = "WATCH REPLAY"; ObjectID = "CX0-KE-b3G"; */
 "CX0-KE-b3G.normalTitle" = "ASSISTIR REPRODUÇÃO";
 
-/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "L4R-kl-8Ts"; */
-"L4R-kl-8Ts.accessibilityLabel" = "REPROVAR Próximo";
-
 /* Class = "UIButton"; normalTitle = "PLAY AGAIN"; ObjectID = "L4R-kl-8Ts"; */
 "L4R-kl-8Ts.normalTitle" = "JOGAR DE NOVO";
 
@@ -18,9 +15,6 @@
 
 /* Class = "UIButton"; normalTitle = "SPECTATE"; ObjectID = "Rk9-P4-mXs"; */
 "Rk9-P4-mXs.normalTitle" = "PRESENCIAR";
-
-/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "ecJ-BI-cK7"; */
-"ecJ-BI-cK7.accessibilityLabel" = "REPROVAR Próximo";
 
 /* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "ecJ-BI-cK7"; */
 "ecJ-BI-cK7.normalTitle" = "AVANÇAR";

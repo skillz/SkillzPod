@@ -1,5 +1,5 @@
-/* Class = "UILabel"; text = "You don't have enough money in your account to play this match. Tap 'DEPOSIT' to add more."; ObjectID = "98a-uS-ws0"; */
-"98a-uS-ws0.text" = "このマッチをプレイするのに十分なお金がアカウントにありません。タップ「預金」は、よりを追加します。";
+/* Class = "UILabel"; text = "You don't have enough money in your account to play this match."; ObjectID = "98a-uS-ws0"; */
+"98a-uS-ws0.text" = "このマッチをプレイするのに十分なお金がアカウントにありません。";
 
 /* Class = "UIButton"; normalTitle = "DEPOSIT"; ObjectID = "iYX-HB-lZL"; */
 "iYX-HB-lZL.normalTitle" = "入金";

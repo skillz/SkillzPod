@@ -1,9 +1,6 @@
 /* Class = "UILabel"; text = "BONUS CASH"; ObjectID = "ZZM-JN-KQ2"; */
 "ZZM-JN-KQ2.text" = "CONTANTE BONUS";
 
-/* Class = "UIView"; accessibilityLabel = "Store Overlay Tutorial"; ObjectID = "k4W-73-bWu"; */
-"k4W-73-bWu.accessibilityLabel" = "Store Overlay Tutorial";
-
 /* Class = "UILabel"; text = "The more you deposit, the more bonus cash you get! Use bonus cash to compete in more cash tournaments, whatever you win you keep!"; ObjectID = "lwq-Tn-jVh"; */
 "lwq-Tn-jVh.text" = "Più depositi effettui, più contante bonus ottieni! Usa il contante bonus per competere in più tornei a premi in contanti. Qualunque cosa tu vinca, resterà tua!";
 

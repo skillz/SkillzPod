@@ -14,20 +14,20 @@
 /* Class = "UIButton"; accessibilityLabel = "CancelButton"; ObjectID = "D6L-QL-vZS"; */
 "D6L-QL-vZS.accessibilityLabel" = "CancelButton";
 
-/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "D6L-QL-vZS"; */
-"D6L-QL-vZS.normalTitle" = "Cancel";
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "D6L-QL-vZS"; */
+"D6L-QL-vZS.normalTitle" = "CANCEL";
 
 /* Class = "UILabel"; text = "$2.00"; ObjectID = "E5c-Zc-WNz"; */
 "E5c-Zc-WNz.text" = "$2.00";
 
-/* Class = "UILabel"; text = "Withdraw Amount"; ObjectID = "I7X-Yk-CEU"; */
-"I7X-Yk-CEU.text" = "Withdraw Amount";
+/* Class = "UILabel"; text = "Withdraw Amount:"; ObjectID = "I7X-Yk-CEU"; */
+"I7X-Yk-CEU.text" = "Withdraw Amount:";
 
-/* Class = "UILabel"; text = "Account Balance"; ObjectID = "Lu1-pO-9Nn"; */
-"Lu1-pO-9Nn.text" = "Account Balance";
+/* Class = "UILabel"; text = "Account Balance:"; ObjectID = "Lu1-pO-9Nn"; */
+"Lu1-pO-9Nn.text" = "Account Balance:";
 
-/* Class = "UILabel"; text = "Available Withdraw"; ObjectID = "iuA-8i-IJO"; */
-"iuA-8i-IJO.text" = "Available Withdraw";
+/* Class = "UILabel"; text = "Available Withdraw:"; ObjectID = "iuA-8i-IJO"; */
+"iuA-8i-IJO.text" = "Available Withdraw:";
 
 /* Class = "UIView"; accessibilityLabel = "Withdraw Screen"; ObjectID = "jxY-5U-FcE"; */
 "jxY-5U-FcE.accessibilityLabel" = "Withdraw Screen";
@@ -38,5 +38,5 @@
 /* Class = "UIButton"; accessibilityLabel = "Next Button"; ObjectID = "vhJ-gN-SD9"; */
 "vhJ-gN-SD9.accessibilityLabel" = "Next Button";
 
-/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "vhJ-gN-SD9"; */
-"vhJ-gN-SD9.normalTitle" = "Next";
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "vhJ-gN-SD9"; */
+"vhJ-gN-SD9.normalTitle" = "NEXT";

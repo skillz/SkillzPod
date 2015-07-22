@@ -2,10 +2,7 @@
 "BG6-5B-C2y.placeholder" = "CEP";
 
 /* Class = "UITextField"; placeholder = "CVV"; ObjectID = "Qg9-gd-7RB"; */
-"Qg9-gd-7RB.placeholder" = "CVV";
-
-/* Class = "UITextField"; accessibilityLabel = "Credit Card Entry Field"; ObjectID = "W0f-XD-brE"; */
-"W0f-XD-brE.accessibilityLabel" = "Campo Entrada do cartão de crédito";
+"Qg9-gd-7RB.placeholder" = "CV";
 
 /* Class = "UITextField"; placeholder = "Enter Your Credit Card"; ObjectID = "W0f-XD-brE"; */
 "W0f-XD-brE.placeholder" = "Insira o número do seu cartão de crédito";

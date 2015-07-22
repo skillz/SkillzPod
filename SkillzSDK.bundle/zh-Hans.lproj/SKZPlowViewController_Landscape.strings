@@ -2,22 +2,13 @@
 "BdM-Zh-JNh.text" = "赢家将获得";
 
 /* (No Commment) */
-"C8v-v2-QUa.accessibilityLabel" = "开辟下一个";
-
-/* (No Commment) */
 "C8v-v2-QUa.normalTitle" = "分享";
-
-/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "L4R-kl-8Ts"; */
-"L4R-kl-8Ts.accessibilityLabel" = "开辟下一个";
 
 /* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "L4R-kl-8Ts"; */
 "L4R-kl-8Ts.normalTitle" = "下一个";
 
 /* (No Commment) */
 "Mxk-eM-9Mf.text" = "400";
-
-/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "NW8-de-dVd"; */
-"NW8-de-dVd.accessibilityLabel" = "开辟下一个";
 
 /* Class = "UIButton"; normalTitle = "PLAY AGAIN"; ObjectID = "NW8-de-dVd"; */
 "NW8-de-dVd.normalTitle" = "再玩一次";

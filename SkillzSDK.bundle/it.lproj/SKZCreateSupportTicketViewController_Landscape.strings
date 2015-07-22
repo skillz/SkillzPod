@@ -4,9 +4,6 @@
 /* Class = "UILabel"; text = "New Support Message"; ObjectID = "IlU-ml-dJv"; */
 "IlU-ml-dJv.text" = "Nuovo supporto messaggio";
 
-/* Class = "UIView"; accessibilityLabel = "Help Screen"; ObjectID = "eJs-IV-8yU"; */
-"eJs-IV-8yU.accessibilityLabel" = "Help Screen";
-
 /* Class = "UITextField"; placeholder = "Enter Match ID (if applicable)"; ObjectID = "nfo-aJ-GtY"; */
 "nfo-aJ-GtY.placeholder" = "ID partita (se applicabile)";
 

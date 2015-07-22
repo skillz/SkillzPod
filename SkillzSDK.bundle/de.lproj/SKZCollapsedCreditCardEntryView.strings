@@ -2,10 +2,7 @@
 "BG6-5B-C2y.placeholder" = "PLZ";
 
 /* Class = "UITextField"; placeholder = "CVV"; ObjectID = "Qg9-gd-7RB"; */
-"Qg9-gd-7RB.placeholder" = "CVV";
-
-/* Class = "UITextField"; accessibilityLabel = "Credit Card Entry Field"; ObjectID = "W0f-XD-brE"; */
-"W0f-XD-brE.accessibilityLabel" = "Kreditkarten-Eingabefeld";
+"Qg9-gd-7RB.placeholder" = "Kartenprüfwert";
 
 /* Class = "UITextField"; placeholder = "Enter Your Credit Card"; ObjectID = "W0f-XD-brE"; */
 "W0f-XD-brE.placeholder" = "Kreditkarte eingeben";

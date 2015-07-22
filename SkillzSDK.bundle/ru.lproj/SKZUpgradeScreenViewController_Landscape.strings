@@ -7,12 +7,12 @@
 /* Class = "UILabel"; text = "I agree to the Terms of Service"; ObjectID = "LPe-Xw-VnX"; */
 "LPe-Xw-VnX.text" = "Я принимаю условия предоставления услуг";
 
-/* Class = "UIButton"; normalTitle = "MM/DD/YYYY"; ObjectID = "mgf-kn-1VL"; */
-"mgf-kn-1VL.normalTitle" = "ММ/ДД/ГГГГ";
+/* Class = "UIButton"; normalTitle = "Birthdate"; ObjectID = "mgf-kn-1VL"; */
+"mgf-kn-1VL.normalTitle" = "Дата Рождения";
 
-/* Class = "UILabel"; text = "Enter Your Birthday to Play for Cash"; ObjectID = "pxa-JG-A05"; */
+/* Class = "UILabel"; text = "Enter your birthday to play for cash"; ObjectID = "pxa-JG-A05"; */
 "pxa-JG-A05.text" = "Для игры на деньги введите дату рождения.";
 
 /* Class = "UILabel"; text = "GO PRO!"; ObjectID = "xBo-JM-nie"; */
-"xBo-JM-nie.text" = "ПРИОБРЕТАЙТЕ ПРОФЕССИОНАЛЬНЫЕ\nУМЕНИЯ!";
+"xBo-JM-nie.text" = "ИДТИ ПРОФЕССИОНАЛЬНЫЙ!";
 

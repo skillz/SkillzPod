@@ -1,7 +1,7 @@
-/* Class = "UILabel"; text = "VS"; ObjectID = "1yf-hH-Qya"; */
+/* (No Commment) */
 "1yf-hH-Qya.text" = "CONTRA";
 
-/* Class = "UILabel"; text = "Player One"; ObjectID = "5LW-C3-g2g"; */
+/* (No Commment) */
 "5LW-C3-g2g.text" = "Jugador uno";
 
 /* Class = "UILabel"; text = "VS"; ObjectID = "6dY-gP-riG"; */
@@ -22,7 +22,7 @@
 /* Class = "UILabel"; text = "2 Players"; ObjectID = "JPT-1t-r4N"; */
 "JPT-1t-r4N.text" = "2 jugadores";
 
-/* Class = "UILabel"; text = "Teammate"; ObjectID = "LkB-sK-7l0"; */
+/* (No Commment) */
 "LkB-sK-7l0.text" = "Compañero de equipo";
 
 /* Class = "UILabel"; text = "YOU"; ObjectID = "XOl-75-XSS"; */
@@ -34,17 +34,14 @@
 /* Class = "UILabel"; text = "Entry Fee: Free"; ObjectID = "l9S-EL-i1p"; */
 "l9S-EL-i1p.text" = "Cuota de admisión: Gratis";
 
-/* Class = "UILabel"; text = "YOU"; ObjectID = "lzJ-6K-qgQ"; */
+/* (No Commment) */
 "lzJ-6K-qgQ.text" = "TÚ";
 
-/* Class = "UILabel"; text = "Challenger"; ObjectID = "qfr-uT-k66"; */
+/* (No Commment) */
 "qfr-uT-k66.text" = "Retador";
 
-/* Class = "UILabel"; text = "Challenger"; ObjectID = "sh5-N7-sRb"; */
+/* (No Commment) */
 "sh5-N7-sRb.text" = "Retador";
-
-/* Class = "UIButton"; accessibilityLabel = "Begin Now"; ObjectID = "siG-SI-PNK"; */
-"siG-SI-PNK.accessibilityLabel" = "Empezar ahora";
 
 /* Class = "UIButton"; normalTitle = "BEGIN MATCH NOW"; ObjectID = "siG-SI-PNK"; */
 "siG-SI-PNK.normalTitle" = "EMPEZAR PARTIDA AHORA";

@@ -11,17 +11,14 @@
 /* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "OAt-9f-pCP"; */
 "OAt-9f-pCP.normalTitle" = "SAVE";
 
-/* Class = "UILabel"; text = "WOULD YOU LIKE TO UPDATE"; ObjectID = "Pmz-B3-RcF"; */
-"Pmz-B3-RcF.text" = "WOULD YOU LIKE TO UPDATE";
+/* Class = "UILabel"; text = "WOULD YOU LIKE TO UPDATE YOUR USERNAME?"; ObjectID = "Pmz-B3-RcF"; */
+"Pmz-B3-RcF.text" = "WOULD YOU LIKE TO UPDATE YOUR USERNAME?";
 
 /* Class = "UITextField"; accessibilityLabel = "Change Username Field"; ObjectID = "Pw2-s9-wE3"; */
 "Pw2-s9-wE3.accessibilityLabel" = "Change Username Field";
 
 /* Class = "UITextField"; placeholder = "Username"; ObjectID = "Pw2-s9-wE3"; */
 "Pw2-s9-wE3.placeholder" = "Username";
-
-/* Class = "UILabel"; text = "YOUR USERNAME?"; ObjectID = "Rao-iA-O37"; */
-"Rao-iA-O37.text" = "YOUR USERNAME?";
 
 /* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "b0z-Od-vJE"; */
 "b0z-Od-vJE.normalTitle" = "CANCEL";

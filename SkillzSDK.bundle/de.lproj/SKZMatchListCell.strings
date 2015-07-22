@@ -10,6 +10,9 @@
 /* Class = "UILabel"; text = "TOP PRIZE"; ObjectID = "dkb-gx-ZnJ"; */
 "dkb-gx-ZnJ.text" = "TOP-PREIS";
 
+/* Class = "UILabel"; text = "TOP CUSTOM PRIZE"; ObjectID = "lVs-p9-3xN"; */
+"lVs-p9-3xN.text" = "MAX. ANGEPASSTER PREIS";
+
 /* Class = "UILabel"; text = "BEGINS IN"; ObjectID = "pp7-lY-Tqw"; */
 "pp7-lY-Tqw.text" = "BEGINNT IN";
 

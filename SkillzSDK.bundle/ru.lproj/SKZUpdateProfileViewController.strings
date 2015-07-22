@@ -1,14 +1,14 @@
 /* Class = "UILabel"; text = "You may only change it once"; ObjectID = "5B5-Q5-LkI"; */
 "5B5-Q5-LkI.text" = "Внести изменения можно только один раз";
 
+/* Class = "UILabel"; text = "Already a member?"; ObjectID = "Cg1-hP-PZy"; */
+"Cg1-hP-PZy.text" = "Уже являетесь участником?";
+
 /* Class = "UIButton"; normalTitle = "SELECT FROM LIBRARY"; ObjectID = "HQ3-mF-cbu"; */
 "HQ3-mF-cbu.normalTitle" = "ВЫБРАТЬ ИЗ БИБЛИОТЕКИ";
 
-/* Class = "UIButton"; accessibilityLabel = "FTU Next"; ObjectID = "UPJ-7B-4xg"; */
-"UPJ-7B-4xg.accessibilityLabel" = "Кнопка «Далее» для нового пользователя";
-
-/* Class = "UIButton"; normalTitle = "BEGIN MATCH"; ObjectID = "UPJ-7B-4xg"; */
-"UPJ-7B-4xg.normalTitle" = "НАЧАТЬ МАТЧ";
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "UPJ-7B-4xg"; */
+"UPJ-7B-4xg.normalTitle" = "ДАЛЕЕ";
 
 /* Class = "UILabel"; text = "Your Avatar"; ObjectID = "ZRG-AB-KM9"; */
 "ZRG-AB-KM9.text" = "Основное изображение";
@@ -16,11 +16,8 @@
 /* Class = "UILabel"; text = "Pick A Name & An Avatar"; ObjectID = "mMt-r5-Nl3"; */
 "mMt-r5-Nl3.text" = "Выберите имя и основное изображение";
 
-/* Class = "UILabel"; text = "You can change it later in your profile"; ObjectID = "rrJ-2c-cAd"; */
-"rrJ-2c-cAd.text" = "Вы можете внести изменения в своем профиле позже";
-
-/* Class = "UIButton"; accessibilityLabel = "SignInButton"; ObjectID = "rth-TV-ijT"; */
-"rth-TV-ijT.accessibilityLabel" = "Кнопка входа";
+/* Class = "UILabel"; text = "(You can always change it later)"; ObjectID = "rrJ-2c-cAd"; */
+"rrJ-2c-cAd.text" = "(Вы можете внести изменения позже)";
 
 /* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "rth-TV-ijT"; */
 "rth-TV-ijT.normalTitle" = "ВХОД";

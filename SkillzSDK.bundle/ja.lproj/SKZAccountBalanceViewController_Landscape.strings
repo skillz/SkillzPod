@@ -1,9 +1,6 @@
 /* Class = "UILabel"; text = "Bal"; ObjectID = "A7c-Nv-LiJ"; */
 "A7c-Nv-LiJ.text" = "バル";
 
-/* Class = "UIButton"; accessibilityLabel = "Filter Button"; ObjectID = "LGv-P4-sZ0"; */
-"LGv-P4-sZ0.accessibilityLabel" = "フィルターボタン";
-
 /* Class = "UIButton"; normalTitle = "All Transactions"; ObjectID = "LGv-P4-sZ0"; */
 "LGv-P4-sZ0.normalTitle" = "すべてのトランザクション";
 

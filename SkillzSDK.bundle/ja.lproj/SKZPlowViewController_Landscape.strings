@@ -2,22 +2,13 @@
 "BdM-Zh-JNh.text" = "勝者が得るもの";
 
 /* (No Commment) */
-"C8v-v2-QUa.accessibilityLabel" = "次へ投資";
-
-/* (No Commment) */
 "C8v-v2-QUa.normalTitle" = "共有";
-
-/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "L4R-kl-8Ts"; */
-"L4R-kl-8Ts.accessibilityLabel" = "次へ投資";
 
 /* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "L4R-kl-8Ts"; */
 "L4R-kl-8Ts.normalTitle" = "次へ";
 
 /* (No Commment) */
 "Mxk-eM-9Mf.text" = "fixme";
-
-/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "NW8-de-dVd"; */
-"NW8-de-dVd.accessibilityLabel" = "次へ投資";
 
 /* Class = "UIButton"; normalTitle = "PLAY AGAIN"; ObjectID = "NW8-de-dVd"; */
 "NW8-de-dVd.normalTitle" = "もう一度プレイ";

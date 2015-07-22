@@ -2,10 +2,7 @@
 "Fkn-1x-wS3.normalTitle" = "Готово";
 
 /* Class = "UILabel"; text = "New Support Message"; ObjectID = "IlU-ml-dJv"; */
-"IlU-ml-dJv.text" = "Поддержка новых Сообщение";
-
-/* Class = "UIView"; accessibilityLabel = "Help Screen"; ObjectID = "eJs-IV-8yU"; */
-"eJs-IV-8yU.accessibilityLabel" = "Экран справки";
+"IlU-ml-dJv.text" = "Новое обращение в службу поддержки";
 
 /* Class = "UITextField"; placeholder = "Enter Match ID (if applicable)"; ObjectID = "nfo-aJ-GtY"; */
 "nfo-aJ-GtY.placeholder" = "Номер матча (если применимо)";
@@ -14,5 +11,5 @@
 "nst-jR-gTX.normalTitle" = "ОТПРАВИТЬ";
 
 /* Class = "UIButton"; normalTitle = "Select Support Category"; ObjectID = "vCO-55-Zqe"; */
-"vCO-55-Zqe.normalTitle" = "Выберите Поддержка Категории";
+"vCO-55-Zqe.normalTitle" = "Выберите тему обращения";
 

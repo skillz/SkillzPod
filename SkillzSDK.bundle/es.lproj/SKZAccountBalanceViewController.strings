@@ -13,9 +13,6 @@
 /* Class = "UILabel"; text = "Game"; ObjectID = "XcE-AB-Dcf"; */
 "XcE-AB-Dcf.text" = "Juego";
 
-/* Class = "UIButton"; accessibilityLabel = "Filter Button"; ObjectID = "YcM-bs-qdR"; */
-"YcM-bs-qdR.accessibilityLabel" = "Botón Filtro";
-
 /* Class = "UIButton"; normalTitle = "All Transactions"; ObjectID = "YcM-bs-qdR"; */
 "YcM-bs-qdR.normalTitle" = "Todas las transacciones";
 

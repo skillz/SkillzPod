@@ -5,7 +5,7 @@
 "98f-FF-PRR.text" = "ВЫКУПЛЕНО!";
 
 /* Class = "UILabel"; text = "$100"; ObjectID = "Obj-20-MtM"; */
-"Obj-20-MtM.text" = "$100";
+"Obj-20-MtM.text" = "100 $";
 
 /* Class = "UILabel"; text = "SEA DOO SP"; ObjectID = "WEc-2o-Zcr"; */
 "WEc-2o-Zcr.text" = "SEA DOO SP";

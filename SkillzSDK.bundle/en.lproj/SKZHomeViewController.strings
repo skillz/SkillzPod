@@ -2,23 +2,17 @@
 /* Class = "UIView"; accessibilityLabel = "Home Screen"; ObjectID = "1"; */
 "1.accessibilityLabel" = "Home Screen";
 
-/* Class = "UIButton"; accessibilityLabel = "Play Tab Button"; ObjectID = "PB1-lJ-AGG"; */
-"PB1-lJ-AGG.accessibilityLabel" = "Play Tab Button";
+/* Class = "UIButton"; accessibilityLabel = "Play Tab Button"; ObjectID = "hil-gP-aDa"; */
+"hil-gP-aDa.accessibilityLabel" = "Play Tab Button";
 
-/* Class = "UIButton"; normalTitle = "GAMES"; ObjectID = "PB1-lJ-AGG"; */
-"PB1-lJ-AGG.normalTitle" = "GAMES";
+/* Class = "UIButton"; normalTitle = "GAMES"; ObjectID = "hil-gP-aDa"; */
+"hil-gP-aDa.normalTitle" = "Games";
 
 /* Class = "UIButton"; accessibilityLabel = "Store Tab Button"; ObjectID = "PNT-pl-ORR"; */
 "PNT-pl-ORR.accessibilityLabel" = "Store Tab Button";
 
 /* Class = "UIButton"; normalTitle = "STORE"; ObjectID = "PNT-pl-ORR"; */
-"PNT-pl-ORR.normalTitle" = "STORE";
-
-/* Class = "UIButton"; accessibilityLabel = "Friends Tab Button"; ObjectID = "hil-gP-aDa"; */
-"hil-gP-aDa.accessibilityLabel" = "Friends Tab Button";
-
-/* Class = "UIButton"; normalTitle = "FRIENDS"; ObjectID = "hil-gP-aDa"; */
-"hil-gP-aDa.normalTitle" = "FRIENDS";
+"PNT-pl-ORR.normalTitle" = "Store";
 
 /* Class = "UIButton"; accessibilityLabel = "Rankings Tab Button"; ObjectID = "lnR-4N-bTK"; */
 "lnR-4N-bTK.accessibilityLabel" = "Rankings Tab Button";

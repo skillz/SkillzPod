@@ -1,27 +1,6 @@
-/* Class = "UIView"; accessibilityLabel = "Home Screen"; ObjectID = "1"; */
-"1.accessibilityLabel" = "主页屏";
-
-/* Class = "UIButton"; accessibilityLabel = "Play Tab Button"; ObjectID = "PB1-lJ-AGG"; */
-"PB1-lJ-AGG.accessibilityLabel" = "游戏选项卡按钮";
-
-/* Class = "UIButton"; normalTitle = "GAMES"; ObjectID = "PB1-lJ-AGG"; */
-"PB1-lJ-AGG.normalTitle" = "游戏";
-
-/* Class = "UIButton"; accessibilityLabel = "Store Tab Button"; ObjectID = "PNT-pl-ORR"; */
-"PNT-pl-ORR.accessibilityLabel" = "商店选项卡按钮";
-
-/* Class = "UIButton"; normalTitle = "STORE"; ObjectID = "PNT-pl-ORR"; */
+/* (No Commment) */
 "PNT-pl-ORR.normalTitle" = "商店";
 
-/* Class = "UIButton"; accessibilityLabel = "Friends Tab Button"; ObjectID = "hil-gP-aDa"; */
-"hil-gP-aDa.accessibilityLabel" = "好友选项卡按钮";
-
-/* Class = "UIButton"; normalTitle = "FRIENDS"; ObjectID = "hil-gP-aDa"; */
-"hil-gP-aDa.normalTitle" = "好友";
-
-/* Class = "UIButton"; accessibilityLabel = "Rankings Tab Button"; ObjectID = "lnR-4N-bTK"; */
-"lnR-4N-bTK.accessibilityLabel" = "排名选项卡按钮";
-
-/* Class = "UIButton"; normalTitle = "LEAGUES"; ObjectID = "lnR-4N-bTK"; */
-"lnR-4N-bTK.normalTitle" = "联盟";
+/* (No Commment) */
+"hil-gP-aDa.normalTitle" = "游戏";
 

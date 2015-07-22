@@ -1,17 +1,8 @@
-/* Class = "UITextField"; accessibilityLabel = "PasswordField"; ObjectID = "2bs-YC-EFf"; */
-"2bs-YC-EFf.accessibilityLabel" = "パスワードフィールド";
-
 /* Class = "UITextField"; placeholder = "Password"; ObjectID = "2bs-YC-EFf"; */
 "2bs-YC-EFf.placeholder" = "パスワード";
 
-/* Class = "UITextField"; accessibilityLabel = "UserNameField"; ObjectID = "QeH-oD-cAE"; */
-"QeH-oD-cAE.accessibilityLabel" = "ユーザー名フィールド";
-
 /* Class = "UITextField"; placeholder = "Username or Email"; ObjectID = "QeH-oD-cAE"; */
 "QeH-oD-cAE.placeholder" = "名前またはメール";
-
-/* Class = "UIButton"; accessibilityLabel = "SignInButton"; ObjectID = "dI2-2r-b71"; */
-"dI2-2r-b71.accessibilityLabel" = "サインインボタン";
 
 /* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "dI2-2r-b71"; */
 "dI2-2r-b71.normalTitle" = "サインイン";

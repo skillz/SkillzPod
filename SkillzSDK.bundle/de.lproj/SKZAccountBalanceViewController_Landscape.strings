@@ -1,9 +1,6 @@
 /* Class = "UILabel"; text = "Bal"; ObjectID = "A7c-Nv-LiJ"; */
 "A7c-Nv-LiJ.text" = "Konto";
 
-/* Class = "UIButton"; accessibilityLabel = "Filter Button"; ObjectID = "LGv-P4-sZ0"; */
-"LGv-P4-sZ0.accessibilityLabel" = "Filtertaste";
-
 /* Class = "UIButton"; normalTitle = "All Transactions"; ObjectID = "LGv-P4-sZ0"; */
 "LGv-P4-sZ0.normalTitle" = "Alle Transaktionen";
 
@@ -14,7 +11,7 @@
 "Yyc-0I-k7a.text" = "+/-";
 
 /* Class = "UILabel"; text = "Date&Time"; ObjectID = "ciP-ve-TpJ"; */
-"ciP-ve-TpJ.text" = "Datum&Zeit";
+"ciP-ve-TpJ.text" = "Datum & Zeit";
 
 /* Class = "UILabel"; text = "Game"; ObjectID = "ddv-su-SjO"; */
 "ddv-su-SjO.text" = "Spiel";

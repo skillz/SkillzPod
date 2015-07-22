@@ -1,27 +1,6 @@
-/* Class = "UIView"; accessibilityLabel = "Home Screen"; ObjectID = "1"; */
-"1.accessibilityLabel" = "Écran d'accueil";
-
-/* Class = "UIButton"; accessibilityLabel = "Play Match Tab"; ObjectID = "HZz-RP-gWP"; */
-"HZz-RP-gWP.accessibilityLabel" = "Onglet jouer match";
-
-/* Class = "UIButton"; normalTitle = "GAMES"; ObjectID = "HZz-RP-gWP"; */
+/* (No Commment) */
 "HZz-RP-gWP.normalTitle" = "JEUX";
 
-/* Class = "UIButton"; accessibilityLabel = "Invite Button"; ObjectID = "KBU-dt-gv0"; */
-"KBU-dt-gv0.accessibilityLabel" = "Bouton invitation";
-
-/* Class = "UIButton"; normalTitle = "FRIENDS"; ObjectID = "KBU-dt-gv0"; */
-"KBU-dt-gv0.normalTitle" = "AMIS";
-
-/* Class = "UIButton"; accessibilityLabel = "Store Tab"; ObjectID = "QQY-Hk-q0y"; */
-"QQY-Hk-q0y.accessibilityLabel" = "Onglet boutique";
-
-/* Class = "UIButton"; normalTitle = "SKILLZ STORE"; ObjectID = "QQY-Hk-q0y"; */
-"QQY-Hk-q0y.normalTitle" = "BOUTIQUE SKILLZ";
-
-/* Class = "UIButton"; accessibilityLabel = "Rankings Tab"; ObjectID = "mpA-yB-fs4"; */
-"mpA-yB-fs4.accessibilityLabel" = "Onglet classements";
-
-/* Class = "UIButton"; normalTitle = "LEAGUES"; ObjectID = "mpA-yB-fs4"; */
-"mpA-yB-fs4.normalTitle" = "LIGUES";
+/* (No Commment) */
+"QQY-Hk-q0y.normalTitle" = "BOUTIQUE";
 

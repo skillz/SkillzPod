@@ -5,7 +5,7 @@
 "022-Vf-XTk.text" = "EnormousClock";
 
 /* Class = "UILabel"; text = "$25.00"; ObjectID = "A9v-wu-baP"; */
-"A9v-wu-baP.text" = "$25.00";
+"A9v-wu-baP.text" = "25,00 $";
 
 /* Class = "UILabel"; text = "EnormousClock"; ObjectID = "OEQ-FZ-0Iu"; */
 "OEQ-FZ-0Iu.text" = "EnormousClock";

@@ -2,22 +2,13 @@
 "BdM-Zh-JNh.text" = "O VENCEDOR GANHARÁ";
 
 /* (No Commment) */
-"C8v-v2-QUa.accessibilityLabel" = "REPROVAR Próximo";
-
-/* (No Commment) */
 "C8v-v2-QUa.normalTitle" = "COMPARTILHAR";
-
-/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "L4R-kl-8Ts"; */
-"L4R-kl-8Ts.accessibilityLabel" = "REPROVAR Próximo";
 
 /* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "L4R-kl-8Ts"; */
 "L4R-kl-8Ts.normalTitle" = "AVANÇAR";
 
 /* (No Commment) */
 "Mxk-eM-9Mf.text" = "fixme";
-
-/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "NW8-de-dVd"; */
-"NW8-de-dVd.accessibilityLabel" = "REPROVAR Próximo";
 
 /* Class = "UIButton"; normalTitle = "PLAY AGAIN"; ObjectID = "NW8-de-dVd"; */
 "NW8-de-dVd.normalTitle" = "JOGAR DE NOVO";

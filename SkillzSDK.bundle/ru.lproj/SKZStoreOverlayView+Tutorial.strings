@@ -1,9 +1,6 @@
 /* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "4vS-Y4-OLl"; */
 "4vS-Y4-OLl.normalTitle" = "ПРОПУСТИТЬ";
 
-/* Class = "UIButton"; accessibilityLabel = "Store Overlay Tutorial Cash Speech Bubble Next Button"; ObjectID = "BAS-sX-h55"; */
-"BAS-sX-h55.accessibilityLabel" = "Кнопка «Далее» для облачка с текстом о деньгах в руководстве по наложению магазина";
-
 /* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "BAS-sX-h55"; */
 "BAS-sX-h55.normalTitle" = "ДАЛЕЕ";
 
@@ -16,27 +13,12 @@
 /* Class = "UILabel"; text = "Add cash to play for real money."; ObjectID = "YaQ-ee-7MJ"; */
 "YaQ-ee-7MJ.text" = "Для игры на реальные деньги необходимо добавить наличные деньги.";
 
-/* Class = "UIButton"; accessibilityLabel = "Store Overlay Tutorial Cash Speech Bubble Skip Button"; ObjectID = "YlC-I6-6qZ"; */
-"YlC-I6-6qZ.accessibilityLabel" = "Кнопка «Пропустить» для облачка с текстом о деньгах в руководстве по наложению магазина";
-
 /* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "YlC-I6-6qZ"; */
 "YlC-I6-6qZ.normalTitle" = "ПРОПУСТИТЬ";
 
 /* Class = "UILabel"; text = "You'll need Z for practice matches."; ObjectID = "dwc-Sb-qZY"; */
 "dwc-Sb-qZY.text" = "Для учебных матчей необходимы Z.";
 
-/* Class = "UIView"; accessibilityLabel = "Store Overlay Tutorial"; ObjectID = "k4W-73-bWu"; */
-"k4W-73-bWu.accessibilityLabel" = "Руководство по наложению магазина";
-
-/* Class = "UIView"; accessibilityLabel = "Store Overlay Tutorial Z Speech Bubble"; ObjectID = "oat-WE-9TG"; */
-"oat-WE-9TG.accessibilityLabel" = "Облачко с текстом о Z в руководстве по наложению магазина";
-
-/* Class = "UIButton"; accessibilityLabel = "Store Overlay Tutorial Z Speech Bubble Next Button"; ObjectID = "xlc-eS-b84"; */
-"xlc-eS-b84.accessibilityLabel" = "Кнопка «Далее» для облачка с текстом о Z в руководстве по наложению магазина";
-
 /* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "xlc-eS-b84"; */
 "xlc-eS-b84.normalTitle" = "ДАЛЕЕ";
-
-/* Class = "UIView"; accessibilityLabel = "Store Overlay Tutorial Cash Speech Bubble"; ObjectID = "y2j-Vy-wdf"; */
-"y2j-Vy-wdf.accessibilityLabel" = "Облачко с текстом о деньгах в руководстве по наложению магазина";
 

@@ -1,27 +1,6 @@
-/* Class = "UIView"; accessibilityLabel = "Home Screen"; ObjectID = "1"; */
-"1.accessibilityLabel" = "ホーム画面";
-
-/* Class = "UIButton"; accessibilityLabel = "Play Tab Button"; ObjectID = "PB1-lJ-AGG"; */
-"PB1-lJ-AGG.accessibilityLabel" = "プレイタブボタン";
-
-/* Class = "UIButton"; normalTitle = "GAMES"; ObjectID = "PB1-lJ-AGG"; */
-"PB1-lJ-AGG.normalTitle" = "ゲーム";
-
-/* Class = "UIButton"; accessibilityLabel = "Store Tab Button"; ObjectID = "PNT-pl-ORR"; */
-"PNT-pl-ORR.accessibilityLabel" = "プレイタブボタン";
-
-/* Class = "UIButton"; normalTitle = "STORE"; ObjectID = "PNT-pl-ORR"; */
+/* (No Commment) */
 "PNT-pl-ORR.normalTitle" = "ストア";
 
-/* Class = "UIButton"; accessibilityLabel = "Friends Tab Button"; ObjectID = "hil-gP-aDa"; */
-"hil-gP-aDa.accessibilityLabel" = "プレイタブボタン";
-
-/* Class = "UIButton"; normalTitle = "FRIENDS"; ObjectID = "hil-gP-aDa"; */
-"hil-gP-aDa.normalTitle" = "友達";
-
-/* Class = "UIButton"; accessibilityLabel = "Rankings Tab Button"; ObjectID = "lnR-4N-bTK"; */
-"lnR-4N-bTK.accessibilityLabel" = "プレイタブボタン";
-
-/* Class = "UIButton"; normalTitle = "LEAGUES"; ObjectID = "lnR-4N-bTK"; */
-"lnR-4N-bTK.normalTitle" = "リーグ";
+/* (No Commment) */
+"hil-gP-aDa.normalTitle" = "ゲーム";
 

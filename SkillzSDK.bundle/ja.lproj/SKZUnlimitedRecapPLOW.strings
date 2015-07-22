@@ -4,9 +4,6 @@
 /* Class = "UILabel"; text = "Finalizing Results"; ObjectID = "AaK-5G-eFF"; */
 "AaK-5G-eFF.text" = "最終結果";
 
-/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "L4R-kl-8Ts"; */
-"L4R-kl-8Ts.accessibilityLabel" = "次へ投資";
-
 /* Class = "UIButton"; normalTitle = "PLAY AGAIN"; ObjectID = "L4R-kl-8Ts"; */
 "L4R-kl-8Ts.normalTitle" = "もう一度プレイ";
 
@@ -24,9 +21,6 @@
 
 /* Class = "UIButton"; normalTitle = "SHARE"; ObjectID = "bEb-Ry-9wS"; */
 "bEb-Ry-9wS.normalTitle" = "共有";
-
-/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "ecJ-BI-cK7"; */
-"ecJ-BI-cK7.accessibilityLabel" = "次へ投資";
 
 /* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "ecJ-BI-cK7"; */
 "ecJ-BI-cK7.normalTitle" = "次へ";

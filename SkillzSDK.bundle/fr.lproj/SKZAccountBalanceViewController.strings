@@ -8,13 +8,10 @@
 "OAx-U0-UGq.text" = "Évènement";
 
 /* Class = "UIButton"; normalTitle = "Done"; ObjectID = "Q0o-vi-xMT"; */
-"Q0o-vi-xMT.normalTitle" = "Effectué";
+"Q0o-vi-xMT.normalTitle" = "OK";
 
 /* Class = "UILabel"; text = "Game"; ObjectID = "XcE-AB-Dcf"; */
 "XcE-AB-Dcf.text" = "Jeu";
-
-/* Class = "UIButton"; accessibilityLabel = "Filter Button"; ObjectID = "YcM-bs-qdR"; */
-"YcM-bs-qdR.accessibilityLabel" = "Bouton Filtre";
 
 /* Class = "UIButton"; normalTitle = "All Transactions"; ObjectID = "YcM-bs-qdR"; */
 "YcM-bs-qdR.normalTitle" = "Toutes les transactions";

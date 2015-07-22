@@ -1,9 +1,6 @@
 /* Class = "UILabel"; text = "Bal"; ObjectID = "A7c-Nv-LiJ"; */
 "A7c-Nv-LiJ.text" = "余额";
 
-/* Class = "UIButton"; accessibilityLabel = "Filter Button"; ObjectID = "LGv-P4-sZ0"; */
-"LGv-P4-sZ0.accessibilityLabel" = "筛选按钮";
-
 /* Class = "UIButton"; normalTitle = "All Transactions"; ObjectID = "LGv-P4-sZ0"; */
 "LGv-P4-sZ0.normalTitle" = "所有交易";
 

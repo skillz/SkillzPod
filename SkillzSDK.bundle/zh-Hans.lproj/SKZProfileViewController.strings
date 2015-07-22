@@ -1,12 +1,6 @@
-/* Class = "UIView"; accessibilityLabel = "Profile Screen"; ObjectID = "1"; */
-"1.accessibilityLabel" = "档案屏";
-
-/* Class = "UIButton"; normalTitle = "ADD FRIEND"; ObjectID = "2uc-2z-WdR"; */
+/* (No Commment) */
 "2uc-2z-WdR.normalTitle" = "添加好友";
 
-/* Class = "UIButton"; normalTitle = "REMOVE FRIEND"; ObjectID = "Ens-Ep-wYH"; */
+/* (No Commment) */
 "Ens-Ep-wYH.normalTitle" = "移除好友";
-
-/* Class = "UIButton"; accessibilityLabel = "ShoutOutButton"; ObjectID = "imo-9N-VaA"; */
-"imo-9N-VaA.accessibilityLabel" = "呼喊按钮";
 

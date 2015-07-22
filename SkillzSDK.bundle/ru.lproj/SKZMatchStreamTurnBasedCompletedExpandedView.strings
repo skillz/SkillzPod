@@ -8,7 +8,7 @@
 "7dS-WA-H42.text" = "4";
 
 /* Class = "UILabel"; text = "$25.00"; ObjectID = "9cY-9I-jY1"; */
-"9cY-9I-jY1.text" = "$25.00";
+"9cY-9I-jY1.text" = "25,00 $";
 
 /* Class = "UILabel"; text = "EnormousClock"; ObjectID = "022-Vf-XTk"; */
 "022-Vf-XTk.text" = "EnormousClock";
@@ -29,5 +29,5 @@
 "bxO-BX-FqX.text" = "4";
 
 /* Class = "UILabel"; text = "$25.00"; ObjectID = "i7Y-WN-Vhd"; */
-"i7Y-WN-Vhd.text" = "$25.00";
+"i7Y-WN-Vhd.text" = "25,00 $";
 

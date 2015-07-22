@@ -2,10 +2,7 @@
 "BG6-5B-C2y.placeholder" = "邮政编码";
 
 /* Class = "UITextField"; placeholder = "CVV"; ObjectID = "Qg9-gd-7RB"; */
-"Qg9-gd-7RB.placeholder" = "CVV";
-
-/* Class = "UITextField"; accessibilityLabel = "Credit Card Entry Field"; ObjectID = "W0f-XD-brE"; */
-"W0f-XD-brE.accessibilityLabel" = "信用卡输入栏";
+"Qg9-gd-7RB.placeholder" = "卡验证值 (CVV)";
 
 /* Class = "UITextField"; placeholder = "Enter Your Credit Card"; ObjectID = "W0f-XD-brE"; */
 "W0f-XD-brE.placeholder" = "请输入你的信用卡";
