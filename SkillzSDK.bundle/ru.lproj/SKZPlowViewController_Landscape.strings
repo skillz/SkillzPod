@@ -2,22 +2,13 @@
 "BdM-Zh-JNh.text" = "ПОБЕДИТЕЛЬ ПОЛУЧИТ";
 
 /* (No Commment) */
-"C8v-v2-QUa.accessibilityLabel" = "ИГРАТЬ еще";
-
-/* (No Commment) */
 "C8v-v2-QUa.normalTitle" = "ПОДЕЛИТЬСЯ";
-
-/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "L4R-kl-8Ts"; */
-"L4R-kl-8Ts.accessibilityLabel" = "ИГРАТЬ еще";
 
 /* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "L4R-kl-8Ts"; */
 "L4R-kl-8Ts.normalTitle" = "ДАЛЕЕ";
 
 /* (No Commment) */
 "Mxk-eM-9Mf.text" = "fixme";
-
-/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "NW8-de-dVd"; */
-"NW8-de-dVd.accessibilityLabel" = "ИГРАТЬ еще";
 
 /* Class = "UIButton"; normalTitle = "PLAY AGAIN"; ObjectID = "NW8-de-dVd"; */
 "NW8-de-dVd.normalTitle" = "ИГРАТЬ ЕЩЕ РАЗ";
@@ -35,5 +26,5 @@
 "whe-PW-91a.normalTitle" = "ПОДЕЛИТЬСЯ";
 
 /* (No Commment) */
-"xq3-wN-e5C.text" = "+$10.00";
+"xq3-wN-e5C.text" = "+$10,00";
 

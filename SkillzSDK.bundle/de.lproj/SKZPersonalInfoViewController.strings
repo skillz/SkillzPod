@@ -1,35 +1,20 @@
 /* Class = "UIButton"; normalTitle = "Country"; ObjectID = "7Yf-Or-SCd"; */
 "7Yf-Or-SCd.normalTitle" = "Land";
 
-/* Class = "UITextField"; accessibilityLabel = "Zip Field"; ObjectID = "9rr-BU-P3Z"; */
-"9rr-BU-P3Z.accessibilityLabel" = "PLZ - Feld";
-
 /* Class = "UITextField"; placeholder = "State/Province"; ObjectID = "9rr-BU-P3Z"; */
 "9rr-BU-P3Z.placeholder" = "Staat/Bundesland";
-
-/* Class = "UITextField"; accessibilityLabel = "Last Name Field"; ObjectID = "ApV-8E-zJc"; */
-"ApV-8E-zJc.accessibilityLabel" = "Nachname - Feld";
 
 /* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "ApV-8E-zJc"; */
 "ApV-8E-zJc.placeholder" = "Nachname";
 
-/* Class = "UITextField"; accessibilityLabel = "Zip Field"; ObjectID = "BnM-RV-2f0"; */
-"BnM-RV-2f0.accessibilityLabel" = "PLZ - Feld";
-
 /* Class = "UITextField"; placeholder = "City"; ObjectID = "BnM-RV-2f0"; */
 "BnM-RV-2f0.placeholder" = "Stadt";
-
-/* Class = "UIButton"; accessibilityLabel = "Update Button"; ObjectID = "D1L-H2-gTV"; */
-"D1L-H2-gTV.accessibilityLabel" = "Aktualisieren - Taste";
 
 /* Class = "UIButton"; normalTitle = "UPDATE"; ObjectID = "D1L-H2-gTV"; */
 "D1L-H2-gTV.normalTitle" = "AKTUALISIEREN";
 
 /* Class = "UILabel"; text = "Withdraw Information"; ObjectID = "EyO-rC-6aK"; */
-"EyO-rC-6aK.text" = "Abhebungsdaten";
-
-/* Class = "UITextField"; accessibilityLabel = "First Name Field"; ObjectID = "KVR-Ga-YjV"; */
-"KVR-Ga-YjV.accessibilityLabel" = "Vorname - Feld";
+"EyO-rC-6aK.text" = "Adressdaten";
 
 /* Class = "UITextField"; placeholder = "First Name"; ObjectID = "KVR-Ga-YjV"; */
 "KVR-Ga-YjV.placeholder" = "Vorname";
@@ -37,31 +22,21 @@
 /* Class = "UILabel"; text = "Personal Information"; ObjectID = "LBi-aI-Ivk"; */
 "LBi-aI-Ivk.text" = "Persönliche Daten";
 
-/* Class = "UITextField"; accessibilityLabel = "Email Field"; ObjectID = "TdC-lR-FLp"; */
-"TdC-lR-FLp.accessibilityLabel" = "E-Mail - Feld";
-
 /* Class = "UITextField"; placeholder = "Email"; ObjectID = "TdC-lR-FLp"; */
 "TdC-lR-FLp.placeholder" = "E-Mail";
 
 /* Class = "UIButton"; normalTitle = "Done"; ObjectID = "fkh-6U-zG2"; */
 "fkh-6U-zG2.normalTitle" = "Fertig";
 
-/* Class = "UITextField"; accessibilityLabel = "Zip Field"; ObjectID = "uUO-AY-etD"; */
-"uUO-AY-etD.accessibilityLabel" = "PLZ - Feld";
-
-/* Class = "UITextField"; placeholder = "Postal Code"; ObjectID = "uUO-AY-etD"; */
-"uUO-AY-etD.placeholder" = "Postleitzahl";
-
-/* Class = "UITextField"; accessibilityLabel = "Address Field"; ObjectID = "zxC-n0-WhI"; */
-"zxC-n0-WhI.accessibilityLabel" = "Adresse - Feld";
-
-/* Class = "UITextField"; placeholder = "Street Address"; ObjectID = "zxC-n0-WhI"; */
-"zxC-n0-WhI.placeholder" = "Adresse/Straße";
+/* Class = "UITextField"; placeholder = "Apt, Unit, Bldg"; ObjectID = "nA8-eP-AVI"; */
+"nA8-eP-AVI.placeholder" = "Apt, Einheit, Bldg";
 
 /* Class = "UITextField"; placeholder = "Phone"; ObjectID = "nb1-xg-b8G"; */
 "nb1-xg-b8G.placeholder" = "Telefon";
 
-/* Class = "UITextField"; placeholder = "Apt, Unit, Bldg"; ObjectID = "nA8-eP-AVI"; */
-"nA8-eP-AVI.placeholder" = "Apt, Einheit, Bldg";
+/* Class = "UITextField"; placeholder = "Postal Code"; ObjectID = "uUO-AY-etD"; */
+"uUO-AY-etD.placeholder" = "Postleitzahl";
 
+/* Class = "UITextField"; placeholder = "Street Address"; ObjectID = "zxC-n0-WhI"; */
+"zxC-n0-WhI.placeholder" = "Adresse/Straße";
 

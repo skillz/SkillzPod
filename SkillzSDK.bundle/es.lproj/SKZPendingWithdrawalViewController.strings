@@ -2,7 +2,7 @@
 "8mq-g6-C6v.text" = "Lo sentimos, pero no puedes realizar un depósito en este momento porque tienes una retirada pendiente.";
 
 /* Class = "UIButton"; normalTitle = "CANCEL WITHDRAWAL & MAKE DEPOSIT"; ObjectID = "Kup-jZ-hqe"; */
-"Kup-jZ-hqe.normalTitle" = "CANCELAR RETIRADA & HACER DEPÓSITO";
+"Kup-jZ-hqe.normalTitle" = "CANCELAR RETIRADA Y HACER DEPÓSITO";
 
 /* Class = "UILabel"; text = "Please cancel the withdrawal in order to make a deposit."; ObjectID = "fNg-1Q-9ua"; */
 "fNg-1Q-9ua.text" = "Cancela la retirada para realizar un depósito.";

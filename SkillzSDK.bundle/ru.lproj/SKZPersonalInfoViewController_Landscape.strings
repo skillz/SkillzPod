@@ -1,26 +1,14 @@
-/* Class = "UITextField"; accessibilityLabel = "Last Name Field"; ObjectID = "ApV-8E-zJc"; */
-"ApV-8E-zJc.accessibilityLabel" = "Поле фамилии";
-
 /* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "ApV-8E-zJc"; */
 "ApV-8E-zJc.placeholder" = "Фамилия";
 
-/* Class = "UITextField"; accessibilityLabel = "Zip Field"; ObjectID = "BnM-RV-2f0"; */
-"BnM-RV-2f0.accessibilityLabel" = "Поле почтового индекса";
-
 /* Class = "UITextField"; placeholder = "Postal Code"; ObjectID = "BnM-RV-2f0"; */
 "BnM-RV-2f0.placeholder" = "Почтовый индекс";
-
-/* Class = "UIButton"; accessibilityLabel = "Update Button"; ObjectID = "D1L-H2-gTV"; */
-"D1L-H2-gTV.accessibilityLabel" = "Кнопка обновления";
 
 /* Class = "UIButton"; normalTitle = "UPDATE"; ObjectID = "D1L-H2-gTV"; */
 "D1L-H2-gTV.normalTitle" = "ОБНОВИТЬ";
 
 /* Class = "UILabel"; text = "Withdraw Information"; ObjectID = "EyO-rC-6aK"; */
-"EyO-rC-6aK.text" = "Информация о выводе средств";
-
-/* Class = "UITextField"; accessibilityLabel = "First Name Field"; ObjectID = "KVR-Ga-YjV"; */
-"KVR-Ga-YjV.accessibilityLabel" = "Поле имени";
+"EyO-rC-6aK.text" = "Информация, необходимая для вывода средств";
 
 /* Class = "UITextField"; placeholder = "First Name"; ObjectID = "KVR-Ga-YjV"; */
 "KVR-Ga-YjV.placeholder" = "Имя";
@@ -31,20 +19,17 @@
 /* Class = "UIButton"; normalTitle = "Country"; ObjectID = "S1d-Zw-hPu"; */
 "S1d-Zw-hPu.normalTitle" = "Cтрана";
 
-/* Class = "UITextField"; accessibilityLabel = "Email Field"; ObjectID = "TdC-lR-FLp"; */
-"TdC-lR-FLp.accessibilityLabel" = "Поле адреса электронной почты";
-
 /* Class = "UITextField"; placeholder = "Email"; ObjectID = "TdC-lR-FLp"; */
 "TdC-lR-FLp.placeholder" = "Адрес электронной почты";
-
-/* Class = "UITextField"; accessibilityLabel = "Email Field"; ObjectID = "X5h-jV-agF"; */
-"X5h-jV-agF.accessibilityLabel" = "Поле адреса электронной почты";
 
 /* Class = "UITextField"; placeholder = "State/Province"; ObjectID = "X5h-jV-agF"; */
 "X5h-jV-agF.placeholder" = "Регион";
 
-/* Class = "UITextField"; accessibilityLabel = "Zip Field"; ObjectID = "ucy-79-HfW"; */
-"ucy-79-HfW.accessibilityLabel" = "Поле почтового индекса";
+/* Class = "UITextField"; placeholder = "Apt, Unit, Bldg"; ObjectID = "XkF-eR-dvg"; */
+"XkF-eR-dvg.placeholder" = "Дом, корпус, квартира";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "pxb-PB-E4X"; */
+"pxb-PB-E4X.placeholder" = "Телефон";
 
 /* Class = "UITextField"; placeholder = "City"; ObjectID = "ucy-79-HfW"; */
 "ucy-79-HfW.placeholder" = "Город";
@@ -52,15 +37,6 @@
 /* Class = "UIButton"; normalTitle = "Done"; ObjectID = "zga-E7-0Kt"; */
 "zga-E7-0Kt.normalTitle" = "Готово";
 
-/* Class = "UITextField"; accessibilityLabel = "Address Field"; ObjectID = "zxC-n0-WhI"; */
-"zxC-n0-WhI.accessibilityLabel" = "Поле адреса";
-
 /* Class = "UITextField"; placeholder = "Street Address"; ObjectID = "zxC-n0-WhI"; */
 "zxC-n0-WhI.placeholder" = "Улица";
-
-/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "pxb-PB-E4X"; */
-"pxb-PB-E4X.placeholder" = "Телефон";
-
-/* Class = "UITextField"; placeholder = "Apt, Unit, Bldg"; ObjectID = "XkF-eR-dvg"; */
-"XkF-eR-dvg.placeholder" = "Дом, корпус, квартира";
 

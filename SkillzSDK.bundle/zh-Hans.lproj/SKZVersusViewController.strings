@@ -1,7 +1,7 @@
-/* Class = "UILabel"; text = "VS"; ObjectID = "1yf-hH-Qya"; */
+/* (No Commment) */
 "1yf-hH-Qya.text" = "VS";
 
-/* Class = "UILabel"; text = "Player One"; ObjectID = "5LW-C3-g2g"; */
+/* (No Commment) */
 "5LW-C3-g2g.text" = "一号玩家";
 
 /* Class = "UILabel"; text = "VS"; ObjectID = "6dY-gP-riG"; */
@@ -22,7 +22,7 @@
 /* Class = "UILabel"; text = "2 Players"; ObjectID = "JPT-1t-r4N"; */
 "JPT-1t-r4N.text" = "2 位玩家";
 
-/* Class = "UILabel"; text = "Teammate"; ObjectID = "LkB-sK-7l0"; */
+/* (No Commment) */
 "LkB-sK-7l0.text" = "队友";
 
 /* Class = "UILabel"; text = "YOU"; ObjectID = "XOl-75-XSS"; */
@@ -34,17 +34,14 @@
 /* Class = "UILabel"; text = "Entry Fee: Free"; ObjectID = "l9S-EL-i1p"; */
 "l9S-EL-i1p.text" = "入场费：免费";
 
-/* Class = "UILabel"; text = "YOU"; ObjectID = "lzJ-6K-qgQ"; */
+/* (No Commment) */
 "lzJ-6K-qgQ.text" = "你";
 
-/* Class = "UILabel"; text = "Challenger"; ObjectID = "qfr-uT-k66"; */
+/* (No Commment) */
 "qfr-uT-k66.text" = "挑战者";
 
-/* Class = "UILabel"; text = "Challenger"; ObjectID = "sh5-N7-sRb"; */
+/* (No Commment) */
 "sh5-N7-sRb.text" = "挑战者";
-
-/* Class = "UIButton"; accessibilityLabel = "Begin Now"; ObjectID = "siG-SI-PNK"; */
-"siG-SI-PNK.accessibilityLabel" = "现在开始";
 
 /* Class = "UIButton"; normalTitle = "BEGIN MATCH NOW"; ObjectID = "siG-SI-PNK"; */
 "siG-SI-PNK.normalTitle" = "现在开始比赛";

@@ -17,7 +17,7 @@
 "VRv-nv-uTt.text" = "1234";
 
 /* Class = "UILabel"; text = "$25.00"; ObjectID = "Xbz-U1-dCD"; */
-"Xbz-U1-dCD.text" = "$25.00";
+"Xbz-U1-dCD.text" = "$25,00";
 
 /* Class = "UILabel"; text = "YOU"; ObjectID = "i5v-6I-3PI"; */
 "i5v-6I-3PI.text" = "TU";

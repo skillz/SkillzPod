@@ -1,9 +1,3 @@
-/* Class = "UIView"; accessibilityLabel = "Playable Matches Overlay"; ObjectID = "1"; */
-"1.accessibilityLabel" = "Aperçu Matches jouables";
-
-/* Class = "UIButton"; accessibilityLabel = "Enter Promo Button"; ObjectID = "Egi-5g-98s"; */
-"Egi-5g-98s.accessibilityLabel" = "Bouton Saisir codes promotionnels";
-
 /* Class = "UIButton"; normalTitle = "ENTER MATCH CODE"; ObjectID = "Egi-5g-98s"; */
 "Egi-5g-98s.normalTitle" = "ENTRER LE CODE MATCH";
 

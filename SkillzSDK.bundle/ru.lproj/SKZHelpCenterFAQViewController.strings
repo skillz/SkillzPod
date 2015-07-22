@@ -2,11 +2,11 @@
 "F73-k0-euM.normalTitle" = "Готово";
 
 /* Class = "UILabel"; text = "Didn't answer your question?"; ObjectID = "eOF-1U-oFq"; */
-"eOF-1U-oFq.text" = "Не ответить на ваш вопрос?";
+"eOF-1U-oFq.text" = "Не ответили на Ваш вопрос?";
 
 /* Class = "UIButton"; normalTitle = "Select Support Category"; ObjectID = "hcP-zJ-0w8"; */
 "hcP-zJ-0w8.normalTitle" = "Выберите категорию";
 
 /* Class = "UIButton"; normalTitle = "CONTACT CUSTOMER SERVICE"; ObjectID = "iKi-7b-1kJ"; */
-"iKi-7b-1kJ.normalTitle" = "Связаться со службой клиентской";
+"iKi-7b-1kJ.normalTitle" = "СВЯЗАТЬСЯ С КЛИЕНТСКОЙ СЛУЖБОЙ";
 

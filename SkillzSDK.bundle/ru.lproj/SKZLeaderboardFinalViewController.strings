@@ -1,6 +1,3 @@
-/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "6UD-T0-Brp"; */
-"6UD-T0-Brp.accessibilityLabel" = "ИГРАТЬ еще";
-
 /* Class = "UIButton"; normalTitle = "SHARE"; ObjectID = "6UD-T0-Brp"; */
 "6UD-T0-Brp.normalTitle" = "ПОДЕЛИТЬСЯ";
 
@@ -11,7 +8,7 @@
 "KoC-pJ-VXk.text" = "ПРИЗ";
 
 /* Class = "UILabel"; text = "USER"; ObjectID = "Sy1-Hu-xZD"; */
-"Sy1-Hu-xZD.text" = "ПОЛЬЗОВАТЕЛЬ";
+"Sy1-Hu-xZD.text" = "ИГРОК";
 
 /* Class = "UILabel"; text = "Leaderboard Ended July 12th, 2014"; ObjectID = "Wy5-nM-h9Z"; */
 "Wy5-nM-h9Z.text" = "Формирование таблицы лидеров завершено 12 июля 2014 г.";
@@ -21,9 +18,6 @@
 
 /* Class = "UILabel"; text = "SCORE"; ObjectID = "g4c-56-uRZ"; */
 "g4c-56-uRZ.text" = "СЧЕТ";
-
-/* Class = "UIButton"; accessibilityLabel = "Leaderboard Ended Next Button"; ObjectID = "znR-hz-2bt"; */
-"znR-hz-2bt.accessibilityLabel" = "Кнопка «Далее» при завершении формирования таблицы лидеров";
 
 /* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "znR-hz-2bt"; */
 "znR-hz-2bt.normalTitle" = "ДАЛЕЕ";

@@ -1,11 +1,5 @@
-/* Class = "UIView"; accessibilityLabel = "Withdraw Screen"; ObjectID = "1"; */
-"1.accessibilityLabel" = "Tela Retirada";
-
 /* Class = "UILabel"; text = "$20.00"; ObjectID = "4zM-dM-7Jz"; */
 "4zM-dM-7Jz.text" = "$20,00";
-
-/* Class = "UITextField"; accessibilityLabel = "Withdraw Amount Field"; ObjectID = "AVj-l5-TYC"; */
-"AVj-l5-TYC.accessibilityLabel" = "Campo Valor da retirada";
 
 /* Class = "UITextField"; placeholder = "$0.00"; ObjectID = "AVj-l5-TYC"; */
 "AVj-l5-TYC.placeholder" = "$0,00";
@@ -16,30 +10,21 @@
 /* Class = "UILabel"; text = "Withdrawal Code (Optional)"; ObjectID = "HrY-da-7U1"; */
 "HrY-da-7U1.text" = "Código do retirada (opcional)";
 
-/* Class = "UILabel"; text = "Withdraw Amount"; ObjectID = "I7X-Yk-CEU"; */
-"I7X-Yk-CEU.text" = "Valor da retirada";
+/* Class = "UILabel"; text = "Withdraw Amount:"; ObjectID = "I7X-Yk-CEU"; */
+"I7X-Yk-CEU.text" = "Valor da retirada:";
 
-/* Class = "UILabel"; text = "Account Balance"; ObjectID = "Lu1-pO-9Nn"; */
-"Lu1-pO-9Nn.text" = "Saldo da conta";
+/* Class = "UILabel"; text = "Account Balance:"; ObjectID = "Lu1-pO-9Nn"; */
+"Lu1-pO-9Nn.text" = "Saldo da conta:";
 
-/* Class = "UITextField"; accessibilityLabel = "Withdraw Amount Field"; ObjectID = "aQf-BG-NsY"; */
-"aQf-BG-NsY.accessibilityLabel" = "Campo Valor da retirada";
-
-/* Class = "UILabel"; text = "Available Withdraw"; ObjectID = "iuA-8i-IJO"; */
-"iuA-8i-IJO.text" = "Retirada disponível";
+/* Class = "UILabel"; text = "Available Withdraw:"; ObjectID = "iuA-8i-IJO"; */
+"iuA-8i-IJO.text" = "Retirada disponível:";
 
 /* Class = "UILabel"; text = "Cash Out Your Winnings"; ObjectID = "ncv-h7-LaG"; */
 "ncv-h7-LaG.text" = "Saque seus ganhos";
 
-/* Class = "UIButton"; accessibilityLabel = "CancelButton"; ObjectID = "rpW-ii-uKx"; */
-"rpW-ii-uKx.accessibilityLabel" = "BotãoCancelar";
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "rpW-ii-uKx"; */
+"rpW-ii-uKx.normalTitle" = "CANCELAR";
 
-/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "rpW-ii-uKx"; */
-"rpW-ii-uKx.normalTitle" = "Cancelar";
-
-/* Class = "UIButton"; accessibilityLabel = "Next Button"; ObjectID = "wKJ-hp-rJB"; */
-"wKJ-hp-rJB.accessibilityLabel" = "Botão Avançar";
-
-/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "wKJ-hp-rJB"; */
-"wKJ-hp-rJB.normalTitle" = "Avançar";
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "wKJ-hp-rJB"; */
+"wKJ-hp-rJB.normalTitle" = "AVANÇAR";
 

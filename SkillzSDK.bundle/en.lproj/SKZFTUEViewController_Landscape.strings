@@ -2,20 +2,11 @@
 /* Class = "UIButton"; accessibilityLabel = "SignInButton"; ObjectID = "120"; */
 "120.accessibilityLabel" = "SignInButton";
 
-/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "120"; */
-"120.normalTitle" = "SIGN IN";
+/* Class = "UILabel"; text = "SIGN IN"; ObjectID = "Lat-yy-aPr"; */
+"Lat-yy-aPr.text" = "SIGN IN";
 
 /* Class = "UIButton"; accessibilityLabel = "FTU Next"; ObjectID = "128"; */
 "128.accessibilityLabel" = "FTU Next";
 
 /* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "128"; */
 "128.normalTitle" = "NEXT";
-
-/* Class = "UILabel"; text = "Climb the Rankings to Win Weekly Prizes"; ObjectID = "335"; */
-"335.text" = "Climb the Rankings to Win Weekly Prizes";
-
-/* Class = "UILabel"; text = "Go Pro or Just Practice"; ObjectID = "336"; */
-"336.text" = "Go Pro or Just Practice";
-
-/* Class = "UILabel"; text = "Compete to Win Prizes"; ObjectID = "339"; */
-"339.text" = "Compete to Win Prizes";

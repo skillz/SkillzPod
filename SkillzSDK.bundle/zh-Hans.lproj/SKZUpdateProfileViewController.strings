@@ -1,14 +1,14 @@
 /* Class = "UILabel"; text = "You may only change it once"; ObjectID = "5B5-Q5-LkI"; */
 "5B5-Q5-LkI.text" = "您仅能更改一次";
 
+/* Class = "UILabel"; text = "Already a member?"; ObjectID = "Cg1-hP-PZy"; */
+"Cg1-hP-PZy.text" = "已是会员？";
+
 /* Class = "UIButton"; normalTitle = "SELECT FROM LIBRARY"; ObjectID = "HQ3-mF-cbu"; */
 "HQ3-mF-cbu.normalTitle" = "从库中选择";
 
-/* Class = "UIButton"; accessibilityLabel = "FTU Next"; ObjectID = "UPJ-7B-4xg"; */
-"UPJ-7B-4xg.accessibilityLabel" = "下一个 FTU";
-
-/* Class = "UIButton"; normalTitle = "BEGIN MATCH"; ObjectID = "UPJ-7B-4xg"; */
-"UPJ-7B-4xg.normalTitle" = "开始比赛";
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "UPJ-7B-4xg"; */
+"UPJ-7B-4xg.normalTitle" = "下一个";
 
 /* Class = "UILabel"; text = "Your Avatar"; ObjectID = "ZRG-AB-KM9"; */
 "ZRG-AB-KM9.text" = "你的虚拟形象";
@@ -16,11 +16,8 @@
 /* Class = "UILabel"; text = "Pick A Name & An Avatar"; ObjectID = "mMt-r5-Nl3"; */
 "mMt-r5-Nl3.text" = "请选择一个名称和一个虚拟形象";
 
-/* Class = "UILabel"; text = "You can change it later in your profile"; ObjectID = "rrJ-2c-cAd"; */
-"rrJ-2c-cAd.text" = "您可以稍后在个人资料中进行更改";
-
-/* Class = "UIButton"; accessibilityLabel = "SignInButton"; ObjectID = "rth-TV-ijT"; */
-"rth-TV-ijT.accessibilityLabel" = "登录按钮";
+/* Class = "UILabel"; text = "(You can always change it later)"; ObjectID = "rrJ-2c-cAd"; */
+"rrJ-2c-cAd.text" = "（你可在稍后随时进行更改）";
 
 /* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "rth-TV-ijT"; */
 "rth-TV-ijT.normalTitle" = "登录";

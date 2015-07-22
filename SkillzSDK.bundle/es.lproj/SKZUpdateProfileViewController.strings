@@ -1,14 +1,14 @@
 /* Class = "UILabel"; text = "You may only change it once"; ObjectID = "5B5-Q5-LkI"; */
 "5B5-Q5-LkI.text" = "Puedes cambiarlo una vez";
 
+/* Class = "UILabel"; text = "Already a member?"; ObjectID = "Cg1-hP-PZy"; */
+"Cg1-hP-PZy.text" = "¿Ya estás afiliado?";
+
 /* Class = "UIButton"; normalTitle = "SELECT FROM LIBRARY"; ObjectID = "HQ3-mF-cbu"; */
 "HQ3-mF-cbu.normalTitle" = "SELECCIONAR DE LA BIBLIOTECA";
 
-/* Class = "UIButton"; accessibilityLabel = "FTU Next"; ObjectID = "UPJ-7B-4xg"; */
-"UPJ-7B-4xg.accessibilityLabel" = "Siguiente FTU";
-
-/* Class = "UIButton"; normalTitle = "BEGIN MATCH"; ObjectID = "UPJ-7B-4xg"; */
-"UPJ-7B-4xg.normalTitle" = "EMPEZAR PARTIDA";
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "UPJ-7B-4xg"; */
+"UPJ-7B-4xg.normalTitle" = "SIGUIENTE";
 
 /* Class = "UILabel"; text = "Your Avatar"; ObjectID = "ZRG-AB-KM9"; */
 "ZRG-AB-KM9.text" = "Tu avatar";
@@ -16,11 +16,8 @@
 /* Class = "UILabel"; text = "Pick A Name & An Avatar"; ObjectID = "mMt-r5-Nl3"; */
 "mMt-r5-Nl3.text" = "Elige un nombre y un avatar";
 
-/* Class = "UILabel"; text = "You can change it later in your profile"; ObjectID = "rrJ-2c-cAd"; */
-"rrJ-2c-cAd.text" = "Puedes cambiarlo más adelante en tu perfil";
-
-/* Class = "UIButton"; accessibilityLabel = "SignInButton"; ObjectID = "rth-TV-ijT"; */
-"rth-TV-ijT.accessibilityLabel" = "Botón Inicio de sesión";
+/* Class = "UILabel"; text = "(You can always change it later)"; ObjectID = "rrJ-2c-cAd"; */
+"rrJ-2c-cAd.text" = "(Siempre puedes cambiarlo más adelante)";
 
 /* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "rth-TV-ijT"; */
 "rth-TV-ijT.normalTitle" = "INICIAR SESIÓN";

@@ -10,12 +10,3 @@
 
 /* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "128"; */
 "128.normalTitle" = "NEXT";
-
-/* Class = "UILabel"; text = "Compete to Win Prizes"; ObjectID = "327"; */
-"327.text" = "Compete to Win Prizes";
-
-/* Class = "UILabel"; text = "Go Pro or Just Practice"; ObjectID = "328"; */
-"328.text" = "Go Pro or Just Practice";
-
-/* Class = "UILabel"; text = "Climb the Rankings to Win Weekly Prizes"; ObjectID = "329"; */
-"329.text" = "Climb the Rankings to Win Weekly Prizes";

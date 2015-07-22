@@ -2,13 +2,16 @@
 "8bP-xf-fbm.normalTitle" = "AFFICHER DAVANTAGE";
 
 /* Class = "UILabel"; text = "SIGN UP FOR EVENT"; ObjectID = "DBr-Vs-tuh"; */
-"DBr-Vs-tuh.text" = "INSCRIVEZ-VOUS À L'ÉVÉNEMENT";
+"DBr-Vs-tuh.text" = "INSCRIVEZ-VOUS À L'ÉVÈNEMENT";
 
 /* Class = "UILabel"; text = "Fee:"; ObjectID = "Jhf-Ko-Mvy"; */
 "Jhf-Ko-Mvy.text" = "Prix :";
 
 /* Class = "UILabel"; text = "TOP PRIZE"; ObjectID = "dkb-gx-ZnJ"; */
 "dkb-gx-ZnJ.text" = "PREMIER PRIX";
+
+/* Class = "UILabel"; text = "TOP CUSTOM PRIZE"; ObjectID = "lVs-p9-3xN"; */
+"lVs-p9-3xN.text" = "PREMIER PRIX PERSONNALISÉ";
 
 /* Class = "UILabel"; text = "BEGINS IN"; ObjectID = "pp7-lY-Tqw"; */
 "pp7-lY-Tqw.text" = "COMMENCE DANS";

@@ -9,6 +9,9 @@
 #import <SkillzSDK-iOS/SkillzInstance.h>
 #import <SkillzSDK-iOS/Skillz+Turnbased.h>
 #import <SkillzSDK-iOS/SKZRoundResults.h>
+#import <SkillzSDK-iOS/SKZTurnBasedPlayer.h>
 #import <SkillzSDK-iOS/SKZTurnBasedMatchInfo.h>
+#import <SkillzSDK-iOS/SKZPlayer.h>
+#import <SkillzSDK-iOS/SKZMatchInfo.h>
 
 

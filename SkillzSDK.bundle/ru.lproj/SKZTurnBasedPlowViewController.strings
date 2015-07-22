@@ -17,7 +17,7 @@
 "Uiz-G7-Xkl.text" = "1234";
 
 /* Class = "UILabel"; text = "$25.00"; ObjectID = "gs4-Ms-Bda"; */
-"gs4-Ms-Bda.text" = "$25.00";
+"gs4-Ms-Bda.text" = "25,00 $";
 
 /* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "hL5-Wa-kn4"; */
 "hL5-Wa-kn4.normalTitle" = "ДАЛЕЕ";

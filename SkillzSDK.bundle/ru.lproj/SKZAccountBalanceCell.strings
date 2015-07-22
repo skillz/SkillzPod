@@ -5,11 +5,11 @@
 "fZ4-1M-8lr.text" = "10.12.2042";
 
 /* Class = "UILabel"; text = "+ $1.00"; ObjectID = "hXv-7W-oGM"; */
-"hXv-7W-oGM.text" = "+ $1.00";
+"hXv-7W-oGM.text" = "+ $1,00";
 
 /* Class = "UILabel"; text = "Bonus Cash"; ObjectID = "oP7-pD-Zho"; */
 "oP7-pD-Zho.text" = "Бонусные деньги";
 
 /* Class = "UILabel"; text = "$10.00"; ObjectID = "zkN-PK-I3X"; */
-"zkN-PK-I3X.text" = "$10.00";
+"zkN-PK-I3X.text" = "10,00$";
 

@@ -8,17 +8,14 @@
 /* Class = "UIButton"; accessibilityLabel = "FTU Next"; ObjectID = "UPJ-7B-4xg"; */
 "UPJ-7B-4xg.accessibilityLabel" = "FTU Next";
 
-/* Class = "UIButton"; normalTitle = "BEGIN MATCH"; ObjectID = "UPJ-7B-4xg"; */
-"UPJ-7B-4xg.normalTitle" = "BEGIN MATCH";
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "UPJ-7B-4xg"; */
+"UPJ-7B-4xg.normalTitle" = "NEXT";
 
 /* Class = "UILabel"; text = "Your Avatar"; ObjectID = "ZRG-AB-KM9"; */
 "ZRG-AB-KM9.text" = "Your Avatar";
 
 /* Class = "UILabel"; text = "Pick A Name & An Avatar"; ObjectID = "mMt-r5-Nl3"; */
 "mMt-r5-Nl3.text" = "Pick A Name & An Avatar";
-
-/* Class = "UILabel"; text = "You can change it later in your profile"; ObjectID = "rrJ-2c-cAd"; */
-"rrJ-2c-cAd.text" = "You can change it later in your profile";
 
 /* Class = "UIButton"; accessibilityLabel = "SignInButton"; ObjectID = "rth-TV-ijT"; */
 "rth-TV-ijT.accessibilityLabel" = "SignInButton";

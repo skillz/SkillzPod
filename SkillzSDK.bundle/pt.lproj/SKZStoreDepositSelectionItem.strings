@@ -5,11 +5,8 @@
 "Bzf-Rz-RC8.text" = "+";
 
 /* Class = "UILabel"; text = "$11000"; ObjectID = "El9-lX-3sc"; */
-"El9-lX-3sc.text" = "$11000";
+"El9-lX-3sc.text" = "$ 11000";
 
 /* Class = "UILabel"; text = "BONUS"; ObjectID = "YfM-aX-I7k"; */
 "YfM-aX-I7k.text" = "BÔNUS";
-
-/* Class = "UIButton"; accessibilityLabel = "Select Offer Button"; ObjectID = "aKg-au-Iw4"; */
-"aKg-au-Iw4.accessibilityLabel" = "Botão Selecionar oferta";
 

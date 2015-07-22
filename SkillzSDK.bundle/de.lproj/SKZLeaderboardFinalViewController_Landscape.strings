@@ -16,9 +16,6 @@
 /* Class = "UILabel"; text = "SCORE"; ObjectID = "g4c-56-uRZ"; */
 "g4c-56-uRZ.text" = "ERGEBNIS";
 
-/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "wUP-Pq-yr9"; */
-"wUP-Pq-yr9.accessibilityLabel" = "PFLÜGE weiter";
-
 /* Class = "UIButton"; normalTitle = "SHARE"; ObjectID = "wUP-Pq-yr9"; */
 "wUP-Pq-yr9.normalTitle" = "TEILEN";
 

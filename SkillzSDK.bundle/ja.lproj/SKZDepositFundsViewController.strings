@@ -1,4 +1,4 @@
-/* Class = "UILabel"; text = "$2.00"; ObjectID = "0Kv-QK-6KS"; */
+/* (No Commment) */
 "0Kv-QK-6KS.text" = "$2.00";
 
 /* Class = "UILabel"; text = "DEPOSIT"; ObjectID = "5Px-EG-QxJ"; */
@@ -7,28 +7,25 @@
 /* Class = "UILabel"; text = "CURRENT BALANCE"; ObjectID = "7wG-Xp-9yD"; */
 "7wG-Xp-9yD.text" = "現在の残高";
 
-/* Class = "UILabel"; text = "$X4"; ObjectID = "A3B-18-XLC"; */
+/* (No Commment) */
 "A3B-18-XLC.text" = "$X4";
 
 /* Class = "UIButton"; normalTitle = "PROMO CODE BONUS:"; ObjectID = "DfW-Tj-QI6"; */
 "DfW-Tj-QI6.normalTitle" = "プロモーションコードボーナス：";
 
-/* Class = "UILabel"; text = "$1X"; ObjectID = "IQt-lF-7Mv"; */
+/* (No Commment) */
 "IQt-lF-7Mv.text" = "$1X";
 
-/* Class = "UILabel"; text = "$22.25"; ObjectID = "ITd-eN-y02"; */
+/* (No Commment) */
 "ITd-eN-y02.text" = "$22.25";
-
-/* Class = "UIView"; accessibilityLabel = "Deposit Entered Card View Button"; ObjectID = "ItP-NM-553"; */
-"ItP-NM-553.accessibilityLabel" = "入金に入力されたカードのビューボタン";
-
-/* Class = "UIButton"; accessibilityLabel = "Credit Card Button"; ObjectID = "JTi-Hw-nwL"; */
-"JTi-Hw-nwL.accessibilityLabel" = "クレジットカードのボタン";
 
 /* Class = "UIButton"; normalTitle = "CREDIT CARD"; ObjectID = "JTi-Hw-nwL"; */
 "JTi-Hw-nwL.normalTitle" = "クレジットカード";
 
-/* Class = "UILabel"; text = "$20.00"; ObjectID = "N7x-Hd-sYJ"; */
+/* Class = "UILabel"; text = "ENTRIES TO PURCHASE"; ObjectID = "LcF-KH-dEc"; */
+"LcF-KH-dEc.text" = "購入するエントリー";
+
+/* (No Commment) */
 "N7x-Hd-sYJ.text" = "$20.00";
 
 /* Class = "UILabel"; text = "BONUS"; ObjectID = "P7H-YE-C9O"; */
@@ -37,20 +34,20 @@
 /* Class = "UILabel"; text = "+"; ObjectID = "SNO-Sa-klk"; */
 "SNO-Sa-klk.text" = "+";
 
-/* Class = "UILabel"; text = "+ BONUS"; ObjectID = "hjn-Hv-u0S"; */
-"hjn-Hv-u0S.text" = "ボーナス";
+/* Class = "UILabel"; text = "TOTAL ENTRIES"; ObjectID = "cn2-OB-4PY"; */
+"cn2-OB-4PY.text" = "エントリーの合計";
 
-/* Class = "UILabel"; text = "$0.00"; ObjectID = "lHl-IX-YnG"; */
+/* Class = "UILabel"; text = "+ BONUS"; ObjectID = "hjn-Hv-u0S"; */
+"hjn-Hv-u0S.text" = "+ ボーナス";
+
+/* Class = "UILabel"; text = "PURCHASE AMOUNT"; ObjectID = "kE9-fC-dJj"; */
+"kE9-fC-dJj.text" = "購入価格";
+
+/* (No Commment) */
 "lHl-IX-YnG.text" = "$0.00";
 
 /* Class = "UILabel"; text = "NEW BALANCE"; ObjectID = "nMC-kX-ybM"; */
 "nMC-kX-ybM.text" = "新規残高";
-
-/* Class = "UIButton"; accessibilityLabel = "PayPal Button"; ObjectID = "wDS-9Z-ZVA"; */
-"wDS-9Z-ZVA.accessibilityLabel" = "PayPalボタン";
-
-/* Class = "UIButton"; accessibilityLabel = "Submit Button"; ObjectID = "xM1-hT-cON"; */
-"xM1-hT-cON.accessibilityLabel" = "送信ボタン";
 
 /* Class = "UIButton"; normalTitle = "SUBMIT PAYMENT"; ObjectID = "xM1-hT-cON"; */
 "xM1-hT-cON.normalTitle" = "支払いを送信";

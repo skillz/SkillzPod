@@ -1,9 +1,9 @@
 
-/* Class = "UILabel"; text = "Deposit Bonus"; ObjectID = "EPg-Qk-QFV"; */
-"EPg-Qk-QFV.text" = "Deposit Bonus";
+/* Class = "UILabel"; text = "Deposit Bonus:"; ObjectID = "hpN-oB-ShK"; */
+"hpN-oB-ShK.text" = "Deposit Bonus:";
 
-/* Class = "UILabel"; text = "Deposit Amount"; ObjectID = "Hia-Lt-JZG"; */
-"Hia-Lt-JZG.text" = "Deposit Amount";
+/* Class = "UILabel"; text = "Deposit Amount:"; ObjectID = "SpO-3y-7Fp"; */
+"SpO-3y-7Fp.text" = "Deposit Amount:";
 
 /* Class = "UIButton"; accessibilityLabel = "Okay"; ObjectID = "SVz-hA-PNA"; */
 "SVz-hA-PNA.accessibilityLabel" = "Okay";
@@ -11,11 +11,11 @@
 /* Class = "UIButton"; normalTitle = "OK, I'M READY TO WIN"; ObjectID = "SVz-hA-PNA"; */
 "SVz-hA-PNA.normalTitle" = "OK, I'M READY TO WIN";
 
-/* Class = "UILabel"; text = "New Balance"; ObjectID = "Ukd-3q-aF9"; */
-"Ukd-3q-aF9.text" = "New Balance";
+/* Class = "UILabel"; text = "NEW BALANCE:"; ObjectID = "7tQ-L1-nc1"; */
+"7tQ-L1-nc1.text" = "NEW BALANCE:";
 
-/* Class = "UILabel"; text = "Previous Balance"; ObjectID = "ehW-Xa-Dbe"; */
-"ehW-Xa-Dbe.text" = "Previous Balance";
+/* Class = "UILabel"; text = "Previous Balance:"; ObjectID = "HLe-po-hRp"; */
+"HLe-po-hRp.text" = "Previous Balance:";
 
-/* Class = "UILabel"; text = "DEPOSIT RECEIVED!"; ObjectID = "gGn-RC-7bV"; */
-"gGn-RC-7bV.text" = "DEPOSIT RECEIVED!";
+/* Class = "UILabel"; text = "Deposit Received!"; ObjectID = "gOb-rn-FE0"; */
+"gOb-rn-FE0.text" = "Deposit Received!";

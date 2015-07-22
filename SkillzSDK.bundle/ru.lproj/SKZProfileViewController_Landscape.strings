@@ -1,12 +1,6 @@
-/* Class = "UIView"; accessibilityLabel = "Profile Screen"; ObjectID = "1"; */
-"1.accessibilityLabel" = "Экран профиля";
-
-/* Class = "UIButton"; normalTitle = "ADD FRIEND"; ObjectID = "2uc-2z-WdR"; */
+/* (No Commment) */
 "2uc-2z-WdR.normalTitle" = "ДОБАВИТЬ ДРУГА";
 
-/* Class = "UIButton"; normalTitle = "REMOVE FRIEND"; ObjectID = "Ens-Ep-wYH"; */
+/* (No Commment) */
 "Ens-Ep-wYH.normalTitle" = "УДАЛИТЬ ДРУГА";
-
-/* Class = "UIButton"; accessibilityLabel = "ShoutOutButton"; ObjectID = "imo-9N-VaA"; */
-"imo-9N-VaA.accessibilityLabel" = "Кнопка отклика";
 

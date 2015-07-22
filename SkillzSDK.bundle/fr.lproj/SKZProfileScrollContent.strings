@@ -28,9 +28,3 @@
 /* Class = "UILabel"; text = "No Trophies Earned"; ObjectID = "q3e-ZN-1Yp"; */
 "q3e-ZN-1Yp.text" = "Pas de trophées gagnés";
 
-/* Class = "UILabel"; text = "20/60"; ObjectID = "wT9-Fw-49g"; */
-"wT9-Fw-49g.text" = "20/60";
-
-/* Class = "UILabel"; text = "VS EVERYONE"; ObjectID = "x4M-BR-cNa"; */
-"x4M-BR-cNa.text" = "CONTRE TOUT LE MONDE";
-

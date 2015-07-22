@@ -7,10 +7,10 @@
 /* Class = "UILabel"; text = "I agree to the Terms of Service"; ObjectID = "LPe-Xw-VnX"; */
 "LPe-Xw-VnX.text" = "利用条件に同意します。";
 
-/* Class = "UIButton"; normalTitle = "MM/DD/YYYY"; ObjectID = "mgf-kn-1VL"; */
-"mgf-kn-1VL.normalTitle" = "月 /日 / 西暦";
+/* Class = "UIButton"; normalTitle = "Birthdate"; ObjectID = "mgf-kn-1VL"; */
+"mgf-kn-1VL.normalTitle" = "生年月日";
 
-/* Class = "UILabel"; text = "Enter Your Birthday to Play for Cash"; ObjectID = "pxa-JG-A05"; */
+/* Class = "UILabel"; text = "Enter your birthday to play for cash"; ObjectID = "pxa-JG-A05"; */
 "pxa-JG-A05.text" = "キャッシュプレイするには、生年月日を入力してください";
 
 /* Class = "UILabel"; text = "GO PRO!"; ObjectID = "xBo-JM-nie"; */

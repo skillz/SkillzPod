@@ -9,6 +9,8 @@
 #import <Foundation/Foundation.h>
 #import <CoreLocation/CoreLocation.h>
 
+@class SKZMatchInfo;
+@class SKZPlayer;
 @class SKZTurnBasedMatchInfo;
 
 /**
@@ -133,8 +135,16 @@ typedef NS_ENUM (NSInteger, SkillzOrientation) {
  * based on the supplied argument.
  *
  * @param gameParameters dictionary contains the Game Parameters that were configured in the Skillz Developer Portal
+ * @param matchInfo class contain data relevant to the current match
  */
-- (void)tournamentWillBegin:(NSDictionary *)gameParameters;
+- (void)tournamentWillBegin:(NSDictionary *)gameParameters
+              withMatchInfo:(SKZMatchInfo *)matchInfo;
+
+@optional
+/**
+ * Deprecated, use tournamentWillBegin:withMatchInfo:
+ */
+- (void)tournamentWillBegin:(NSDictionary *)gameParameters __attribute__ ((deprecated));
 
 @end
 
@@ -350,13 +360,19 @@ __attribute__ ((visibility("default")))
  */
 + (UIInterfaceOrientationMask)skillzOrientation;
 
+/**
+ * Get the current logged in player. Use this method if you need this
+ * information outside of a tournament.
+ *
+ * @return SKZPlayer object that represent the current player. If there is no
+ * player currently logged in, will return nil.
+ */
++ (SKZPlayer *)player;
 
 /**
- *  Exposes the currently logged in user's Skillz username for use in your game.
- *
- *  @return Username for currently logged in user, or nil if no user is logged in.
+ *  DEPRECATED: Use the player method instead.
  */
-+ (NSString *)currentUserDisplayName;
++ (NSString *)currentUserDisplayName __attribute__ ((deprecated));
 
 /**
    Deprecated

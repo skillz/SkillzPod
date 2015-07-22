@@ -5,9 +5,6 @@
 /* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "G6U-H0-ngQ"; */
 "G6U-H0-ngQ.normalTitle" = "SUBMIT";
 
-/* Class = "UILabel"; text = "You can change it later in your profile"; ObjectID = "Jp1-sT-mzQ"; */
-"Jp1-sT-mzQ.text" = "You can change it later in your profile";
-
 /* Class = "UILabel"; text = "Your Avatar"; ObjectID = "Uq3-ZE-NZb"; */
 "Uq3-ZE-NZb.text" = "Your Avatar";
 
@@ -20,8 +17,8 @@
 /* Class = "UIButton"; accessibilityLabel = "SignInButton"; ObjectID = "rTF-Mx-WXh"; */
 "rTF-Mx-WXh.accessibilityLabel" = "SignInButton";
 
-/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "rTF-Mx-WXh"; */
-"rTF-Mx-WXh.normalTitle" = "SIGN IN";
+/* Class = "UILabel"; text = "SIGN IN"; ObjectID = "cW5-fV-pYP"; */
+"cW5-fV-pYP.text" = "SIGN IN";
 
 /* Class = "UIButton"; normalTitle = "SELECT FROM LIBRARY"; ObjectID = "tgY-15-Oqb"; */
 "tgY-15-Oqb.normalTitle" = "SELECT FROM LIBRARY";
@@ -29,5 +26,5 @@
 /* Class = "UIButton"; accessibilityLabel = "FTU Next"; ObjectID = "w0r-Xz-aLE"; */
 "w0r-Xz-aLE.accessibilityLabel" = "FTU Next";
 
-/* Class = "UIButton"; normalTitle = "BEGIN MATCH"; ObjectID = "w0r-Xz-aLE"; */
-"w0r-Xz-aLE.normalTitle" = "BEGIN MATCH";
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "w0r-Xz-aLE"; */
+"w0r-Xz-aLE.normalTitle" = "NEXT";

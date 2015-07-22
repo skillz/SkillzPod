@@ -1,11 +1,8 @@
 /* Class = "UIButton"; normalTitle = "Done"; ObjectID = "Fkn-1x-wS3"; */
-"Fkn-1x-wS3.normalTitle" = "Effectué";
+"Fkn-1x-wS3.normalTitle" = "OK";
 
 /* Class = "UILabel"; text = "New Support Message"; ObjectID = "IlU-ml-dJv"; */
-"IlU-ml-dJv.text" = "Nouveau message de soutien";
-
-/* Class = "UIView"; accessibilityLabel = "Help Screen"; ObjectID = "eJs-IV-8yU"; */
-"eJs-IV-8yU.accessibilityLabel" = "Écran d'aide";
+"IlU-ml-dJv.text" = "Nouveau message au centre de support";
 
 /* Class = "UITextField"; placeholder = "Enter Match ID (if applicable)"; ObjectID = "nfo-aJ-GtY"; */
 "nfo-aJ-GtY.placeholder" = "Entrer ID match (le cas échéant)";

@@ -2,7 +2,7 @@
 "3Hj-Nx-m5k.normalTitle" = "Pays";
 
 /* Class = "UIButton"; normalTitle = "Done"; ObjectID = "9Wf-tR-W2v"; */
-"9Wf-tR-W2v.normalTitle" = "Effectué";
+"9Wf-tR-W2v.normalTitle" = "OK";
 
 /* Class = "UITextField"; placeholder = "Street"; ObjectID = "Gpz-Lh-ADw"; */
 "Gpz-Lh-ADw.placeholder" = "Rue";
@@ -17,5 +17,5 @@
 "lg8-3X-aeV.normalTitle" = "SOUMETTRE";
 
 /* Class = "UITextField"; placeholder = "Postal"; ObjectID = "q5U-Qk-kK9"; */
-"q5U-Qk-kK9.placeholder" = "Postal";
+"q5U-Qk-kK9.placeholder" = "Code postal";
 

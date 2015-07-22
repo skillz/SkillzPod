@@ -4,9 +4,6 @@
 /* Class = "UILabel"; text = "Finalizing Results"; ObjectID = "AaK-5G-eFF"; */
 "AaK-5G-eFF.text" = "Finalizar los resultados";
 
-/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "L4R-kl-8Ts"; */
-"L4R-kl-8Ts.accessibilityLabel" = "PLOW Siguiente";
-
 /* Class = "UIButton"; normalTitle = "PLAY AGAIN"; ObjectID = "L4R-kl-8Ts"; */
 "L4R-kl-8Ts.normalTitle" = "VOLVER A JUGAR";
 
@@ -24,9 +21,6 @@
 
 /* Class = "UIButton"; normalTitle = "SHARE"; ObjectID = "bEb-Ry-9wS"; */
 "bEb-Ry-9wS.normalTitle" = "COMPARTIR";
-
-/* Class = "UIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "ecJ-BI-cK7"; */
-"ecJ-BI-cK7.accessibilityLabel" = "PLOW Siguiente";
 
 /* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "ecJ-BI-cK7"; */
 "ecJ-BI-cK7.normalTitle" = "SIGUIENTE";

@@ -5,14 +5,11 @@
 "N2e-kj-Ffc.normalTitle" = "Выберите Поддержка Категории";
 
 /* Class = "UILabel"; text = "New Support Message"; ObjectID = "Vju-Xc-DoW"; */
-"Vju-Xc-DoW.text" = "Поддержка новых Сообщение";
+"Vju-Xc-DoW.text" = "Новое обращение в службу поддержки";
 
 /* Class = "UITextField"; placeholder = "Enter Match ID (if applicable)"; ObjectID = "YtH-u0-gYG"; */
 "YtH-u0-gYG.placeholder" = "Номер матча (если применимо)";
 
 /* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "cM6-G0-Jpo"; */
 "cM6-G0-Jpo.normalTitle" = "ОТПРАВИТЬ";
-
-/* Class = "UIView"; accessibilityLabel = "Help Screen"; ObjectID = "eJs-IV-8yU"; */
-"eJs-IV-8yU.accessibilityLabel" = "Экран справки";
 

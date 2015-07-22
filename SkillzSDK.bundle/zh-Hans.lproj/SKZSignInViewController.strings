@@ -1,20 +1,11 @@
-/* Class = "UITextField"; accessibilityLabel = "PasswordField"; ObjectID = "2bs-YC-EFf"; */
-"2bs-YC-EFf.accessibilityLabel" = "密码栏";
-
 /* Class = "UITextField"; placeholder = "Password"; ObjectID = "2bs-YC-EFf"; */
 "2bs-YC-EFf.placeholder" = "密码";
-
-/* Class = "UITextField"; accessibilityLabel = "UserNameField"; ObjectID = "QeH-oD-cAE"; */
-"QeH-oD-cAE.accessibilityLabel" = "用户名栏";
 
 /* Class = "UITextField"; placeholder = "Username or Email"; ObjectID = "QeH-oD-cAE"; */
 "QeH-oD-cAE.placeholder" = "用户名或电邮";
 
 /* Class = "UIButton"; normalTitle = "Forgot Username/Password"; ObjectID = "bjJ-AF-BFF"; */
 "bjJ-AF-BFF.normalTitle" = "忘记用户名/密码";
-
-/* Class = "UIButton"; accessibilityLabel = "SignInButton"; ObjectID = "dI2-2r-b71"; */
-"dI2-2r-b71.accessibilityLabel" = "登录按钮";
 
 /* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "dI2-2r-b71"; */
 "dI2-2r-b71.normalTitle" = "登录";

@@ -4,6 +4,6 @@
 /* Class = "UILabel"; text = "Insufficient Z"; ObjectID = "ZTZ-7T-T4c"; */
 "ZTZ-7T-T4c.text" = "Nicht genug Z";
 
-/* Class = "UILabel"; text = "You don't have enough Z in your account to play this tournament. Tap 'Earn' to get more."; ObjectID = "bLo-p6-7Zi"; */
-"bLo-p6-7Zi.text" = "Du hast nicht genug Z auf deinem Konto, um dieses Turnier zu spielen. Tippen Sie 'verdienen', um mehr zu bekommen.";
+/* Class = "UILabel"; text = "You don't have enough Z in your account to play this tournament."; ObjectID = "bLo-p6-7Zi"; */
+"bLo-p6-7Zi.text" = "Sie haben nicht genug Z auf deinem Konto, um dieses Turnier zu spielen.";
 

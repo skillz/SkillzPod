@@ -1,5 +1,5 @@
-/* Class = "UILabel"; text = "You don't have enough money in your account to play this match. Tap 'DEPOSIT' to add more."; ObjectID = "98a-uS-ws0"; */
-"98a-uS-ws0.text" = "Vous n'avez pas assez d'argent sur votre compte pour jouer ce match. «Dépôt» Appuyez sur pour ajouter plus.";
+/* Class = "UILabel"; text = "You don't have enough money in your account to play this match."; ObjectID = "98a-uS-ws0"; */
+"98a-uS-ws0.text" = "Vous n'avez pas assez d'argent sur votre compte pour jouer ce match.";
 
 /* Class = "UIButton"; normalTitle = "DEPOSIT"; ObjectID = "iYX-HB-lZL"; */
 "iYX-HB-lZL.normalTitle" = "DÉPÔT";
