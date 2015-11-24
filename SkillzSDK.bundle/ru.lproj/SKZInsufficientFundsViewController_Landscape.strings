@@ -1,9 +1,0 @@
-/* Class = "UILabel"; text = "You don't have enough money in your account to play this match."; ObjectID = "98a-uS-ws0"; */
-"98a-uS-ws0.text" = "Для участия в этом матче недостаточно денег на счете.";
-
-/* Class = "UIButton"; normalTitle = "DEPOSIT"; ObjectID = "iYX-HB-lZL"; */
-"iYX-HB-lZL.normalTitle" = "ВЗНОС";
-
-/* Class = "UILabel"; text = "Insufficient Funds"; ObjectID = "j9y-yL-rqi"; */
-"j9y-yL-rqi.text" = "Недостаточно средств";
-
