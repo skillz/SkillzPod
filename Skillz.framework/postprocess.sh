@@ -71,11 +71,19 @@ fi
 
 if [ ${DEPLOYMENT_LOCATION} = "YES" ]
 then
-    tempfile=`mktemp -t skillz`
+    echo 'Exporting for release, remove unused archs.'
     dylib="${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}/Skillz.framework/Skillz"
-    /usr/bin/lipo -output ${tempfile} -remove i386 -remove x86_64 ${dylib}
-    unlink $dylib
-    mv $tempfile $dylib
+    if file $dylib | [ "$(grep -c i386)" -ge 1 ];
+    then
+        tempfile=`mktemp -t skillz`
+        /usr/bin/lipo -output ${tempfile} -remove i386 -remove x86_64 ${dylib}
+        unlink $dylib
+        mv $tempfile $dylib
+        /usr/bin/codesign --force --sign "${EXPANDED_CODE_SIGN_IDENTITY}" --preserve-metadata=identifier,entitlements,resource-rules $dylib
+        echo 'Arch found, re-signing Skillz.framework'
+    else
+        echo 'Arch not found'
+    fi
     rm -- "$0"
 fi
 
