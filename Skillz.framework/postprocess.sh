@@ -68,22 +68,27 @@ then
     PlistBuddy -c 'Add :CFBundleLocalizations:8 string zh-Hans' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
 fi
 
+echo "code sign identity ${EXPANDED_CODE_SIGN_IDENTITY}"
+dylib="${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}/Skillz.framework/Skillz"
 
 if [ ${DEPLOYMENT_LOCATION} = "YES" ]
 then
     echo 'Exporting for release, remove unused archs.'
-    dylib="${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}/Skillz.framework/Skillz"
-    if file $dylib | [ "$(grep -c i386)" -ge 1 ];
+    if file "$dylib" | [ "$(grep -c i386)" -ge 1 ];
     then
         tempfile=`mktemp -t skillz`
-        /usr/bin/lipo -output ${tempfile} -remove i386 -remove x86_64 ${dylib}
-        unlink $dylib
-        mv $tempfile $dylib
-        /usr/bin/codesign --force --sign "${EXPANDED_CODE_SIGN_IDENTITY}" --preserve-metadata=identifier,entitlements,resource-rules $dylib
-        echo 'Arch found, re-signing Skillz.framework'
+        /usr/bin/lipo -output ${tempfile} -remove i386 -remove x86_64 "${dylib}"
+        unlink "$dylib"
+        mv $tempfile "$dylib"
+        echo 'Arch found, removing'
     else
         echo 'Arch not found'
     fi
+    echo 'Signing Skillz'
+    /usr/bin/codesign --force --sign --verbose "${EXPANDED_CODE_SIGN_IDENTITY}" --preserve-metadata=identifier,entitlements,resource-rules "$dylib"
     rm -- "$0"
+else
+    echo 'Signing Skillz'
+    /usr/bin/codesign --force --sign --verbose "${EXPANDED_CODE_SIGN_IDENTITY}" --preserve-metadata=identifier,entitlements,resource-rules "$dylib"
 fi
 
