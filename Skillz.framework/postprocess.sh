@@ -70,10 +70,12 @@ fi
 
 echo "code sign identity ${EXPANDED_CODE_SIGN_IDENTITY}"
 dylib="${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}/Skillz.framework/Skillz"
+signFramework="${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}/Skillz.framework"
 
 if [ ${DEPLOYMENT_LOCATION} = "YES" ]
 then
     echo 'Exporting for release, remove unused archs.'
+
     if file "$dylib" | [ "$(grep -c i386)" -ge 1 ];
     then
         tempfile=`mktemp -t skillz`
@@ -84,11 +86,25 @@ then
     else
         echo 'Arch not found'
     fi
-    echo 'Signing Skillz'
-    /usr/bin/codesign --force --sign --verbose "${EXPANDED_CODE_SIGN_IDENTITY}" --preserve-metadata=identifier,entitlements,resource-rules "$dylib"
+
     rm -- "$0"
+
+    if [ -n "${EXPANDED_CODE_SIGN_IDENTITY}" ] && [ -e "$signFramework" ]
+    then
+        echo 'Signing Skillz for archive'
+        /usr/bin/codesign --force --verbose --sign "${EXPANDED_CODE_SIGN_IDENTITY}" --preserve-metadata=identifier,entitlements,resource-rules "$signFramework"
+    else
+        echo 'Not signing framework'
+    fi
+
 else
-    echo 'Signing Skillz'
-    /usr/bin/codesign --force --sign --verbose "${EXPANDED_CODE_SIGN_IDENTITY}" --preserve-metadata=identifier,entitlements,resource-rules "$dylib"
+
+    if [ -n "${EXPANDED_CODE_SIGN_IDENTITY}" ] && [ -e "$signFramework" ]
+    then
+        echo 'Signing Skillz'
+        /usr/bin/codesign --force --verbose --sign "${EXPANDED_CODE_SIGN_IDENTITY}" --preserve-metadata=identifier,entitlements,resource-rules "$signFramework"
+    else
+        echo 'Not signing framework'
+    fi
 fi
 

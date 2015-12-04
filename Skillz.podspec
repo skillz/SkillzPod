@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Skillz"
-  s.version      = "12.1.17"
+  s.version      = "12.1.20"
   s.summary      = "A multiplayer cash tournament framework for mobile."
 
   s.description  = <<-DESC
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => "Proprietary", :file => "LICENSE" }
   s.author             = { "Skillz Inc." => "integrations@skillz.com" }
   s.platform     = :ios, "8.0"
-  s.source       = { :git => "https://github.com/skillz/SkillzPod.git", :tag => "12.1.17" }
+  s.source       = { :git => "https://github.com/skillz/SkillzPod.git", :tag => "12.1.20" }
   s.module_name  = "Skillz"
   s.ios.vendored_frameworks  = 'Skillz.framework'
   s.libraries = "c++", "z", "sqlite3", "xml2"
