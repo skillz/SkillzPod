@@ -5,7 +5,7 @@
 //  Copyright (c) 2014 Skillz. All rights reserved.
 //  http://skillz.com/
 //
-//  Version: 12.1.20
+//  Version: 13.0.14
 
 #import <Skillz/SkillzInstance.h>
 #import <Skillz/Skillz+Turnbased.h>
