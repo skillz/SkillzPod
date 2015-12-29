@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Skillz"
-  s.version      = "13.0.14”
+  s.version      = "13.0.14" 
   s.summary      = "A multiplayer cash tournament framework for mobile."
 
   s.description  = <<-DESC
