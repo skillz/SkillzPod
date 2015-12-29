@@ -1,110 +1,146 @@
-#!/bin/sh -x
-PATH=/usr/libexec:$PATH
+/usr/bin/perl -x "$0"
+exit
 
-echo "Running Skillz SDK post processing script"
+#!perl start here 
+use strict;
 
-#Add Plist value to properly inform user of Location Request for iOS 8
-if ! PlistBuddy -c 'Print NSLocationWhenInUseUsageDescription' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}";
-then
-   PlistBuddy -c 'Add :NSLocationWhenInUseUsageDescription string "Due to legal requirements we require your location in games that can be played for cash."' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-fi
+$ENV{PATH} = $ENV{PATH} . ':/usr/libexec';
 
-#Add Plist value to respect view controller status bar appearance
-if ! PlistBuddy -c 'Print UIViewControllerBasedStatusBarAppearance' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}";
-then
-    PlistBuddy -c 'Delete :UIViewControllerBasedStatusBarAppearance' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-    PlistBuddy -c 'Add :UIViewControllerBasedStatusBarAppearance bool YES' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-fi
+my $BUILT_PRODUCTS_DIR = $ENV{'BUILT_PRODUCTS_DIR'};
+my $INFOPLIST_PATH = $ENV{'INFOPLIST_PATH'};
 
-#Add Custom URL Scheme unique to your game.
-bundleId=$(PlistBuddy -c "Print CFBundleIdentifier" "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}" )
-customURLScheme="skillz.gamelinks.$bundleId"
+# escape some troublesome path characters
+$BUILT_PRODUCTS_DIR =~ s!'!\'!g;
+$BUILT_PRODUCTS_DIR =~ s!"!\"!g;
+$BUILT_PRODUCTS_DIR =~ s! !\ !g;
 
-if ! PlistBuddy -c 'Print CFBundleURLTypes' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}";
-then
-    PlistBuddy -c 'Add :CFBundleURLTypes array' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-    PlistBuddy -c 'Add :CFBundleURLTypes: dict' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-    PlistBuddy -c "Add :CFBundleURLTypes:0:CFBundleURLName string $customURLScheme" "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-    PlistBuddy -c 'Add :CFBundleURLTypes:0:CFBundleURLSchemes array' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-    PlistBuddy -c "Add :CFBundleURLTypes:0:CFBundleURLSchemes: string $customURLScheme" "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-else
-#Only add our custom scheme if it does not yet exist
-if ! grep --quiet $customURLScheme "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}";
-then
-temporaryPlistPath=$(dirname "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}")/urlScheme.plist
-rm -f "$temporaryPlistPath"
+$INFOPLIST_PATH =~ s!'!\'!g;
+$INFOPLIST_PATH =~ s!"!\"!g;
+$INFOPLIST_PATH =~ s! !\ !g;
 
-    cat > $temporaryPlistPath <<- EOM
-        <array>
-            <dict>
-                <key>CFBundleURLName</key>
-                <string>$customURLScheme</string>
-                <key>CFBundleURLSchemes</key>
-                <array>
-                    <string>$customURLScheme</string>
-                </array>
-            </dict>
-        </array>
-EOM
+print "Running Skillz SDK post processing script" . "\n";
 
-printf -v var "PlistBuddy -c \"Merge %q :CFBundleURLTypes:\" %q/%q" "$temporaryPlistPath" "${BUILT_PRODUCTS_DIR}" "${INFOPLIST_PATH}"
-eval $var
-rm "$temporaryPlistPath"
-fi
-fi
+print "Built Products Path: " . $BUILT_PRODUCTS_DIR . "\n";
+print "Info.plist Path: " . $INFOPLIST_PATH . "\n";
+
+# Add Plist value to properly inform user of Location Request for iOS 8
+
+my $locationInUse = `PlistBuddy -c \'Print NSLocationWhenInUseUsageDescription\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
+
+if (!length($locationInUse)) {
+   `PlistBuddy -c \'Add :NSLocationWhenInUseUsageDescription string \"Due to legal requirements we require your location in games that can be played for cash.\"\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
+}
+
+# Add Plist value to respect view controller status bar appearance
+my $statusBarAppearance = `PlistBuddy -c \'Print UIViewControllerBasedStatusBarAppearance\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
+
+if (!length($statusBarAppearance)) {
+    `PlistBuddy -c \'Delete :UIViewControllerBasedStatusBarAppearance\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
+    `PlistBuddy -c \'Add :UIViewControllerBasedStatusBarAppearance bool YES\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
+}
+
+# Add Custom URL Scheme unique to your game.
+my $bundleId = `PlistBuddy -c \"Print CFBundleIdentifier\" "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
+my $customURLScheme = "skillz.gamelinks." . $bundleId;
+$customURLScheme =~ s/\R//g;
+print "Custom url scheme: $customURLScheme";
+
+my $bundleTypes = `PlistBuddy -c \'Print CFBundleURLTypes\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
+
+if (!length($bundleTypes)) {
+    print "CFBundleURLTypes does not yet exist, create it.\n";
+    `PlistBuddy -c \'Add :CFBundleURLTypes array\' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"`;
+    `PlistBuddy -c \'Add :CFBundleURLTypes: dict\' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"`;
+    `PlistBuddy -c \"Add :CFBundleURLTypes:0:CFBundleURLName string ${customURLScheme}\" \"${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}\"`;
+    `PlistBuddy -c \'Add :CFBundleURLTypes:0:CFBundleURLSchemes array\' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"`;
+    `PlistBuddy -c \"Add :CFBundleURLTypes:0:CFBundleURLSchemes: string "${customURLScheme}"\" \"${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}\"`;
+} else {
+    print "CFBundleURLTypes exists, check if we should add Skillz. \n";
+	# Only add our custom scheme if it does not yet exist
+	my $customScheme = `grep --quiet "$customURLScheme" "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
+
+	if (!length($customScheme)) {
+        print "Skillz URL scheme not yet set \n";
+		my $temporaryPlistPath = `dirname "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH/urlScheme.plist"`;
+
+		unlink "$temporaryPlistPath";
+
+		my $fileContents = "
+					<array>
+						<dict>
+							<key>CFBundleURLName</key>
+                                <string>${customURLScheme}</string>
+							<key>CFBundleURLSchemes</key>
+							<array>
+                                <string>${customURLScheme}</string>
+							</array>
+						</dict>
+					</array>";
+
+        open(my $fh, '>', "$temporaryPlistPath");
+        print "$fh" . "$fileContents" . "\n";
+        print $fh $fileContents;
+        close $fh;
+
+        `PlistBuddy -c \'Merge $temporaryPlistPath :CFBundleURLTypes:\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
+
+        unlink "$temporaryPlistPath";
+    } else {
+        print 'Skillz URL scheme already set';
+    }
+}
 
 # Set up localization.
-if ! PlistBuddy -c 'Print CFBundleLocalizations:' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-then
-    PlistBuddy -c 'Add :CFBundleLocalizations array' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-    PlistBuddy -c 'Add :CFBundleLocalizations:0 string en' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-    PlistBuddy -c 'Add :CFBundleLocalizations:1 string de' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-    PlistBuddy -c 'Add :CFBundleLocalizations:2 string es' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-    PlistBuddy -c 'Add :CFBundleLocalizations:3 string fr' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-    PlistBuddy -c 'Add :CFBundleLocalizations:4 string it' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-    PlistBuddy -c 'Add :CFBundleLocalizations:5 string ja' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-    PlistBuddy -c 'Add :CFBundleLocalizations:6 string pt' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-    PlistBuddy -c 'Add :CFBundleLocalizations:7 string ru' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-    PlistBuddy -c 'Add :CFBundleLocalizations:8 string zh-Hans' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"
-fi
+my $localizations = `PlistBuddy -c \'Print CFBundleLocalizations:\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
 
-echo "code sign identity ${EXPANDED_CODE_SIGN_IDENTITY}"
-dylib="${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}/Skillz.framework/Skillz"
-signFramework="${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}/Skillz.framework"
+if (!length($localizations)) {
 
-if [ ${DEPLOYMENT_LOCATION} = "YES" ]
-then
-    echo 'Exporting for release, remove unused archs.'
+    `PlistBuddy -c \'Add :CFBundleLocalizations array\' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"`;
+    `PlistBuddy -c \'Add :CFBundleLocalizations:0 string en\' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"`;
+    `PlistBuddy -c \'Add :CFBundleLocalizations:1 string de\' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"`;
+    `PlistBuddy -c \'Add :CFBundleLocalizations:2 string es\' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"`;
+    `PlistBuddy -c \'Add :CFBundleLocalizations:3 string fr\' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"`;
+    `PlistBuddy -c \'Add :CFBundleLocalizations:4 string it\' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"`;
+    `PlistBuddy -c \'Add :CFBundleLocalizations:5 string ja\' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"`;
+    `PlistBuddy -c \'Add :CFBundleLocalizations:6 string pt\' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"`;
+    `PlistBuddy -c \'Add :CFBundleLocalizations:7 string ru\' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"`;
+    `PlistBuddy -c \'Add :CFBundleLocalizations:8 string zh-Hans\' "${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}"`;
+}
 
-    if file "$dylib" | [ "$(grep -c i386)" -ge 1 ];
-    then
-        tempfile=`mktemp -t skillz`
-        /usr/bin/lipo -output ${tempfile} -remove i386 -remove x86_64 "${dylib}"
-        unlink "$dylib"
-        mv $tempfile "$dylib"
-        echo 'Arch found, removing'
-    else
-        echo 'Arch not found'
-    fi
+my $codeSignIdentity =  $ENV{'EXPANDED_CODE_SIGN_IDENTITY'};
+my $dylib = "$BUILT_PRODUCTS_DIR/" . $ENV{'FRAMEWORKS_FOLDER_PATH'} . "/Skillz.framework/Skillz";
+my $signingPath = "$BUILT_PRODUCTS_DIR/" . $ENV{'FRAMEWORKS_FOLDER_PATH'} . "/Skillz.framework";
+my $shouldSign = ($codeSignIdentity ne "") && (defined $codeSignIdentity) && -e "$signingPath";
 
-    rm -- "$0"
+print "Code sign identity: $codeSignIdentity \n";
+print "Signing Path: $signingPath \n";
 
-    if [ -n "${EXPANDED_CODE_SIGN_IDENTITY}" ] && [ -e "$signFramework" ]
-    then
-        echo 'Signing Skillz for archive'
-        /usr/bin/codesign --force --verbose --sign "${EXPANDED_CODE_SIGN_IDENTITY}" --preserve-metadata=identifier,entitlements,resource-rules "$signFramework"
-    else
-        echo 'Not signing framework'
-    fi
+if ( $ENV{'DEPLOYMENT_LOCATION'} eq "YES") {
+    my $fileResult = `file "$dylib"`;
+    if (index($fileResult, "i386") != -1) {
+        print "Exporting for release, remove unused archs. \n";
+        my $tempfile = `mktemp -t skillz`;
+        `/usr/bin/lipo -output "$tempfile" -remove i386 -remove x86_64 "$dylib"`;
+        `unlink "$dylib"`;
+        `mv "$tempfile" "$dylib"`;
+        print "Arch i386 found, removed \n";
+    } else {
+        print "Arch i386 not found \n";
+    }
+    print "Archiving or building for release, remove self \n";
+    `rm "$0"`;
 
-else
-
-    if [ -n "${EXPANDED_CODE_SIGN_IDENTITY}" ] && [ -e "$signFramework" ]
-    then
-        echo 'Signing Skillz'
-        /usr/bin/codesign --force --verbose --sign "${EXPANDED_CODE_SIGN_IDENTITY}" --preserve-metadata=identifier,entitlements,resource-rules "$signFramework"
-    else
-        echo 'Not signing framework'
-    fi
-fi
-
+    if ($shouldSign) {
+        print "Signing Skillz \n";
+        `/usr/bin/codesign --force --verbose --sign "$codeSignIdentity" --preserve-metadata=identifier,entitlements,resource-rules "$signingPath"`;
+    } else {
+        print "No identity or no framework, not signing \n";
+    }
+} else {
+    if ($shouldSign) {
+        print "Signing Skillz \n";
+        `/usr/bin/codesign --force --verbose --sign "$codeSignIdentity" --preserve-metadata=identifier,entitlements,resource-rules "$signingPath"`;
+    } else {
+        print "No identity or no framework, not signing \n";
+    }
+}
