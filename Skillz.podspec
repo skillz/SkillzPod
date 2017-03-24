@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => "Proprietary", :file => "LICENSE" }
   s.author             = { "Skillz Inc." => "integrations@skillz.com" }
   s.platform     = :ios, "8.0"
-  s.source       = { :git => "https://github.com/skillz/SkillzPod.git", :tag => "15.0.35" }
+  s.source       = { :git => "https://github.com/skillz/SkillzPod.git", :tag => "master" }
   s.module_name  = "Skillz"
   s.ios.vendored_frameworks  = 'Skillz.framework'
   s.libraries = "c++", "z", "sqlite3", "xml2"
