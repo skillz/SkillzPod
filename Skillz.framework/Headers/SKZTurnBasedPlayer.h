@@ -8,6 +8,11 @@
 
 #import "SKZPlayer.h"
 
+__attribute__ ((visibility("default")))
+
+/**
+ *  SKZTurnBasedPlayer will allow you to further customize your UI, and/or can be used to help manage the state of your game.
+ */
 @interface SKZTurnBasedPlayer : SKZPlayer
 
 /**
