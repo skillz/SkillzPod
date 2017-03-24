@@ -5,9 +5,10 @@
 //  Copyright (c) 2014 Skillz. All rights reserved.
 //  http://skillz.com/
 //
-//  Version: 13.0.24
+//  Version: 15.0.35
 
 #import <Skillz/SkillzInstance.h>
+#import <Skillz/Skillz+Analytics.h>
 #import <Skillz/Skillz+Turnbased.h>
 #import <Skillz/SKZRoundResults.h>
 #import <Skillz/SKZTurnBasedPlayer.h>

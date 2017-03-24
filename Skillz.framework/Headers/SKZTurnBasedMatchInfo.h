@@ -10,6 +10,8 @@
 #import "SKZMatchInfo.h"
 #import "SKZTurnBasedPlayer.h"
 
+__attribute__ ((visibility("default")))
+
 /**
  *  SKZTurnInformation is used to pass data about a turn based match between the Skillz SDK and a publisher's game.
  */
@@ -98,12 +100,12 @@
 @property (nonatomic, strong) NSString *gameData;
 
 /**
- *  Array of SKZRoundResults objects corresponding to each round that has been completed so far -> See SKZRoundResults
+ *  Array of SKZRoundResults objects corresponding to each round that has been completed so far. See SKZRoundResults for more information.
  */
 @property (nonatomic, strong) NSArray *roundInformation;
 
 /**
- *  Index of current turn, for the first turn currentTurnIndex = 0, and so on.
+ *  Index of current turn, for the first turn currentTurnIndex equals 0, and so on.
  */
 @property (nonatomic) NSInteger currentTurnIndex;
 

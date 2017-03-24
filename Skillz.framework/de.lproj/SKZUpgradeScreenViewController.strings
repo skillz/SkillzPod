@@ -1,18 +1,14 @@
 /* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "1Qr-fz-b8K"; */
 "1Qr-fz-b8K.normalTitle" = "SENDEN";
 
-/* Class = "UIButton"; normalTitle = "Birthdate"; ObjectID = "6gc-Ov-eq4"; */
-"6gc-Ov-eq4.normalTitle" = "Geburtstag";
+/* Class = "UIButton"; normalTitle = "MM/DD/YYYY"; ObjectID = "6gc-Ov-eq4"; */
+"6gc-Ov-eq4.normalTitle" = "MM/TT/JJJJ";
 
-/* Class = "UILabel"; text = "I agree to the Terms of Service"; ObjectID = "CSQ-Wq-h0h"; */
-"CSQ-Wq-h0h.text" = "Ich stimme den Nutzungsbedingungen zu";
+/* Class = "UILabel"; text = "Age Verification"; ObjectID = "Nds-Jj-gE1"; */
+"Nds-Jj-gE1.text" = "Überprüfung des Alters";
 
-/* Class = "UILabel"; text = "PLAY FOR CASH"; ObjectID = "jII-f7-yIY"; */
-"jII-f7-yIY.text" = "UM CASH SPIELEN";
+/* Class = "UILabel"; text = "Enter your date of birth to continue"; ObjectID = "tGf-pc-x4C"; */
+"tGf-pc-x4C.text" = "Gib dein Geburtsdatum ein, um fortzufahren";
 
-/* Class = "UILabel"; text = "GO PRO!"; ObjectID = "sBH-x3-xe9"; */
-"sBH-x3-xe9.text" = "WERDE PROFI!";
-
-/* Class = "UILabel"; text = "Enter your birthday to play for cash"; ObjectID = "tGf-pc-x4C"; */
-"tGf-pc-x4C.text" = "Gib deinen Geburtstag ein und spiele um Cash";
-
+/* Class = "UILabel"; text = "I agree to the Terms of Service and Privacy Policy"; ObjectID = "CSQ-Wq-h0h"; */
+"CSQ-Wq-h0h.text" = "Ich stimme den Nutzungsbedingungen und den Datenschutzrichtlinien zu";
