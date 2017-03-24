@@ -8,10 +8,15 @@
 
 #import "Skillz+TurnBased.h"
 
+/**
+ *  This class will manage information pertaining to a given round. (one turn from each player)
+ *  This values that are used here are also displayed in the Skillz Post/Pre-turn screen if your tournament
+ *  is a score per round type of game. (eg: A Pinball game with each player playing one ball per turn for X rounds.)
+ */
 @interface SKZRoundResults : NSObject
 
 /**
- *  The round that this information corresponds to. For the first round: roundNumber = 1
+ *  The round that this information corresponds to. For the first round: roundNumber equals "1"
  */
 @property (nonatomic) NSInteger roundNumber;
 

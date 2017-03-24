@@ -79,20 +79,17 @@ typedef NS_ENUM(NSUInteger, SKZTurnBasedMatchOutcome) {
 
 
 #pragma Completing Turns
+
 /**
  *  Completes a turn for a game, giving you access to a full range of options to convey to Skillz the final outcome of the match. If a value does not pertain to your game, pass nil. You must track and update playerTotalScore and opponentTotalScore yourself each turn.
  *
- *  @param gameData             A Base64 encoded NSString object containing serialized data which can be used to reconstruct the game state for the next   turn, or to review the current game state.
- *  @param score                The score the current user has obtained for *this* turn, this will be displayed in the Skillz UI, not used to calculate match outcomes.
- *  @param playerTotalScore     The final score for the current player, passing nil will not modify the current player's score. Also used in Skillz UI, not match outcomes
- *  @param opponentTotalScore   The final score for the opponent player, passing nil will not modify the opponent's score. Also used in Skillz UI, not match outcomes
- *  @param turnOutcome          Passed to determine the outcome of a round. Round outcomes are used with in the Skillz UI. See SKZTurnBasedRoundOutcome for more information.
- 
- *  @param matchOutcome         Passed to determine the state of the match. Match outcomes determine the outcome of the match as whole, be it Win, Lose, or Tie. 
-                                Pass "kSKZMatchOutcomeMatchNoOutcome" to continue play and pass control to opponent.
-                                See SKZTurnBasedRoundOutcome for more information
- 
- *  @param completion           Called after Skillz UI has been displayed, use to clean up any outstanding objects in your game hierarchy.
+ *  @param gameData                  A Base64 encoded NSString object containing serialized data which can be used to reconstruct the game state for the next   turn, or to
+ *  @param score                     The score the current user has obtained for *this* turn, this will be displayed in the Skillz UI, not used to calculate match outcomes.
+ *  @param playerCurrentTotalScore   The final score for the current player, passing nil will not modify the current player's score. Also used in Skillz UI, not match outcomes
+ *  @param opponentCurrentTotalScore The final score for the opponent player, passing nil will not modify the opponent's score. Also used in Skillz UI, not match outcomes
+ *  @param turnOutcome               Passed to determine the outcome of a round. Round outcomes are used with in the Skillz UI. See SKZTurnBasedRoundOutcome for more information.
+ *  @param matchOutcome              Passed to determine the state of the match. Match outcomes determine the outcome of the match as whole, be it Win, Lose, or Tie. Pass "kSKZMatchOutcomeMatchNoOutcome" to continue play and pass control to opponent. See SKZTurnBasedRoundOutcome for more information.
+ *  @param completion                Called after Skillz UI has been displayed, use to clean up any outstanding objects in your game hierarchy.
  */
 - (void)completeTurnWithGameData:(NSString *)gameData
                      playerScore:(NSString *)score
