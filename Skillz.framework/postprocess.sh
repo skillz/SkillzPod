@@ -31,13 +31,31 @@ if (!length($locationInUse)) {
    `PlistBuddy -c \'Add :NSLocationWhenInUseUsageDescription string \"Due to legal requirements we require your location in games that can be played for cash.\"\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
 }
 
-# Add Plist value to respect view controller status bar appearance
-my $statusBarAppearance = `PlistBuddy -c \'Print UIViewControllerBasedStatusBarAppearance\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
+my $bluetoothInUse = `PlistBuddy -c \'Print NSBluetoothPeripheralUsageDescription\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
 
-if (!length($statusBarAppearance)) {
-    `PlistBuddy -c \'Delete :UIViewControllerBasedStatusBarAppearance\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
-    `PlistBuddy -c \'Add :UIViewControllerBasedStatusBarAppearance bool YES\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
+if (!length($bluetoothInUse)) {
+`PlistBuddy -c \'Add :NSBluetoothPeripheralUsageDescription string \"Skillz uses Bluetooth to determine eligibility to play in local tournaments.\"\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
 }
+
+my $photosInUse = `PlistBuddy -c \'Print NSPhotoLibraryUsageDescription\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
+
+if (!length($photosInUse)) {
+`PlistBuddy -c \'Add :NSPhotoLibraryUsageDescription string \"Skillz uses access to your photo album to customize your profile picture.\"\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
+}
+
+my $calendarInUse = `PlistBuddy -c \'Print NSCalendarsUsageDescription\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
+
+if (!length($calendarInUse)) {
+`PlistBuddy -c \'Add :NSCalendarsUsageDescription string \"Skillz uses access to your calendar to personalize your ads.\"\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
+}
+
+# Add Plist value to respect view controller status bar appearance
+`PlistBuddy -c \'Delete :UIViewControllerBasedStatusBarAppearance\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
+`PlistBuddy -c \'Add :UIViewControllerBasedStatusBarAppearance bool YES\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
+
+# Add Plist value to require full screen
+`PlistBuddy -c \'Delete :UIRequiresFullScreen\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
+`PlistBuddy -c \'Add :UIRequiresFullScreen bool YES\' "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
 
 # Add Custom URL Scheme unique to your game.
 my $bundleId = `PlistBuddy -c \"Print CFBundleIdentifier\" "$BUILT_PRODUCTS_DIR/$INFOPLIST_PATH"`;
@@ -120,7 +138,13 @@ if ( $ENV{'DEPLOYMENT_LOCATION'} eq "YES") {
     if (index($fileResult, "i386") != -1) {
         print "Exporting for release, remove unused archs. \n";
         my $tempfile = `mktemp -t skillz`;
-        `/usr/bin/lipo -output "$tempfile" -remove i386 -remove x86_64 "$dylib"`;
+        my $removearmv7s = "";
+        
+        if ($ENV{'ARCHS'} !~ /armv7s/) {
+        	$removearmv7s = '-remove armv7s';
+        	print "Arch armv7s not found in app, removing from Skillz.framework\n";
+        }
+        `/usr/bin/lipo -output "$tempfile" -remove i386 -remove x86_64 $removearmv7s "$dylib"`;
         `unlink "$dylib"`;
         `mv "$tempfile" "$dylib"`;
         print "Arch i386 found, removed \n";

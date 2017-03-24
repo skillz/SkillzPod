@@ -121,6 +121,24 @@ typedef NS_ENUM (NSInteger, SkillzOrientation) {
  */
 - (BOOL)shouldSkillzLaunchFromURL;
 
+/**
+ *  This method will be called when a user has successfully made a cash deposit with Skillz. You may use this method for recording
+ *  and tracking deposits.
+ *
+ *  NOTE: This method will be called in both SANDBOX and PRODUCTION environments.
+ *
+ *  @param userId          The current logged in player's Skillz id.
+ *  @param cashAmount      The amount of cash that the player deposited.
+ *  @param bonusCashAmount The amount of bonus cash the player received with their deposit.
+ *  @param promoAmount     The amount of cash that the player received from a promotional code.
+ *  @param currencyCode    The currency code used for the transaction. (Follows ISO 4217)
+ */
+- (void)userDidDeposit:(NSString *)userId
+            cashAmount:(NSNumber *)cashAmount
+       bonusCashAmount:(NSNumber *)bonusCashAmount
+           promoAmount:(NSNumber *)promoAmount
+          currencyCode:(NSString *)currencyCode;
+
 @end
 
 /**
@@ -143,8 +161,11 @@ typedef NS_ENUM (NSInteger, SkillzOrientation) {
               withMatchInfo:(SKZMatchInfo *)matchInfo;
 
 @optional
+
 /**
- * Deprecated, use tournamentWillBegin:withMatchInfo:
+ *  Deprecated, use tournamentWillBegin:withMatchInfo:
+ *
+ *  @param gameParameters parameters for your game.
  */
 - (void)tournamentWillBegin:(NSDictionary *)gameParameters __attribute__ ((deprecated));
 
@@ -200,7 +221,7 @@ NS_AVAILABLE_IOS(8_0)
 /**
  * Main interface for the Skillz SDK
  */
-@interface Skillz : NSObject <CLLocationManagerDelegate, UIPopoverControllerDelegate>
+@interface Skillz : NSObject
 
 
 ///------------------------------
@@ -288,7 +309,7 @@ NS_AVAILABLE_IOS(8_0)
 - (void)initWithGameId:(NSString *)gameId
            forDelegate:(id <SkillzBaseDelegate>)delegate
          withEnvironment:(SkillzEnvironment)environment
-             allowExit:(BOOL)flag;
+             allowExit:(BOOL)allowExit;
 
 /**
  * Launch the Skillz Experience
@@ -321,6 +342,8 @@ NS_AVAILABLE_IOS(8_0)
  * @param score            Numeric value representing the player's final score
  * @param completion       Completion will be called on wrap up so that the developer can finish any ongoing processes, such as
  *                         saving game data or removing the game from the view hierarchy.
+ *
+ * Note: If your game is resource intensive, you should attempt to release as much memory as possible prior to calling this method.
  */
 - (void)displayTournamentResultsWithScore:(NSNumber *)score
                            withCompletion:(void (^)(void))completion;
@@ -331,6 +354,8 @@ NS_AVAILABLE_IOS(8_0)
  *
  * @param completion      Completion will be called on wrap up so that the developer can finish any ongoing processes, such as
  *                        saving game data or removing the game from the view hierarchy.
+ *
+ * Note: If your game is resource intensive, you should attempt to release as much memory as possible prior to calling this method.
  */
 - (void)notifyPlayerAbortWithCompletion:(void (^)(void))completion;
 
@@ -389,11 +414,15 @@ NS_AVAILABLE_IOS(8_0)
 + (NSString *)currentUserDisplayName __attribute__ ((deprecated));
 
 /**
-   Deprecated
+ *  Deprecated, use
+ *
+ *  @param gameId      Skillz ID for your game
+ *  @param delegate    Delegate responsible for handling Skillz protocol call backs
+ *  @param environment Environment to point the SDK to (Production or Sandbox)
  */
 - (void)initWithGameId:(NSString *)gameId
            forDelegate:(id <SkillzBaseDelegate>)delegate
-       withEnvironment:(SkillzEnvironment)environment;
+       withEnvironment:(SkillzEnvironment)environment __attribute__ ((deprecated));
 
 @end
 

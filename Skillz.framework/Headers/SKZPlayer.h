@@ -8,6 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
+__attribute__ ((visibility("default")))
+
 /**
  * Represents data for the current logged in player
  */
@@ -16,21 +18,21 @@
 /**
  * Player's unique id
  */
-@property (readonly) NSString *id;
+@property (readonly, nonnull) NSString *id;
 
 /**
  * Player's profile picture (or avatar) URL
  */
-@property (readonly) NSString *avatarURL;
+@property (readonly, nullable) NSString *avatarURL;
 
 /**
  *  Player's display name
  */
-@property (readonly) NSString *displayName;
+@property (readonly, nonnull) NSString *displayName;
 
 /**
  *  URL for the flag for the player
  */
-@property (readonly) NSString *flagURL;
+@property (readonly, nullable) NSString *flagURL;
 
 @end

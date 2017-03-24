@@ -9,6 +9,11 @@
 #import <Foundation/Foundation.h>
 #import "SKZPlayer.h"
 
+__attribute__ ((visibility("default")))
+
+/**
+ *  This object contains various Skillz specific pieces of data that will allow you to customize your UI further.
+ */
 @interface SKZMatchInfo : NSObject
 
 /**
@@ -19,17 +24,17 @@
 /**
  * Match description as configured in the Skillz Developer Portal
  */
-@property (readonly) NSString *matchDescription;
+@property (readonly, nullable) NSString *matchDescription;
 
 /**
  * Cash entry fee, nil if there is none
  */
-@property (readonly) NSNumber *entryCash;
+@property (readonly, nullable) NSNumber *entryCash;
 
 /**
  * Z points entry fee, nil if there is none
  */
-@property (readonly) NSNumber *entryPoints;
+@property (readonly, nullable) NSNumber *entryPoints;
 
 /**
  * Signifies a cash match
@@ -39,17 +44,17 @@
 /**
  *  Match name as configured in the Skillz Developer Portal
  */
-@property (readonly) NSString *name;
+@property (readonly, nonnull) NSString *name;
 
 /**
  * Current player in match
  */
-@property (readonly) SKZPlayer *player;
+@property (readonly, nonnull) SKZPlayer *player;
 
 /**
  * Template id for the template that the match is based on. These templates are
  * configured in the Skillz Developer Portal
  */
-@property (readonly) NSNumber *templateId;
+@property (readonly, nonnull) NSNumber *templateId;
 
 @end
