@@ -1,24 +1,36 @@
-Pod::Spec.new do |s|
-  s.name         = "Skillz"
-  s.version      = "15.0.35"
-  s.summary      = "A multiplayer cash tournament framework for mobile."
+Pod::Spec.new do |spec|
+  spec.name         = 'Skillz'
+  # TODO: update this version number to be dynamically updated based on the tag
+  spec.version      = '27.2.4'
 
-  s.description  = <<-DESC
-                   Skillz is a multiplayer cash tournament for mobile that enables players to win cash for their skill!
+  spec.license      = { :type => 'Proprietary', :text => 'The full license is available on our website: https://www.skillz.com/legal/#dev-terms' }
+  spec.homepage     = 'https://developers.skillz.com'
+  spec.authors      = { 'Skillz Inc.' => 'integrations@skillz.com' } ### this will probably need to get changed
+  spec.summary      = 'A multiplayer cash tournament framework for mobile.'
 
-                   * Head-to-head, timed tournaments
-                   * Turn-based tournaments
-                   * Objective-C and Swift support
-                   * Visit www.skillz.com for more information and help with integration
-                   DESC
+  spec.platform     = :ios
+  # TODO: once we know what we are doing for dev console uploads, this url will be replaced by some mechanism that we can use to dynamically update it when we do dev console pushes
+  spec.source       = { :http => 'https://cdn.skillz.com/devportal2/uploads/mobile_sdk_releases/ios_sdk/skillz_ios_27.2.4.tgz' }
 
-  s.homepage     = "http://www.skillz.com"
-  s.license      = { :type => "Proprietary", :file => "LICENSE" }
-  s.author             = { "Skillz Inc." => "integrations@skillz.com" }
-  s.platform     = :ios, "8.0"
-  s.source       = { :git => "https://github.com/skillz/SkillzPod.git", :tag => "master" }
-  s.module_name  = "Skillz"
-  s.ios.vendored_frameworks  = 'Skillz.framework'
-  s.libraries = "c++", "z", "sqlite3", "xml2"
-  s.compiler_flags = '-ObjC'
+  spec.source_files = '**/*.h'
+  spec.public_header_files = "Skillz.framework/Headers/*.h"
+
+
+  spec.module_name = 'Skillz'
+  spec.ios.vendored_frameworks = 'Skillz.framework'
+#  spec.ios.vendored_frameworks = 'Skillz.xcframework'
+  spec.ios.deployment_target  = '12.0'
+
+
+  # Dynamic framework dependencies here ONLY
+  # spec.dependency 'Podname', 'version.number'
+
+
+  spec.frameworks = 'CoreImage', 'CoreFoundation', 'PassKit', 'UIKit', 'JavaScriptCore', 'iAd'
+  spec.libraries = 'sqlite3', 'z', 'xml2'
+
+
+  spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+
 end
