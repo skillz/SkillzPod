@@ -1,8 +1,9 @@
+
 {
   "start":"skillz",
   "sheetStyles":{
     "viewPrimaryColor":{
-      "backgroundColor":"rgba(24, 27, 37, .90)"
+      "backgroundColor":"#2B2F4E"
     },
     "viewSecondaryColor":{
       "backgroundColor":"rgba(255,255,255,.95)"
@@ -17,7 +18,7 @@
       "backgroundColor":"#F9F9F9"
     },
     "viewDividerPrimaryColor":{
-      "backgroundColor":"#2D3345"
+      "backgroundColor":"rgba(255, 255, 255, .15)"
     },
     "viewDividerColorTwo":{
       "backgroundColor":"#bfc0c1"
@@ -89,7 +90,7 @@
       "color":"#FFFFFF"
     },
     "textColorSecondary":{
-      "color":"#333333"
+      "color":"#4A4A4A"
     },
     "textColorTertiary":{
       "color":"#999999"
@@ -101,13 +102,13 @@
       "color":"#bc2131"
     },
     "textColorCash":{
-      "color":"#3ba038"
+      "color":"#79b23f"
     },
     "textColorZ":{
-      "color":"#387aa4"
+      "color":"#4990e2"
     },
     "textColorTicketz":{
-      "color":"#FD705D"
+      "color":"#e26954"
     },
     "textColorLink":{
       "color":"#FFFFFF"
@@ -130,7 +131,7 @@
         "width":0,
         "height":1
       },
-      "shadowRadius":4,
+      "shadowRadius":0,
       "shadowOpacity":0.4
     },
     "textShadowTwo":{
@@ -139,7 +140,7 @@
         "width":0,
         "height":1
       },
-      "shadowRadius":1,
+      "shadowRadius":0,
       "shadowOpacity":0.3
     },
     "textShadowThree":{
@@ -148,7 +149,7 @@
         "width":0,
         "height":1
       },
-      "shadowRadius":1,
+      "shadowRadius":0,
       "shadowOpacity":0.2
     },
 
@@ -195,7 +196,7 @@
       "backgroundColor":"#f48e30"
     },
     "tabHighlightColor":{
-      "color":"#387aa4"
+      "color":"#4990e2"
     },
     "checkMarkColor":{
       "backgroundColor":"#4fa93f"
@@ -219,6 +220,10 @@
     "prizeViewZGradient":[
       "#387aa4",
       "#387aa4"
+    ],
+    "prizeViewTicketzGradient":[
+      "#f6604d",
+      "#e05745"
     ],
     "bracketPrizeViewLiveEventGradient":[
       "#6ac141",
@@ -253,29 +258,28 @@
       "#fd993d"
     ],
     "textTicketzGradient":[
-      "#f87861",
-      "#e1654d"
+      "#e26954",
+      "#e26954"
     ],
     "textCashGradient":[
-      "#6ac141",
-      "#3da142"
+      "#79b23f",
+      "#79b23f"
     ],
     "textZGradient":[
-      "#4686ad",
-      "#2f6d98"
+      "#4990e2",
+      "#4990e2"
     ],
     "textNeutralGradient":[
-      "#b6b6b6",
-      "#6c6c6c"
+      "#FFFFFF",
+      "#FFFFFF"
     ],
     "overlayEntryContainerGradient":[
       "rgba(114,127,144,.95)",
       "rgba(141,154,168,.95)"
     ],
     "backgroundViewGradient":[
-      "#4d5b75",
-      "#96a8c8",
-      "#3f476b"
+      "#3F476B",
+      "#6B80A4"
     ],
     "sideMenuHighlightedGradient":[
       "#2a6994",
@@ -332,10 +336,11 @@
     "practiceCurrencyFullIconLargeURI":"ic_z_white_large_SKZ@2x.png"
   },
   "images":{
-    "backgroundImage":"dark_bg.jpg",
+    "backgroundImage":null,
     "prizeViewZImage":null,
     "prizeViewCashImage":null,
     "prizeViewLiveEventImage":null,
+    "prizeViewTicketzImage": null,
     "bracketPrizeViewZImage":null,
     "bracketPrizeViewCashImage":null,
     "bracketPrizeViewLiveEventImage":null
