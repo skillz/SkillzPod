@@ -4,3 +4,8 @@ framework module Skillz {
   export *
   module * { export * }
 }
+
+module Skillz.Swift {
+  header "Skillz-Swift.h"
+  requires objc
+}
