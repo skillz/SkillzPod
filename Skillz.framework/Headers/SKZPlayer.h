@@ -21,6 +21,16 @@ __attribute__ ((visibility("default")))
 @property (readonly, nonnull) NSString *id;
 
 /**
+ * Player's id for the match
+ */
+@property (readonly, nullable) NSString *playerMatchId;
+
+/**
+ * Flag for if the player is the current player
+ */
+@property (readonly) bool isCurrentPlayer;
+
+/**
  * Player's profile picture (or avatar) URL
  */
 @property (readonly, nullable) NSString *avatarURL;
@@ -34,5 +44,14 @@ __attribute__ ((visibility("default")))
  *  URL for the flag for the player
  */
 @property (readonly, nullable) NSString *flagURL;
+
+/**
+ *  Flag for if the player is a new paying user in this game
+ *  If true, the player made their first ever deposit with Skillz in any game, and then played their first pro tournament in this game.
+ */
+@property (readonly) bool newPayingUser;
+
+//remove this after testing
+@property (readonly) bool skillzPlayerAlwaysTrue;
 
 @end
