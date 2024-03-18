@@ -1,2 +1,2 @@
-[[:space:]]*.framework filter=lfs diff=lfs merge=lfs -text
+[[:space:]]*.framework/Skillz filter=lfs diff=lfs merge=lfs -text
 *.framework/Skillz filter=lfs diff=lfs merge=lfs -text
