@@ -1,347 +1,372 @@
 {
-  "start":"skillz",
-  "sheetStyles":{
-    "viewPrimaryColor":{
-      "backgroundColor":"rgba(24, 27, 37, .90)"
+  "start": "skillz",
+  "sheetStyles": {
+    "viewPrimaryColor": {
+      "backgroundColor": "#2B2F4E"
     },
-    "viewSecondaryColor":{
-      "backgroundColor":"rgba(255,255,255,.95)"
+    "viewSecondaryColor": {
+      "backgroundColor": "rgba(255,255,255,.95)"
     },
-    "viewTertiaryColor":{
-      "backgroundColor":"rgba(255,255,255,.9)"
+    "viewTertiaryColor": {
+      "backgroundColor": "rgba(255,255,255,.9)"
     },
-    "viewHighlightColor":{
-      "backgroundColor":"rgba(144, 183, 237, .7)"
+    "viewHighlightColor": {
+      "backgroundColor": "rgba(144, 183, 237, .7)"
     },
-    "statusBarViewBackgroundColor":{
-      "backgroundColor":"#F9F9F9"
+    "statusBarViewBackgroundColor": {
+      "backgroundColor": "#F9F9F9"
     },
-    "viewDividerPrimaryColor":{
-      "backgroundColor":"#2D3345"
+    "viewDividerPrimaryColor": {
+      "backgroundColor": "rgba(255, 255, 255, .15)"
     },
-    "viewDividerColorTwo":{
-      "backgroundColor":"#bfc0c1"
+    "viewDividerColorTwo": {
+      "backgroundColor": "#bfc0c1"
     },
-    "cellBackgroundColor":{
-      "backgroundColor":"rgba(255,255,255,.95)"
+    "cellBackgroundColor": {
+      "backgroundColor": "rgba(255,255,255,.95)"
     },
-    "cellAlternateBackgroundColor":{
-      "backgroundColor":"#f6f6f6"
+    "cellAlternateBackgroundColor": {
+      "backgroundColor": "#f6f6f6"
     },
-    "playerActivityIndicatorColor":{
-      "backgroundColor":"#6AC141"
+    "playerActivityIndicatorColor": {
+      "backgroundColor": "#6AC141"
     },
-    "progressBarColor":{
-      "backgroundColor":"#3f608f"
+    "progressBarColor": {
+      "backgroundColor": "#3f608f"
     },
-    "viewCornerRadiusPrimary":{
-      "borderRadius":5
+    "viewCornerRadiusPrimary": {
+      "borderRadius": 5
     },
-    "viewCornerRadiusSecondary":{
-      "borderRadius":4
+    "viewCornerRadiusSecondary": {
+      "borderRadius": 4
     },
-    "viewCornerRadiusTertiary":{
-      "borderRadius":2
+    "viewCornerRadiusTertiary": {
+      "borderRadius": 2
     },
-    "viewBorderWidthPrimary":{
-      "borderWidth":3
+    "viewBorderWidthPrimary": {
+      "borderWidth": 3
     },
-    "viewBorderWidthSecondary":{
-      "borderWidth":1.5
+    "viewBorderWidthSecondary": {
+      "borderWidth": 1.5
     },
-    "viewBorderWidthTertiary":{
-      "borderWidth":1
+    "viewBorderWidthTertiary": {
+      "borderWidth": 1
     },
-    "viewBoxShadowPrimary":{
-      "shadowColor":"#000000",
-      "shadowOffset":{
-        "width":0,
-        "height":1
+    "viewBoxShadowPrimary": {
+      "shadowColor": "#000000",
+      "shadowOffset": {
+        "width": 0,
+        "height": 1
       },
-      "shadowRadius":1,
-      "shadowOpacity":0.4
+      "shadowRadius": 1,
+      "shadowOpacity": 0.4
     },
-    "fontPrimary":{
-      "fontFamily":"HelveticaNeue-Light"
+    "fontPrimary": {
+      "fontFamily": "HelveticaNeue-Light"
     },
-    "fontPrimaryItalic":{
-      "fontFamily":"HelveticaNeue-LightItalic"
+    "fontPrimaryItalic": {
+      "fontFamily": "HelveticaNeue-LightItalic"
     },
-    "fontSecondary":{
-      "fontFamily":"HelveticaNeue-CondensedBlack"
+    "fontSecondary": {
+      "fontFamily": "HelveticaNeue-CondensedBlack"
     },
-    "fontRegular":{
-      "fontFamily":"HelveticaNeue"
+    "fontRegular": {
+      "fontFamily": "HelveticaNeue"
     },
-    "fontMedium":{
-      "fontFamily":"HelveticaNeue-Medium"
+    "fontMedium": {
+      "fontFamily": "HelveticaNeue-Medium"
     },
-    "fontBold":{
-      "fontFamily":"HelveticaNeue-Bold"
+    "fontBold": {
+      "fontFamily": "HelveticaNeue-Bold"
     },
-    "fontBoldItalic":{
-      "fontFamily":"HelveticaNeue-BoldItalic"
+    "fontBoldItalic": {
+      "fontFamily": "HelveticaNeue-BoldItalic"
     },
-    "fontDigital":{
-      "fontFamily":"Digital-7"
+    "fontDigital": {
+      "fontFamily": "Digital-7"
     },
-    "textColorPrimary":{
-      "color":"#FFFFFF"
+    "textColorPrimary": {
+      "color": "#FFFFFF"
     },
-    "textColorSecondary":{
-      "color":"#333333"
+    "textColorSecondary": {
+      "color": "#4A4A4A"
     },
-    "textColorTertiary":{
-      "color":"#999999"
+    "textColorTertiary": {
+      "color": "#999999"
     },
-    "textColorFour":{
-      "color":"#7a8fac"
+    "textColorFour": {
+      "color": "#7a8fac"
     },
-    "textColorError":{
-      "color":"#bc2131"
+    "textColorError": {
+      "color": "#bc2131"
     },
-    "textColorCash":{
-      "color":"#3ba038"
+    "textColorCash": {
+      "color": "#79b23f"
     },
-    "textColorZ":{
-      "color":"#387aa4"
+    "textColorZ": {
+      "color": "#4990e2"
     },
-    "textColorTicketz":{
-      "color":"#FD705D"
+    "textColorTicketz": {
+      "color": "#e26954"
     },
-    "textColorLink":{
-      "color":"#FFFFFF"
+    "textColorLink": {
+      "color": "#FFFFFF"
     },
-    "textColorMedals":{
-      "color":"#317296"
+    "textColorMedals": {
+      "color": "#317296"
     },
-    "textColorDepositTile":{
-      "color":"#FFFFFF"
+    "textColorDepositTile": {
+      "color": "#FFFFFF"
     },
-    "textColorMatchSelectPrize":{
-      "color":"#FFFFFF"
+    "textColorMatchSelectPrize": {
+      "color": "#FFFFFF"
     },
-    "textColorSideMenu":{
-      "color":"#FFFFFF"
+    "textColorSideMenu": {
+      "color": "#FFFFFF"
     },
-    "textShadowOne":{
-      "shadowColor":"#000000",
-      "shadowOffset":{
-        "width":0,
-        "height":1
+    "textShadowOne": {
+      "shadowColor": "#000000",
+      "shadowOffset": {
+        "width": 0,
+        "height": 1
       },
-      "shadowRadius":4,
-      "shadowOpacity":0.4
+      "shadowRadius": 0,
+      "shadowOpacity": 0.4
     },
-    "textShadowTwo":{
-      "shadowColor":"#000000",
-      "shadowOffset":{
-        "width":0,
-        "height":1
+    "textShadowTwo": {
+      "shadowColor": "#000000",
+      "shadowOffset": {
+        "width": 0,
+        "height": 1
       },
-      "shadowRadius":1,
-      "shadowOpacity":0.3
+      "shadowRadius": 0,
+      "shadowOpacity": 0.3
     },
-    "textShadowThree":{
-      "shadowColor":"#000000",
-      "shadowOffset":{
-        "width":0,
-        "height":1
+    "textShadowThree": {
+      "shadowColor": "#000000",
+      "shadowOffset": {
+        "width": 0,
+        "height": 1
       },
-      "shadowRadius":1,
-      "shadowOpacity":0.2
+      "shadowRadius": 0,
+      "shadowOpacity": 0.2
     },
-
-    "fontSizeExtraLarge":{
-      "fontSize":85
+    "primaryRibbonTextColor": {
+      "color": "#ffffff"
     },
-    "fontSizeVeryLarge":{
-      "fontSize":58
+    "fontSizeExtraLarge": {
+      "fontSize": 85
     },
-    "fontSizeLarge":{
-      "fontSize":42
+    "fontSizeVeryLarge": {
+      "fontSize": 58
     },
-    "fontSizeMedium":{
-      "fontSize":35
+    "fontSizeLarge": {
+      "fontSize": 42
     },
-    "fontSizeH1":{
-      "fontSize":30
+    "fontSizeMedium": {
+      "fontSize": 35
     },
-    "fontSizeH2":{
-      "fontSize":22
+    "fontSizeH1": {
+      "fontSize": 30
     },
-    "fontSizeH3":{
-      "fontSize":18
+    "fontSizeH2": {
+      "fontSize": 22
     },
-    "fontSizeH4":{
-      "fontSize":15
+    "fontSizeH3": {
+      "fontSize": 18
     },
-    "fontSizeH5":{
-      "fontSize":12
+    "fontSizeH4": {
+      "fontSize": 15
     },
-    "fontSizeH6":{
-      "fontSize":8
+    "fontSizeH5": {
+      "fontSize": 12
     },
-    "btnTextColorOne":{
-      "color":"#ffffff"
+    "fontSizeH6": {
+      "fontSize": 8
     },
-    "btnTextColorTwo":{
-      "color":"#ffffff"
+    "btnTextColorOne": {
+      "color": "#ffffff"
     },
-    "btnTextColorThree":{
-      "color":"#ffffff"
+    "btnTextColorTwo": {
+      "color": "#ffffff"
     },
-    "featuredMatchBarColor":{
-      "backgroundColor":"#f48e30"
+    "btnTextColorThree": {
+      "color": "#ffffff"
     },
-    "tabHighlightColor":{
-      "color":"#387aa4"
+    "featuredMatchBarColor": {
+      "backgroundColor": "#f48e30"
     },
-    "checkMarkColor":{
-      "backgroundColor":"#4fa93f"
+    "tabHighlightColor": {
+      "color": "#4990e2"
     },
-    "highlightTurnBasedWinColor":{
-      "color":"#f9eb0d"
+    "checkMarkColor": {
+      "backgroundColor": "#4fa93f"
     },
-    "giftBoxHighlightColor":{
-      "color":"#395b79"
+    "highlightTurnBasedWinColor": {
+      "color": "#f9eb0d"
+    },
+    "giftBoxHighlightColor": {
+      "color": "#395b79"
+    },
+    "excitingBannerTextColor": {
+      "color": "#ffffff"
     }
   },
-  "gradients":{
-    "prizeViewLiveEventGradient":[
+  "gradients": {
+    "prizeViewLiveEventGradient": [
       "#6ac141",
       "#35a1a2"
     ],
-    "prizeViewCashGradient":[
+    "prizeViewCashGradient": [
       "#6ac141",
       "#36923e"
     ],
-    "prizeViewZGradient":[
+    "prizeViewZGradient": [
       "#387aa4",
       "#387aa4"
     ],
-    "bracketPrizeViewLiveEventGradient":[
+    "prizeViewTicketzGradient": [
+      "#f6604d",
+      "#e05745"
+    ],
+    "bracketPrizeViewLiveEventGradient": [
       "#6ac141",
       "#35a1a2"
     ],
-    "bracketPrizeViewCashGradient":[
+    "bracketPrizeViewCashGradient": [
       "#6ac141",
       "#36923e"
     ],
-    "bracketPrizeViewZGradient":[
+    "bracketPrizeViewZGradient": [
       "#387aa4",
       "#387aa4"
     ],
-    "btnGradientOne":[
+    "btnGradientOne": [
       "#ff6702",
       "#f89c3d"
     ],
-    "btnGradientTwo":[
+    "btnGradientTwo": [
       "#7a8fac",
       "#7a8fac"
     ],
-    "btnGradientThree":[
+    "btnGradientThree": [
       "#3C4358",
       "#3C4358"
     ],
-    "btnGradientStore":[
+    "btnGradientStore": [
       "#4fb031",
       "#29782f"
     ],
-    "playButtonGradient":[
+    "playButtonGradient": [
       "#d76604",
       "#fd993d"
     ],
-    "textTicketzGradient":[
-      "#f87861",
-      "#e1654d"
+    "textTicketzGradient": [
+      "#e26954",
+      "#e26954"
     ],
-    "textCashGradient":[
-      "#6ac141",
-      "#3da142"
+    "textCashGradient": [
+      "#79b23f",
+      "#79b23f"
     ],
-    "textZGradient":[
-      "#4686ad",
-      "#2f6d98"
+    "textZGradient": [
+      "#4990e2",
+      "#4990e2"
     ],
-    "textNeutralGradient":[
-      "#b6b6b6",
-      "#6c6c6c"
+    "textNeutralGradient": [
+      "#FFFFFF",
+      "#FFFFFF"
     ],
-    "overlayEntryContainerGradient":[
+    "overlayEntryContainerGradient": [
       "rgba(114,127,144,.95)",
       "rgba(141,154,168,.95)"
     ],
-    "backgroundViewGradient":[
-      "#4d5b75",
-      "#96a8c8",
-      "#3f476b"
+    "backgroundViewGradient": [
+      "#3F476B",
+      "#6B80A4"
     ],
-    "sideMenuHighlightedGradient":[
+    "sideMenuHighlightedGradient": [
       "#2a6994",
       "#63afd6"
     ],
-    "cashIconGradient":[
+    "cashIconGradient": [
       "#e9ab24",
       "#ffe6c5",
       "#fbde5f"
     ],
-    "practiceCurrencyIconGradient":[
+    "practiceCurrencyIconGradient": [
       "#5d7696",
       "#6da5ce"
     ],
-    "profileIconGradient":[
+    "profileIconGradient": [
       "#6ea8d2",
       "#5c7291"
     ],
-    "progressViewDarkGradient":[
+    "progressViewDarkGradient": [
       "#343443",
       "#484858"
     ],
-    "navigationBarGradient":[
+    "navigationBarGradient": [
       "#000000",
       "#262a38"
     ],
-    "selectedCellBackgroundGradient":[
+    "selectedCellBackgroundGradient": [
       "#0099c7",
       "#005174"
     ],
-    "pointsPrizeGradient":[
+    "pointsPrizeGradient": [
       "#4581b1",
       "#5592c1",
       "#629dca"
     ],
-    "tauntImageGradient":[
+    "tauntImageGradient": [
       "#4686ad",
       "#2f6d98"
+    ],
+    "excitingBannerGradient": [
+      "#2e2dff",
+      "#fc0132"
+    ],
+    "excitingHighlightGradient": [
+      "#3e00cd",
+      "#b709dd"
+    ],
+    "primaryRibbonGradient": [
+      "#350c95",
+      "#4b0cdf",
+      "#3d03c7",
+      "#4b0cdf",
+      "#350c95"
     ]
   },
-  "enums":{
-    "sidePanelBlurStyle":1,
-    "statusBarContentStyle":0
+  "enums": {
+    "sidePanelBlurStyle": 1,
+    "statusBarContentStyle": 0
   },
-  "opacityLevels":{
-    "opacityPrimary":0.9,
-    "opacitySecondary":0.8,
-    "opacityTertiary":0.7,
-    "opacityNone":1
+  "opacityLevels": {
+    "opacityPrimary": 0.9,
+    "opacitySecondary": 0.8,
+    "opacityTertiary": 0.7,
+    "opacityNone": 1
   },
-  "currencyValues":{
-    "practiceCurrencyString":"ⓩ",
-    "practiceCurrencySimpleIconURI":"ic_z_black_med_SKZ@2x.png",
-    "practiceCurrencyFullIconLargeURI":"ic_z_white_large_SKZ@2x.png"
+  "currencyValues": {
+    "practiceCurrencyString": "ⓩ",
+    "practiceCurrencySimpleIconURI": "ic_z_black_med_SKZ@2x.png",
+    "practiceCurrencyFullIconLargeURI": "ic_practice_icon_large.png"
   },
-  "images":{
-    "backgroundImage":"dark_bg.jpg",
-    "prizeViewZImage":null,
-    "prizeViewCashImage":null,
-    "prizeViewLiveEventImage":null,
-    "bracketPrizeViewZImage":null,
-    "bracketPrizeViewCashImage":null,
-    "bracketPrizeViewLiveEventImage":null
+  "images": {
+    "backgroundImage": null,
+    "prizeViewZImage": null,
+    "prizeViewCashImage": null,
+    "prizeViewLiveEventImage": null,
+    "prizeViewTicketzImage": null,
+    "bracketPrizeViewZImage": null,
+    "bracketPrizeViewCashImage": null,
+    "bracketPrizeViewLiveEventImage": null,
+    "excitingBannerImage": null
   },
-  "version":{
-    "SkillzOTAVersion":null
+  "version": {
+    "SkillzOTAVersion": null
   },
-  "end":"skillz"
+  "end": "skillz"
 }
