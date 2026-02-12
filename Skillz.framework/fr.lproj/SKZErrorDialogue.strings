@@ -7,3 +7,12 @@
 /* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "zFB-If-RPc"; */
 "zFB-If-RPc.normalTitle" = "ANNULER";
 
+/* Class = "UIButton"; normalTitle = "PRACTICE OFFLINE"; ObjectID = "iiD-u0-WdP"; */
+"iiD-u0-WdP.normalTitle" = "PRATIQUE OFFLINE";
+
+/* Class = "UIButton"; normalTitle = "RETRY"; ObjectID = "eRg-1q-yBf"; */
+"eRg-1q-yBf.normalTitle" = "RÉESSAYER";
+
+/* Class = "UILabel"; text = "Offline Mode"; ObjectID = "fn1-Yb-hPP"; */
+"fn1-Yb-hPP.text" = "Mode hors-ligne";
+
