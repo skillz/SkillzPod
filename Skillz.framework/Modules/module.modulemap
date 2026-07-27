@@ -1,6 +1,11 @@
 framework module Skillz {
   umbrella header "Skillz.h"
-
   export *
+
   module * { export * }
+}
+
+module Skillz.Swift {
+  header "Skillz-Swift.h"
+  requires objc
 }
